@@ -5,22 +5,36 @@ on:
     branches: 
       - master
       - test
+  workflow_dispatch:
   pull_request:
     branches: 
       - master
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
+          ruby-version: '3.2'
           bundler-cache: true
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
-          node-version: 16
+          node-version: '20'
+          cache: npm
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
       - name: Npm
         run: |
           npm install
@@ -31,14 +45,10 @@ jobs:
           rm assets/css/_base.css
       - name: Build Site
         run: |
-          bundle exec jekyll build --trace --profile
+          bundle exec jekyll build --trace --profile --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
-          JEKYLL_ENV: aliyun
-      - uses: actions/upload-artifact@v3
-        with:
-          name: html
-          path: _site
-          retention-days: 1
+          JEKYLL_ENV: production
+      - uses: actions/upload-pages-artifact@v3
       - name: Update Algolia index
         run: |
           bundle exec jekyll algolia push
@@ -51,26 +61,10 @@ jobs:
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
     needs: build
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/download-artifact@v3
-        with:
-          name: html
-          path: _site
-      - name: Cache Ossutil
-        id: cache-ossutil
-        uses: actions/cache@v3
-        with:
-          path: ossutil64
-          key: ${{ runner.os }}-ossutil64-1.7.14
-        continue-on-error: true
-      - name: Get Ossutil
-        if: steps.cache-ossutil.outputs.cache-hit != 'true'
-        run: |
-          wget -q http://gosspublic.alicdn.com/ossutil/1.7.14/ossutil64
-      - name: Config Ossutil
-        run: |
-          chmod +x ossutil64
-          ./ossutil64 config -e ${{ secrets.ENDPOINT }} -i ${{ secrets.ACCESS_KEY_ID }} -k ${{ secrets.ACCESS_KEY_SECRET }} -L CH
-      - name: Publish Site
-        run: |
-          ./ossutil64 cp -r -f -u _site/ oss://xzonn-ninterviews/ --jobs 1000 --retry-times 3 --loglevel info
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

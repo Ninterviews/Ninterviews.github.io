@@ -87,3 +87,4 @@ sass:
     - css
   sourcemap: always
   style: compressed
+repository: Ninterviews/Ninterviews.github.io
