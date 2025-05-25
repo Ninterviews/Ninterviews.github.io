@@ -6,9 +6,9 @@ interviewees:
 - 神谷英树
 - 中尾裕治
 - 宫田祐辅
-last_modified_at: 2022-11-12 16:24
+last_modified_at: 2025-05-25 19:10
 links: 
-- - https://www.nintendo.co.jp/switch/axb7a/
+- - https://www.nintendo.com/jp/switch/axb7a/
   - 《蓓优妮塔3》官网
 - - https://gouhuo.qq.com/content/detail/0_20221028173946_nbKZtSw6j
   - 《猎天使魔女 3》主创访谈：惊喜连连的次世代「魔女」

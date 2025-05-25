@@ -8,16 +8,16 @@ interviewees:
 - 井上精太
 - 佐藤慎太郎
 - 峰岸透
-last_modified_at: 2023-10-12 18:12
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/switch/av5ja/
+- - https://www.nintendo.com/jp/switch/av5ja/
   - 《斯普拉遁3》官网
 references: 
-- - https://www.nintendo.com.hk/interview/av5ja/
+- - https://www.nintendo.com/hk/interview/av5ja/
   - "開發人員訪談 斯普拉遁3"
 sources: 
-- - https://www.nintendo.co.jp/interview/av5ja/
+- - https://www.nintendo.com/jp/interview/av5ja/
   - "開発者に訊きました : スプラトゥーン3"
 title: 开发人员访谈：斯普拉遁3
 ---
@@ -52,7 +52,7 @@ title: 开发人员访谈：斯普拉遁3
 
 另外也能体验线上对战、参加活动，我认为这应该也能说是一款能即时随着玩家动向一起成长的游戏吧。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter01-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter01-01.png" width="640" height="360" %}
 
 ##### 谢谢。您说这是能随着玩家的动向一起成长的游戏，是什么意思呢？
 {: .question }
@@ -60,7 +60,7 @@ title: 开发人员访谈：斯普拉遁3
 ##### 井上
 举例来说，本作的舞台是在混沌的城镇──“蛮颓镇”，那是个挤满了各种时代的建筑物，人口相当密集的地方。我们会像这样决定“混沌”为本作的主题，是因为前作《斯普拉遁2》实施的线上对战活动“祭典”，在最终决战“混沌 VS 秩序”中，由“混沌”阵营获取了胜利。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter01-02.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter01-02.jpg" width="640" height="360" %}
 
 ※游戏语言设置为日文时的画面
 
@@ -93,7 +93,7 @@ title: 开发人员访谈：斯普拉遁3
 
 比方说，这是一名叫刺冠的角色，他在《斯普拉遁2》到《斯普拉遁3》这5年内就长了这么高。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter01-03.jpg" width="640" height="328" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter01-03.jpg" width="640" height="328" %}
 
 ##### 野上
 我们希望让玩家感受到，自己过了多少时间，游戏里的时间也一样在流逝。从这个意义上来说，这款游戏也许可以说是从发售起，由玩家与开发人员一起走过了七年的游戏。
@@ -101,9 +101,9 @@ title: 开发人员访谈：斯普拉遁3
 ##### 井上
 在设计上也有意识到游戏处于现代，以街头文化为基础来描写世界。角色们的穿搭也是以T恤和运动鞋为始的街头时尚。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter01-04.jpg" width="640" height="375" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter01-04.jpg" width="640" height="375" %}
 
-##### 原来如此。在“斯普拉遁”世界的描写方式上，有着时间与现实世界等速流逝的背景啊。话说在听见T恤后想起了一件事，在第1作“[社长提问](https://www.nintendo.co.jp/wiiu/interview/agmj/vol1/index.html)”时，开发人员都穿着T恤的样子很令人印象深刻。那是由谁提出的想法呢？
+##### 原来如此。在“斯普拉遁”世界的描写方式上，有着时间与现实世界等速流逝的背景啊。话说在听见T恤后想起了一件事，在第1作“[社长提问](https://www.nintendo.com/jp/wiiu/interview/agmj/vol1/index.html)”时，开发人员都穿着T恤的样子很令人印象深刻。那是由谁提出的想法呢？
 {: .question }
 
 ##### 佐藤
@@ -124,9 +124,9 @@ title: 开发人员访谈：斯普拉遁3
 ##### 野上
 搞不好今天也同样的竭尽全力……（笑）
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter01-05.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter01-05.png" width="640" height="360" %}
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter01-06.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter01-06.png" width="640" height="360" %}
 
 ##### 各位有充分地作好准备呢。（笑）这副打扮才有在和“斯普拉遁”开发人员谈话的感觉啊。
 {: .question }
@@ -142,7 +142,7 @@ title: 开发人员访谈：斯普拉遁3
 
 设计上为了能贴近现代风格，所以我们选择街头文化为主题。而有许多的街头文化也是从所谓的非主流文化中派生而来。也就是说，包含了像是反抗流行的元素。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter01-07.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter01-07.png" width="640" height="360" %}
 
 也因为这样，在第1作中为了能一目了然，我们描绘出活泼调皮的街头文化世界。而第2作中为了对抗第1作中活泼调皮的世界，描绘出一个流行起都市时尚风格的世界。第3作的世界则反而又对抗起第2作，想表现出“精粹事物并不鱿型，乱糟糟的才是鱿型风格”这样的价值观。
 
@@ -162,7 +162,7 @@ title: 开发人员访谈：斯普拉遁3
 
 讨论时我们提到，希望这次的舞台“蛮颓镇”与过去两款作品中的场地相比，是处于远一点的县市，甚至连气候都大不相同。为了在开发游戏时可以掌握地理位置的距离感，我们还准备了这种地图数据。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter01-08.png" width="640" height="383" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter01-08.png" width="640" height="383" %}
 
 ##### 佐藤
 “蛮颓镇”与“尚兴市”、“尚兴广场”的距离，大约是一条电车路线勉强能到的地方，从东京来看大约在热海那边。开车的话，大概是要开几个小时高速公路才能到的县市。以美国来说，也许是洛杉矶到拉斯维加斯的感觉吧。
@@ -170,14 +170,14 @@ title: 开发人员访谈：斯普拉遁3
 地理位置虽然相距甚远，但在第2作到第3作的五年内开通了高速公路，因此能轻松来往两地。
 
 ##### 井上
-[随着跨海大桥完工，](https://www.nintendo.com.hk/interview/av5ja/photo/02.jpg){: .figure-link }来往市中心变得更容易，蛮颓地区也迅速发展起来。
+[随着跨海大桥完工，](https://www.nintendo.com/hk/interview/av5ja/photo/02.jpg){: .figure-link }来往市中心变得更容易，蛮颓地区也迅速发展起来。
 
 ##### 佐藤
 作为游戏至今的舞台，尚兴地区是个年轻又时髦的地方，而“蛮颓镇”所处的蛮颓地区更广阔，也有许多自然景观。这种远离大都市的地方，在最终祭典后变得很受欢迎，于是快速地发展了起来。
 
-比如说有个叫做，[温泉花大峡谷](https://www.nintendo.com.hk/interview/av5ja/photo/03.jpg){: .figure-link }的地方便是位处国家公园内的场地，有许多形状怪异的石柱耸立其中。如果用新动作鱿鱼喷射从空中俯瞰，景色相当壮观。
+比如说有个叫做，[温泉花大峡谷](https://www.nintendo.com/hk/interview/av5ja/photo/03.jpg){: .figure-link }的地方便是位处国家公园内的场地，有许多形状怪异的石柱耸立其中。如果用新动作鱿鱼喷射从空中俯瞰，景色相当壮观。
 
-另外“[竹蛏疏洪道](https://www.nintendo.com.hk/interview/av5ja/photo/04.jpg){: .figure-link }”这个地方曾是个有在运作的巨大疏洪道，但经过长年的放置，已经变得老旧……最近才改造成战斗场地，掀起了一股流行。
+另外“[竹蛏疏洪道](https://www.nintendo.com/hk/interview/av5ja/photo/04.jpg){: .figure-link }”这个地方曾是个有在运作的巨大疏洪道，但经过长年的放置，已经变得老旧……最近才改造成战斗场地，掀起了一股流行。
 
 ##### 原来如此。与我们世界经过的时间一起，“斯普拉遁”的世界也会跟着改变。能够理解您说“斯普拉遁”世界的时间是现代这件事了。
 {: .question }
@@ -201,7 +201,7 @@ title: 开发人员访谈：斯普拉遁3
 
 顺带一提，也有专辑封面喔。例如这个是本作主要乐团“C-Side”的专辑封面。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter01-09.jpg" width="640" height="583" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter01-09.jpg" width="640" height="583" %}
 
 ##### 就是这些细节上的巧思呈现出了鱿鱼世界的真实感吧。
 {: .question }
@@ -222,7 +222,7 @@ title: 开发人员访谈：斯普拉遁3
 ##### 峰岸
 也许就是因为有这些详细的设置，即使不在游戏中以角色的形式登场，这些乐团的存在与角色定位也能让玩家乐在其中。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter01-10.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter01-10.png" width="640" height="360" %}
 
 ##### 原来如此。除了将玩家游玩的结果反映在游戏上，在表面上无法看见的地方也都有详细的设置。借此希望玩家对鱿鱼世界能有更丰富的想像，并乐在其中…‥野上先生所说的“与玩家一路走来”，指的就是这个意思吧。
 {: .question }
@@ -232,13 +232,13 @@ title: 开发人员访谈：斯普拉遁3
 {: .question }
 
 ##### 井上
-武器的构思是源自于我们小时候所玩的东西。比方说像“[遮阳防空伞](https://www.nintendo.com.hk/interview/av5ja/movie/01.mp4){: .video-link }”，灵感就是来自于小时候拿雨伞战斗的游戏。
+武器的构思是源自于我们小时候所玩的东西。比方说像“[遮阳防空伞](https://www.nintendo.com/hk/interview/av5ja/movie/01.mp4){: .video-link }”，灵感就是来自于小时候拿雨伞战斗的游戏。
 
-还有文具也是很好的例子。在我们小学时有些同学会拿很精致又有高科技感的铅笔盒，我很羡慕他们，而这也是设计“[三重龙卷风](https://www.nintendo.com.hk/interview/av5ja/movie/02.mp4){: .video-link }”的灵感。
+还有文具也是很好的例子。在我们小学时有些同学会拿很精致又有高科技感的铅笔盒，我很羡慕他们，而这也是设计“[三重龙卷风](https://www.nintendo.com/hk/interview/av5ja/movie/02.mp4){: .video-link }”的灵感。
 
-当然还有一些是长大后的我们单纯觉得“要是有这种武器一定很酷”而设计的。以这次的武器来说，有一种叫“[猎鱼弓](https://www.nintendo.com.hk/interview/av5ja/movie/03.mp4){: .video-link }”的武器，是以钓竿为灵感。我们将它设计成像武器，但外观又没有枪炮的感觉。
+当然还有一些是长大后的我们单纯觉得“要是有这种武器一定很酷”而设计的。以这次的武器来说，有一种叫“[猎鱼弓](https://www.nintendo.com/hk/interview/av5ja/movie/03.mp4){: .video-link }”的武器，是以钓竿为灵感。我们将它设计成像武器，但外观又没有枪炮的感觉。
 
-还有一种叫“刮水刀”的新型武器，其中“[工作刮水刀](https://www.nintendo.com.hk/interview/av5ja/movie/04.mp4){: .video-link }”的设计灵感就是来自进入任天堂工作时配发的日期章。
+还有一种叫“刮水刀”的新型武器，其中“[工作刮水刀](https://www.nintendo.com/hk/interview/av5ja/movie/04.mp4){: .video-link }”的设计灵感就是来自进入任天堂工作时配发的日期章。
 
 ##### 野上
 而对于各种武器，我们当然也都有考虑它们在鱿鱼世界诞生的背景。武器是由电子产品和画具等鱿鱼世界的各种厂商参与制作而成的，而随着占地对战文化日渐壮大，在进入《斯普拉遁3》的时代之后，终于有钓具厂商跨足了占地对战业界……类似这样的设置（笑）。
@@ -249,11 +249,11 @@ title: 开发人员访谈：斯普拉遁3
 {: .question }
 
 ##### 井上
-是指本作的新要素“[置物柜](https://www.nintendo.com.hk/interview/av5ja/photo/05.jpg){: .figure-link }”吧。如同野上先生刚才提到的，占地对战是鱿鱼世界的竞技运动，如果提供玩家各自的置物区，让玩家摆放武器和杂货，并且随心所欲地装饰的话，我觉得不仅很贴近现实，也能增添趣味。
+是指本作的新要素“[置物柜](https://www.nintendo.com/hk/interview/av5ja/photo/05.jpg){: .figure-link }”吧。如同野上先生刚才提到的，占地对战是鱿鱼世界的竞技运动，如果提供玩家各自的置物区，让玩家摆放武器和杂货，并且随心所欲地装饰的话，我觉得不仅很贴近现实，也能增添趣味。
 
 此外，回顾自己的高中时代，比起课堂上念书的时光，在置物柜前度过的余暇空档更令我印象深刻。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter02-01.jpg" width="640" height="348" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter02-01.jpg" width="640" height="348" %}
 
 ##### 野上
 置物柜里的东西会自然而然地展现出所有者的个性作风嘛。
@@ -261,7 +261,7 @@ title: 开发人员访谈：斯普拉遁3
 ##### 井上
 没错。像棒球社的就会放球棒，喜欢阅读就会放很多书。我想在鱿鱼世界重现“置物柜能展现个人风格”这一点，于是就让玩家能够随心所欲地摆放在游戏中搜集到的武器和杂货。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter02-02.jpg" width="640" height="448" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter02-02.jpg" width="640" height="448" %}
 
 ##### 佐藤
 有的人会随便乱丢，有的人会仔细整理……想必能反映出玩家的个性吧。
@@ -271,7 +271,7 @@ title: 开发人员访谈：斯普拉遁3
 
 比如说，要是置物柜里放了各种品牌的运动鞋盒，就能推测这个人应该相当喜欢运动鞋吧。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter02-03.png" width="640" height="356" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter02-03.png" width="640" height="356" %}
 
 ##### 佐藤
 甚至还有鱿鱼世界的特摄英雄模型。能够刺激收集癖的东西一应俱全。
@@ -281,7 +281,7 @@ title: 开发人员访谈：斯普拉遁3
 但这次不仅仅是如此而已。游玩时能够搜集战利品，玩家也就会想搜集更多，而不断进行对战……借由这样的形式应该就可以让游玩方法变得更丰富。
 
 ##### 野上
-顺道一提，除了个人置物柜以外，还有其他能够享受搜集乐趣的新要素。举例来说，卡牌游戏“[占地斗士](https://www.nintendo.com.hk/interview/av5ja/photo/06.jpg){: .figure-link }”就是其中之一。
+顺道一提，除了个人置物柜以外，还有其他能够享受搜集乐趣的新要素。举例来说，卡牌游戏“[占地斗士](https://www.nintendo.com/hk/interview/av5ja/photo/06.jpg){: .figure-link }”就是其中之一。
 
 玩家可以透过各种方法来搜集卡片，然后用来进行卡牌游戏。
 
@@ -296,7 +296,7 @@ title: 开发人员访谈：斯普拉遁3
 
 卡牌的图片也是请擅长这类画风的工作人员负责绘制。就我的世代而言，我也比较偏好Q版插图，所以认为卡牌游戏就是要这种画风。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter02-04.jpg" width="640" height="356" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter02-04.jpg" width="640" height="356" %}
 
 ##### 佐藤
 致敬小时候沉迷过的事物相信也能勾起玩家的怀旧情绪吧。
@@ -317,7 +317,7 @@ title: 开发人员访谈：斯普拉遁3
 ##### 峰岸
 其实鱿鱼世界也发生过同样的事情。第1部作品的主要乐团“SquidSquad”虽然在那之后停止活动了，但在本作中，除了其中一人，其他成员又组成了新乐团“FrontRoe”。他们的音乐里能感受到前乐团的精髓，应该会有玩家一听就知道了。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter02-05.jpg" width="640" height="330" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter02-05.jpg" width="640" height="330" %}
 
 ##### 原来如此。有些乐团粉丝关注的不只是他们的音乐，还包括乐团的原点及成员间的关系等周边的事物。
 {: .question }
@@ -376,7 +376,7 @@ title: 开发人员访谈：斯普拉遁3
 ##### 好的，我已经充分理解“斯普拉遁”的世界是创建于什么样的背景之下。非线上对战的地方有提供一些设计可以了解其他玩家“为人”，我觉得这样的尝试格外有意思。接下来想询问大家最关心的线上对战<sup>[※1](#ref-1)</sup>，这部分放进了哪些巧思呢？
 {: .question }
 
-> ※1　线上游玩需要加入“[Nintendo Switch Online](https://www.nintendo.com.hk/hardware/switch/onlineservice/)”(付费)。(台湾地区开始日期待定)
+> ※1　线上游玩需要加入“[Nintendo Switch Online](https://www.nintendo.com/hk/hardware/switch/onlineservice/)”(付费)。(台湾地区开始日期待定)
 > {: #ref-1 }
 
 ##### 佐藤
@@ -388,13 +388,13 @@ title: 开发人员访谈：斯普拉遁3
 ##### 佐藤
 是的。那是与线上对战的对手碰面的地方。大厅这个地方本身在过去作品中也有登场，不过这次投注了许多心力，让玩家在等待对战开始的时候也有好玩的事情可以做。
 
-大厅内是集结了鱿鱼世界最新技术的设施，[玩家可以在这个空间里自由走动](https://www.nintendo.com.hk/interview/av5ja/movie/05.mp4){: .video-link }。其中特别想请玩家尝试看看的就是[试射场](https://www.nintendo.com.hk/interview/av5ja/movie/06.mp4){: .video-link }。顾名思义，在这个地方可以使用手上的武器尝试射击，也能一边练习一边等待对战玩家。
+大厅内是集结了鱿鱼世界最新技术的设施，[玩家可以在这个空间里自由走动](https://www.nintendo.com/hk/interview/av5ja/movie/05.mp4){: .video-link }。其中特别想请玩家尝试看看的就是[试射场](https://www.nintendo.com/hk/interview/av5ja/movie/06.mp4){: .video-link }。顾名思义，在这个地方可以使用手上的武器尝试射击，也能一边练习一边等待对战玩家。
 
 ##### 野上
 进入对战前可以先热身一下。
 
 ##### 佐藤
-此外，在大厅内等待会合的朋友和偶然相遇的玩家会以“[分身](https://www.nintendo.com.hk/interview/av5ja/movie/07.mp4){: .video-link }”之姿映照出立体视频。能透过视觉知道对方在做什么。
+此外，在大厅内等待会合的朋友和偶然相遇的玩家会以“[分身](https://www.nintendo.com/hk/interview/av5ja/movie/07.mp4){: .video-link }”之姿映照出立体视频。能透过视觉知道对方在做什么。
 
 ##### 意思是当其他玩家正在等待会合的时候，会即时映照出对方当下的举动吗？
 {: .question }
@@ -406,11 +406,11 @@ title: 开发人员访谈：斯普拉遁3
 {: .question }
 
 ##### 佐藤
-没错。第1部作品《斯普拉遁》有个机制，各玩家如果投稿自己的手绘等内容，就能与Wii U主机功能的[“Miiverse”](https://www.nintendo.com.hk/interview/av5ja/photo/08.jpg){: .figure-link }<sup>[※2](#ref-2)</sup>连动，并显示在游戏内，可以从那里阅读对战玩家的消息。大家都认为这部分跟街头文化的涂鸦很类似。和鱿鱼的世界之间是具有亲和性的。
+没错。第1部作品《斯普拉遁》有个机制，各玩家如果投稿自己的手绘等内容，就能与Wii U主机功能的[“Miiverse”](https://www.nintendo.com/hk/interview/av5ja/photo/08.jpg){: .figure-link }<sup>[※2](#ref-2)</sup>连动，并显示在游戏内，可以从那里阅读对战玩家的消息。大家都认为这部分跟街头文化的涂鸦很类似。和鱿鱼的世界之间是具有亲和性的。
 
-而在硬件变成NintendoSwitch，没有Miiverse功能之后，《斯普拉遁2》中依然可以去邮筒[投稿手绘消息](https://www.nintendo.com.hk/interview/av5ja/photo/09.jpg){: .figure-link }，这是软件独自新增的功能。
+而在硬件变成NintendoSwitch，没有Miiverse功能之后，《斯普拉遁2》中依然可以去邮筒[投稿手绘消息](https://www.nintendo.com/hk/interview/av5ja/photo/09.jpg){: .figure-link }，这是软件独自新增的功能。
 
-《斯普拉遁3》也一样，[可以透过邮筒投稿手绘插图](https://www.nintendo.com.hk/interview/av5ja/photo/10.jpg){: .figure-link }。
+《斯普拉遁3》也一样，[可以透过邮筒投稿手绘插图](https://www.nintendo.com/hk/interview/av5ja/photo/10.jpg){: .figure-link }。
 
 > ※2　搭载于Wii U的网络服务，这个社群服务让游玩同一款游戏的玩家可以透过插图与文字表示共鸣及交流。已于2017年11月8日结束服务。
 > {: #ref-2 }
@@ -429,11 +429,11 @@ title: 开发人员访谈：斯普拉遁3
 {: .question }
 
 ##### 佐藤
-是的。除此之外，大厅还有“[通知](https://www.nintendo.com.hk/interview/av5ja/photo/11.jpg){: .figure-link }”功能。朋友开始对战的时候会收到“通知”。收到通知后，除了可以在游戏内的通知列表看见之外，由于朋友的分身会出现在大厅，所以也能跟分身对话进行确认。
+是的。除此之外，大厅还有“[通知](https://www.nintendo.com/hk/interview/av5ja/photo/11.jpg){: .figure-link }”功能。朋友开始对战的时候会收到“通知”。收到通知后，除了可以在游戏内的通知列表看见之外，由于朋友的分身会出现在大厅，所以也能跟分身对话进行确认。
 
 还可以从“开始对战了”这则通知立刻乱入该场战斗。与朋友线上同乐变得更方便。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter03-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter03-01.png" width="640" height="360" %}
 
 ##### 也更容易邀请朋友或受朋友邀请呢。
 {: .question }
@@ -482,7 +482,7 @@ title: 开发人员访谈：斯普拉遁3
 ##### 井上
 是的。制作上是以本作舞台蛮颓镇的传统节庆为基础，再融合现代元素，所以会有山车在镇上游行，并且也会营造出演唱会的感觉。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter03-02.jpg" width="640" height="395" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter03-02.jpg" width="640" height="395" %}
 
 ##### 野上
 有些地区不是会投注非常多心血筹备节庆活动吗？日本的话，比如岸和田的山车祭<sup>[※5](#ref-5)</sup>和京都的祇园祭<sup>[※6](#ref-6)</sup>等。国外的话，我认为里约狂欢节是很好的例子。蛮颓镇这个地区一样是投注非常多心血在筹备节庆活动。
@@ -508,7 +508,7 @@ title: 开发人员访谈：斯普拉遁3
 ##### 井上
 顺带一提，蛮颓镇的新闻节目主持人——“鱼浆帮”的三个人是代代主办蛮颓镇祭典的一族末裔。三人本身也热爱家乡，在当地非常受欢迎。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter03-03.jpg" width="640" height="429" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter03-03.jpg" width="640" height="429" %}
 
 ##### 野上
 祭典当天，鱼浆帮会在镇上游行，伴随着音乐一起炒热祭典气氛。
@@ -561,7 +561,7 @@ title: 开发人员访谈：斯普拉遁3
 ##### 井上
 虽然英雄模式的故事与1、2代有关系，但单就本作来说也是完整独立的故事，所以大家可以放心游玩。
 
-大致试玩一遍后，对前作感兴趣的玩家可以前往任天堂官方网站查看“[斯普拉遁基地](https://www.nintendo.com.hk/character/splatoon/)”的内容，了解至今的历史后，游玩起来会更加有趣。
+大致试玩一遍后，对前作感兴趣的玩家可以前往任天堂官方网站查看“[斯普拉遁基地](https://www.nintendo.com/hk/character/splatoon/)”的内容，了解至今的历史后，游玩起来会更加有趣。
 
 ##### 佐藤
 当然了，对于玩过前作的玩家来说，这个模式也会揭开所有过去的谜团，请务必游玩看看。
@@ -576,7 +576,7 @@ title: 开发人员访谈：斯普拉遁3
 
 而除了英雄模式之外，线上对战的占地对战当然不用说，还有这次大幅强化的“鲑鱼跑”<sup>[※7](#ref-7)</sup>等希望各位玩家多多挑战，找到自己喜欢的模式。
 
-> ※7　从《斯普拉遁2》新增的线上专用模式。在《斯普拉遁2》中，2～4名玩家互相协助，打倒鲑鱼收集鲑鱼卵，视收集到的鲑鱼卵数会得到分数，可用来获取有助于战斗的道具。[加入Nintendo Switch Online](https://www.nintendo.com.hk/hardware/switch/onlineservice/)”（付费）（台湾地区开始日期待定）加入后可以游玩。
+> ※7　从《斯普拉遁2》新增的线上专用模式。在《斯普拉遁2》中，2～4名玩家互相协助，打倒鲑鱼收集鲑鱼卵，视收集到的鲑鱼卵数会得到分数，可用来获取有助于战斗的道具。[加入Nintendo Switch Online](https://www.nintendo.com/hk/hardware/switch/onlineservice/)”（付费）（台湾地区开始日期待定）加入后可以游玩。
 > {: #ref-7 }
 
 ##### 原来如此。即使从3代才开始游玩，若能按自己的步调了解故事和学习射击操作，就不需担心了。……不过，对于从3代入门的玩家而言，要参加老手云集的线上对战果然还是需要勇气吧。
@@ -587,7 +587,7 @@ title: 开发人员访谈：斯普拉遁3
 
 倒不如说，现在周遭从3代入门的玩家一定很多，若能抱着“现在新手很多正是好机会！”的想法积极参与的话，想必连一开始的紧张感都会是一种享受。
 
-另外，对战上有任何不了解之处的时候，[请教评审也不失为一个好办法](https://www.nintendo.com.hk/interview/av5ja/photo/12.jpg){: .figure-link }。这次的评审不仅会在对战大厅亲切地教导战斗方法，还能让玩家当场小试身手。建议无论是不是新手都要向评审多多请教一番。
+另外，对战上有任何不了解之处的时候，[请教评审也不失为一个好办法](https://www.nintendo.com/hk/interview/av5ja/photo/12.jpg){: .figure-link }。这次的评审不仅会在对战大厅亲切地教导战斗方法，还能让玩家当场小试身手。建议无论是不是新手都要向评审多多请教一番。
 
 ##### 野上
 刚才也提过了，对于游玩这款游戏的各位玩家，我们能做的事情，果然还是尽可能让更多人加入游戏一起同乐。
@@ -609,7 +609,7 @@ title: 开发人员访谈：斯普拉遁3
 
 “斯普拉遁”系列也一样，本作是三部曲的第3部。同样保留了第1部及第2部作品的要素，而且作为故事最高潮的第3部作品，还加入了丰富得惊人的新玩法与功能，所以无论从哪里开始游玩都能乐在其中。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/av5ja/img/fig_chapter04-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/av5ja/img/fig_chapter04-01.png" width="640" height="360" %}
 
 ##### 佐藤
 以开发人员的角度来说，是抱着“从过去游玩至今的玩家、现在开始游玩的玩家，在这里全员集合！”的心情在制作游戏。今后活动也会办得比过去还要多，应该会成为系列作中气氛最火热的一个舞台。
@@ -636,7 +636,7 @@ title: 开发人员访谈：斯普拉遁3
 
 这并非单凭我们的力量，还要多亏有每位玩家的热情，才能将这个世界塑造得更有说服力。希望大家能进入这个世界游玩，一起打造出今后的鱿鱼世界。
 
-最后再补充一点。[创立角色时也比以往多了更多种类的自定义设计。](https://www.nintendo.com.hk/interview/av5ja/photo/13.jpg){: .figure-link }发型当然不用说，包含眉毛形状在内，有更丰富的要素让玩家创立理想中的自己。外观造型都能塑造得很前卫，在鱿鱼的世界自由自在地做自己吧。
+最后再补充一点。[创立角色时也比以往多了更多种类的自定义设计。](https://www.nintendo.com/hk/interview/av5ja/photo/13.jpg){: .figure-link }发型当然不用说，包含眉毛形状在内，有更丰富的要素让玩家创立理想中的自己。外观造型都能塑造得很前卫，在鱿鱼的世界自由自在地做自己吧。
 
 ##### 峰岸
 我补充一下刚才没提到的一件事……关于声音方面，这次在许多地方下足了工夫，可以让玩家感受到比以往更强的“开阔空间感”。因为总监告诉我，他想营造出在广阔空间游玩的深度。
@@ -649,7 +649,7 @@ title: 开发人员访谈：斯普拉遁3
 {: .question }
 
 ##### 峰岸
-是的在10月8日（周六）与9日（周日）于东京国际展示场举行的“[Nintendo Live 2022](https://www.nintendo.co.jp/live/index.html)”中，还预计举办第3部作品首次的音乐会“蛮颓演唱会”。
+是的在10月8日（周六）与9日（周日）于东京国际展示场举行的“[Nintendo Live 2022](https://www.nintendo.com/jp/live/index.html)”中，还预计举办第3部作品首次的音乐会“蛮颓演唱会”。
 
 在“斯普拉遁”系列的演唱会中，我们总是忐忑不安地用父母看孩子的眼光守护着在现场让观众带着笑容鼓舞支持的角色们（笑），这次也经过精心准备，希望能创造出现场活动才能呈现的特别场合。
 

@@ -1,6 +1,6 @@
 ---
 date: 2006-09-11
-image: https://www.nintendo.com.hk/images/wii_interview_vol2_title.jpg
+image: https://www.nintendo.com/hk/images/wii_interview_vol2_title.jpg
 image_height: 187
 image_width: 760
 interviewees: 
@@ -9,25 +9,25 @@ interviewees:
 - 宫本茂
 - 芦田健一郎
 - 池田昭夫
-last_modified_at: 2021-06-17 18:04
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/wii/index.html
+- - https://www.nintendo.com/jp/wii/index.html
   - Wii官网
 references: 
-- - https://www.nintendo.com.hk/wii/wii_interview_vol2_01.html
+- - https://www.nintendo.com/hk/wii/wii_interview_vol2_01.html
   - 社長提問 Ｗｉｉ 企劃 - Vol.2 Ｗｉｉ 遙控器篇
 sources: 
-- - https://www.nintendo.co.jp/wii/topics/interview/vol2/index.html
+- - https://www.nintendo.com/jp/wii/topics/interview/vol2/index.html
   - 社長が訊く Wii プロジェクト - Vol.2 Wii リモコン編
 title: 社长提问 Wii企划 Vol.2 Wii遥控器篇
 ---
 <table class="figure-table" style="border-spacing: 5px; border-collapse: separate;"><tbody><tr class="text-center">
-<td>{% include image.html src="https://www.nintendo.com.hk/images/intro_vol2p1.jpg" alt="岩田聪" width="123" height="69" %}</td>
-<td>{% include image.html src="https://www.nintendo.com.hk/images/intro_vol2p2.jpg" alt="竹田玄洋" width="122" height="69" %}</td>
-<td>{% include image.html src="https://www.nintendo.com.hk/images/intro_vol2p3.jpg" alt="宫本茂" width="122" height="69" %}</td>
-<td>{% include image.html src="https://www.nintendo.com.hk/images/intro_vol2p4.jpg" alt="芦田健一郎" width="122" height="69" %}</td>
-<td>{% include image.html src="https://www.nintendo.com.hk/images/intro_vol2p5.jpg" alt="池田昭夫" width="122" height="69" %}</td>
+<td>{% include image.html src="https://www.nintendo.com/hk/images/intro_vol2p1.jpg" alt="岩田聪" width="123" height="69" %}</td>
+<td>{% include image.html src="https://www.nintendo.com/hk/images/intro_vol2p2.jpg" alt="竹田玄洋" width="122" height="69" %}</td>
+<td>{% include image.html src="https://www.nintendo.com/hk/images/intro_vol2p3.jpg" alt="宫本茂" width="122" height="69" %}</td>
+<td>{% include image.html src="https://www.nintendo.com/hk/images/intro_vol2p4.jpg" alt="芦田健一郎" width="122" height="69" %}</td>
+<td>{% include image.html src="https://www.nintendo.com/hk/images/intro_vol2p5.jpg" alt="池田昭夫" width="122" height="69" %}</td>
 </tr><tr style="vertical-align: top; color: var(--color-wii); line-height: 1; font-size: 14px;">
 <td>岩田　聪<br><span class="small">取缔役社长</span></td>
 <td>宫本　茂<br><span class="small">专务取缔役<br>情报开发本部长</span></td>
@@ -53,7 +53,7 @@ title: 社长提问 Wii企划 Vol.2 Wii遥控器篇
 ##### 岩田
 当时直接负责跳舞垫等产品的就是池田先生，我记得池田先生在此之前也参与过很多种周边设备的制作。请谈谈这方面的相关过程，还有你在Wii专案所担任的工作内容。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p1.jpg" width="167" height="212" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p1.jpg" width="167" height="212" %}
 
 ##### 池田
 嗯，古早以前，我参与过有含计步器的口袋型游戏机，如计步器“Pocket Pikachu”、“Pocket Hello Kitty”，以及含有加速感应器的Game Boy软件“KoroKoro Kirby”的设计等等。之后继续参与跟界面有关的各项企划，在Wii专案中，我是负责控制器里所有感应器的电气设计部分等。
@@ -67,7 +67,7 @@ title: 社长提问 Wii企划 Vol.2 Wii遥控器篇
 ##### 岩田
 在研发Wii控制器之始，池田先生脑里是不是已经有了什么关键字呢？
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p2.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p2.jpg" width="167" height="123" %}
 
 ##### 池田
 我唯一能想到的是“简单明了”这四个字，当然也不敢忽视“舒适性”。毕竟这是Wii的整体概念，我满脑子就想着，这是要做给每个人玩的，做出来的控制器不能让人反感，最好就是让人看了就忍不住想伸手去拿。
@@ -102,7 +102,7 @@ title: 社长提问 Wii企划 Vol.2 Wii遥控器篇
 ##### 岩田
 我要再回过头来问宫本先生。宫本先生现在已经是全球公认的游戏设计师，可是大学时代本来也是念工业设计的相关科系。这个曾经主修工业设计的经验，对制作控制器、游戏机有什么帮助呢？
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p3.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p3.jpg" width="167" height="123" %}
 
 ##### 宫本
 有什么样的帮助啊…，嗯，如果说有的话，因为我本来学的就是工业设计，所以，对到任天堂工业设计部门的社会新鲜人而言，我这个同科系的前辈勉强算是他们的主管。这应该是最大的帮助吧，不是吗？
@@ -134,7 +134,7 @@ title: 社长提问 Wii企划 Vol.2 Wii遥控器篇
 ##### 芦田
 （笑）
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p4.jpg" width="167" height="212" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p4.jpg" width="167" height="212" %}
 
 ##### 宫本
 嗯，软件部门会不停地提出需求内容，设计部门会看出受限的地方，最后总体来说，又不能忽略价格竞争力的问题，从这层意义说来，我自己也曾经从不同的立场，对别人提出自己的需求，其实过去在硬件开发上，也有过同样的说服过程和挑战。在这次的Wii，我就感觉到，我们已经跨越了“硬件重要？还是软件重要？”这样争议性的议题，应该说是，任天堂终于走到了这样的一个新境界。
@@ -154,7 +154,7 @@ title: 社长提问 Wii企划 Vol.2 Wii遥控器篇
 ##### 岩田
 在这个过程中，是哪个部分造成了转机呢？
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p5.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p5.jpg" width="167" height="123" %}
 
 ##### 芦田
 我想，应该是我们清楚了解了Wii整体概念吧。我自己觉得，GameCube的控制器，已经是现行控制器的集大成，就算以加法的概念再去做，也不会再有更多的进化空间，而且最重要的是，我自己在玩的时候，总是觉得好像用不顺手。拿我自己来说，嗯，有了家庭之后，玩高难度游戏的时间也变少了，再加上，大概是“做的心态”跟“玩的心态”之间开始有了距离吧。所以当我终于了解了Wii的概念时，就深深感觉到，这会是一部我跟家人都可以玩的游戏机。讲得更具体一点，那种两手紧抓着控制器不放，坐在电视机前面，从三更半夜玩到天亮的玩法，不妨也可以来颠覆一下。我并不是要否定那种沉迷投入的玩法，只是对于这个“把‘两手拿’给颠覆过来也OK”的概念，让我感觉到它的未来无限宽广。
@@ -183,7 +183,7 @@ title: 社长提问 Wii企划 Vol.2 Wii遥控器篇
 ##### 所有人
 （笑）
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p6.jpg" width="167" height="212" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p6.jpg" width="167" height="212" %}
 
 ##### 竹田
 我用另外一种讲法好了，“因为我们是任天堂”，这话其实是要表达：任天堂是一家做得跟别人不一样，就会让人夸好的公司。这家公司为了能做得跟别人不一样，里面很多人以各种不同的形式提供奥援，帮助我们突破难关。我想，就是因为这样才让这次Wii的挑战化不可能为可能。
@@ -211,7 +211,7 @@ title: 社长提问 Wii企划 Vol.2 Wii遥控器篇
 ##### 宫本
 有好几个重要因素，首先，竹田先生先丢出一个指向器的建议。再从这里生出各种不同的路线，在这些路线中，池田提出了做成现在这个直条状的想法，也就是“握棒”的形状。在这个“握棒”的部分，我跟池田两个人的想法倒是挺一致的。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p8.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p8.jpg" width="167" height="123" %}
 
 ##### 池田
 宫本先生常常在开会时，拿出自己的手机，很兴奋就讲了起来，“喂，不能做像这样子的吗？”（笑）
@@ -222,7 +222,7 @@ title: 社长提问 Wii企划 Vol.2 Wii遥控器篇
 ##### 岩田
 即使点出了指向器的主要技术，但做成单手握住的棒状，应该也不是马上就决定得出来的吧。我觉得把指向器放在一个双手拿着的控制器正中央，这个形状应该也不是没有可能。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p9.jpg" width="167" height="212" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p9.jpg" width="167" height="212" %}
 
 ##### 竹田
 啊，没错，我们也有做这个形状的展示机呢。
@@ -284,7 +284,7 @@ title: 社长提问 Wii企划 Vol.2 Wii遥控器篇
 ##### 池田
 在结合了指向器跟高回应度感应器之后，我才觉得使用Wii控制器的玩法终于守得云开见月明。不过，我并不是只拿它当指向装置看，试过各种不同的组合方式，经历多次的尝试错误，最后才做出了现在的Wii遥控器。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p10.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p10.jpg" width="167" height="123" %}
 
 ##### 岩田
 听你们这么一说，我又更感觉到，真的，它真的不是只靠1个创意就做出来的。每当我看到已经完成的Wii控制器，创意看起来好像一下子就浮现出来，可是至少，使用“指向器”、做成“单手操作的握棒状”的样子，还有利用“每秒回应200次以上能力的感应器”，这几个要素都必须往同一个方向凑在一起，产品才做得出来。对了，这个主遥控控制器出炉后，研发重心就要转到与其相连的不同型态的控制器，不过，我记得跟扩充连接器相连的这些控制器，好像是在很短时间内就一股脑儿全做出来了。先说说，这个“合体式控制器”的概念是怎样来的？
@@ -295,7 +295,7 @@ title: 社长提问 Wii企划 Vol.2 Wii遥控器篇
 ##### 宫本
 拜这个合体式控制器的构想所赐，又帮我们同时解决了好几个问题。我们本来一直在头痛，相关周边设备太贵。即使想让周边设备配搭软件一起卖，价格还是居高不下。话说回来，Wii既然使用无线控制器，那么周边设备当然也得跟着做成无线。我们很担心，这样一来，不就越来越贵了？就在这时候，有了这个合体式的构想，我就想，“好吧，不如就让其他所有控制器都能连接这个遥控控制器吧”。因为若让周边设备连接到主控制器，这个做法可以让我们不必顾虑到周边设备的通讯方式。如此一来，就算是铺在地板上踩的踏垫式控制器，只要把遥控控制器插到踏垫上就可以。康加鼓也是只要插上遥控控制器就能解决。开那么一次会，就有“啊，看到了该怎样做了”的感觉。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p15.jpg" width="167" height="182" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p15.jpg" width="167" height="182" %}
 
 ##### 池田
 对啊。而且针对那些已发售的游戏软件，只要做成能连接传统控制器就可以解决。
@@ -324,7 +324,7 @@ title: 社长提问 Wii企划 Vol.2 Wii遥控器篇
 ##### 宫本
 研发过程中的代号通常都没机会沿用到正式产品上，只有这个一直坚持到最后呢，呵呵。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p12.jpg" width="167" height="357" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p12.jpg" width="167" height="357" %}
 
 ##### 池田
 对啊，像Wii遥控器也是，基于把各周边设备连接到扩充连接器的构想，我们也称它为“核心控制器”或“核心组件”。
@@ -350,7 +350,7 @@ title: 社长提问 Wii企划 Vol.2 Wii遥控器篇
 ##### 岩田
 那么，这次Wii的做法跟GameCube时的尝试两者之间有什么差异？
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p13.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p13.jpg" width="167" height="123" %}
 
 ##### 宫本
 应该是“改变想法”吧。像现在做《塞尔达》的时候，还是会觉得按键不够用。而我一这么讲，研发人员就瞪大了眼，一副好像想勒死我的样子（笑）。因为我总是对研发人员这么说，“你们不要再做那种按键不够用的游戏，不然就真的完了”，在这点，本来就应该坚定意志，贯彻到底。我想做得简单易懂，同时，我也希望玩家能接受有点复杂的东西，可是最大前提是：“谁来玩都一样玩得起来”，才能让玩家愿意接触更多不同的游戏软件。原本要用键盘操作的电玩软件，通过Famicom，竟然一口气就风靡了全世界，基本上，它就是遵循这个原则去做的。也许我很少这样讲给大家听，其实对Famicom而言，“谁来玩都会动得起来”这点是很重要的原则。开了机之后就会动，按下开始键就开始，按下RESET键就能重开机。我一直在思考着，“这么理所当然的事情，为什么电脑却做不到？”就这层意义来说，真的是要回到起点。
@@ -381,12 +381,12 @@ Wii遥控器解决了诸多问题，在“说服”其他人的同时，还是�
 ##### 岩田
 感应条本身的设计跟控制器有不同的地方，我想这部分应该也很费工夫吧？
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p16.jpg" width="167" height="212" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p16.jpg" width="167" height="212" %}
 
 ##### 芦田
 是啊。我在前面有提到过，电视机附近已经放了各种不同的AV设备，为了让Wii看起来不会不协调，Wii主机的设计是走小而简洁的路线。可是现在除了摆上Wii，连电视机也要安装感应条，这部分的设计，比我原先预计的还难做。感应条是要装在电视机上的，可是最近的电视机机种逐渐以薄型为主流，为了让玩家“放在电视机上方”，就不能做得太马虎。电视机本身已经设计得能与客厅的气氛调和无碍，所以，我们必须思考该怎么跟电视机同调。像安装位置，应该在画面上方？还是下方？如果要配合类型不同的电视机，感应条应该做成什么外型才适合？颜色该用什么色最好？为此，我们试做了各种不同造型的感应条。做好了，拿去给宫本先生看，然后被打回头……。多到我都记不得到底被打过几次回头呢。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p17.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p17.jpg" width="167" height="123" %}
 
 ##### 宫本
 嗯，真的很多次哦。对于感应条的完成度，我真的很唆（笑）。我们努力再努力，表达Wii有趣在哪里，当客人终于看似有购买意欲时，等到最后一秒，再冒出一句话：“呃，其实还有这个…”，类似这样的场面，各位应该不陌生才对。坦白说，要不是非装不可，感应条这东西真的是能免则免。我想，这个大家都心知肚明。可是就是得靠这个感应条，才能提高可靠度。它是技术的核心部分，所以不能不装。最初，我建议看能不能装电池，让玩家随便放在电视机附近的哪里都好，但是这样会有更换电池的压力。Wii跟电视机本来就要用电线相连，所以主机一定会位于电视机跟电线所及的范围之内。既然如此，就让主机供应感应条的电源，再来要费心的就只剩下几个部分，例如，尽量设计得不让人觉得碍眼，可由玩家自行决定装法等等。对了，这么一讲我才想起来，Famicom的时候，我甚至还说过，“请拿掉电视机的天线，这样才方便玩”这种话呢（笑）。
@@ -397,7 +397,7 @@ Wii遥控器解决了诸多问题，在“说服”其他人的同时，还是�
 ##### 宫本
 是啊，跟那时候比起来，这次挑战的难度可以说还比较低一点呢（笑）。也许有朝一日，电视机会内建类似这样的功能，到时候，就不再需要感应条了，不过现在这个过渡期，也只能请玩家帮忙装上去。这也是为什么我们把它做得更小巧，而且看起来不会太醒目。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p18.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p18.jpg" width="167" height="123" %}
 
 ##### 芦田
 你们看看这个电线颜色，有人说黑色好，有人建议用灰色，讨论了好久。还有像这样，设计成不管感应条的电线往左还是往右都能完全紧贴电视机的造型。
@@ -435,9 +435,9 @@ Wii遥控器解决了诸多问题，在“说服”其他人的同时，还是�
 ##### 宫本
 另外，对于游戏发表会上，该不该把感应条拿出来，这点我们也讨论得很激烈。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p24.jpg" width="167" height="94" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p24.jpg" width="167" height="94" %}
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p25.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p25.jpg" width="167" height="123" %}
 
 ##### 岩田
 嗯，没错。不过，既然我们要推荐Wii给大家，总不能不让人家知道感应条的存在，所以基本上，我认为不要保留，应该一起展示出来。我们最不希望让购买Wii的客人觉得，“根本不知道还有这个”，所以采取完全公开透明的方针，打从一开始就先告知：“虽然有点麻烦，可是这会让人玩起来更有趣，请大家多多包涵”。
@@ -460,7 +460,7 @@ Wii遥控器解决了诸多问题，在“说服”其他人的同时，还是�
 ##### 芦田
 我没有注意到观众的反应，反而对我们做的展示影片的内容很满意，看过后，我觉得很能表达我们想讲的意念，应该很受欢迎才对。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p19.jpg" width="167" height="212" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p19.jpg" width="167" height="212" %}
 
 ##### 竹田
 我可是在旁边冷汗直流呢。
@@ -495,7 +495,7 @@ Wii遥控器解决了诸多问题，在“说服”其他人的同时，还是�
 ##### 岩田
 再下一个的展示是今年的E3。即使研发人员方面的反应不错，但是在玩家实际玩过之前，我想大家多少还是有点不安。今天在座的几位都有参加E3，当场第一手看到玩家的反应，你们有何感想？请池田先生先讲吧。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p20.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p20.jpg" width="167" height="123" %}
 
 ##### 池田
 呃，先前在任天堂大会上，我就很感动了。从宫本先生走上舞台，用控制器指挥交响乐团开始，到最后，岩田社长一起玩“Wii Sports”的网球。整个结束时，我还感动得差点掉泪（笑）。大家都自己人，我这么讲也许很肉麻，但我真的心里感慨万千。然后，现场又让很多玩家实际试玩，看到他们的反应，让我又再一次感慨万千（笑）。
@@ -533,7 +533,7 @@ Wii遥控器解决了诸多问题，在“说服”其他人的同时，还是�
 ##### 岩田
 竹田先生是研发总负责人，你看过E3反应之后有什么感想？
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p21.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p21.jpg" width="167" height="123" %}
 
 ##### 竹田
 对于有独创性的挑战，美国人会很热情的鼓掌叫好，这是他们的民族性吧。所以我也跟大家刚刚说的一样，觉得得到不错的评价，心里很高兴，不过也有“后面还有硬仗要打，现在只是硬件告一段落而已”这样的心情（笑）。因为还有堆积如山的课题等着我们克服，为了不让大家太兴奋，我只好当坏人泼冷水，“别忘了，还有很多事情要做”（笑）。
@@ -583,7 +583,7 @@ Wii遥控器解决了诸多问题，在“说服”其他人的同时，还是�
 ##### 岩田
 那么，最后请宫本先生讲一下。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/vol2p22.jpg" width="167" height="212" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/vol2p22.jpg" width="167" height="212" %}
 
 ##### 宫本
 站在制作的最前线，我在做新产品时，还是会对某些部分比较保守一点，多多少少啦。所以，我体认到像这样在某些地方，还是“存在着保守派的自我”，同时，我也很珍惜周围有很多人愿意帮我突破保守作风。任天堂是一个在制作产品时会兼顾软硬件的组织，我想，世界上没有太多这样的组织。这次的Wii让我更深切体会到这一点，而且我再度感受到，这家公司在做新产品时，这股力量就发挥得更淋漓尽致。

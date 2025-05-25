@@ -7,9 +7,9 @@ interviewees:
 - 藤田刚志
 - 安藤浩和
 - 木村
-last_modified_at: 2023-10-12 19:07
+last_modified_at: 2025-05-25 19:10
 links: 
-- - https://www.nintendo.co.jp/switch/a2jya/
+- - https://www.nintendo.com/jp/switch/a2jya/
   - 《星之卡比 Wii 豪华版》官网
 sources: 
 - - https://www.hallab.co.jp/blog/detail/4645/

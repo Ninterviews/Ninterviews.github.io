@@ -1,6 +1,6 @@
 ---
 date: 2011-07-05
-image: https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/mainvisual1.jpg
+image: https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/mainvisual1.jpg
 image_height: 227
 image_width: 740
 interviewees: 
@@ -9,16 +9,16 @@ interviewees:
 - Dylan Cuthbert
 - 宫本茂
 - 岩田聪
-last_modified_at: 2021-06-07 14:45
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/3ds/anrj/index.html
+- - https://www.nintendo.com/jp/3ds/anrj/index.html
   - 《星际火狐64 3D》官网
 references: 
-- - https://www.nintendo.com.hk/starfox64_3d/interview/
+- - https://www.nintendo.com/hk/starfox64_3d/interview/
   - 社長提問 | 星際火狐64 3D
 sources: 
-- - https://www.nintendo.co.jp/3ds/interview/anrj/vol1/index.html
+- - https://www.nintendo.com/jp/3ds/interview/anrj/vol1/index.html
   - 社長が訊く『スターフォックス６４ ３Ｄ』
 title: 社长提问《星际火狐64 3D》
 ---
@@ -39,12 +39,12 @@ title: 社长提问《星际火狐64 3D》
 这次我们集合了与《星际火狐64 3D》相关的各位。那么，就请Dylan开始先来自我介绍。
 
 ##### Dylan
-好的。我是Q-Games<sup>[※1](#ref-1)</sup>的Dylan。于10年前在京都设立了公司。长话短说，我在本次《星际火狐64 3D》中担任总监的工作。在这之前我也制作过[《星际火狐 命令》](https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/slide001.jpg?width=400&height=360)（Star Fox Command）<sup>[※2](#ref-2)</sup>。
+好的。我是Q-Games<sup>[※1](#ref-1)</sup>的Dylan。于10年前在京都设立了公司。长话短说，我在本次《星际火狐64 3D》中担任总监的工作。在这之前我也制作过[《星际火狐 命令》](https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/slide001.jpg?width=400&height=360)（Star Fox Command）<sup>[※2](#ref-2)</sup>。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo1.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo1.jpg" width="250" height="150" %}
 
 ##### 岩田
-往前推一些的话，你也参与了Super Famicom所发售的初代[《星际火狐》](https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/slide002.jpg?width=240&height=380)<sup>[※3](#ref-3)</sup>的开发工作吧。
+往前推一些的话，你也参与了Super Famicom所发售的初代[《星际火狐》](https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/slide002.jpg?width=240&height=380)<sup>[※3](#ref-3)</sup>的开发工作吧。
 
 > ※1　Q-Games：Dylan Cuthbert于2001年所创立的游戏公司。总公司位于京都。从《星际火狐 命令》（DS）开始，陆续开发了《DIGIDRIVE》《Reflect Missile》《STAR SHIP DEFENDER》《X-RETURNS》等游戏。
 > {: #ref-1 }
@@ -84,7 +84,7 @@ title: 社长提问《星际火狐64 3D》
 因为Game Boy中有款3D的游戏……
 
 ##### 岩田
-啊，是[《X》](https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/003.jpg?width=240&height=300){: .figure-link }<sup>[※4](#ref-4)</sup>。
+啊，是[《X》](https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/003.jpg?width=240&height=300){: .figure-link }<sup>[※4](#ref-4)</sup>。
 
 ##### Dylan
 对，《X》是我负责制作的，那时我在一家叫做Argonaut的公司<sup>[※5](#ref-5)</sup>工作，为了让任天堂看见我费尽心力制作的3D引擎，而来到日本。那个时候我们有两个人来，被请到了会议室之后，突然有大约30位穿着任天堂制服的人进来……那时心里想着“啊，怎么办……”（笑）
@@ -178,7 +178,7 @@ title: 社长提问《星际火狐64 3D》
 ##### 宫本
 总之就是对“这样的年纪可以做出这样的系统”，这件事感到非常惊讶。“原来这么年轻的人，也可以像一般上班族一样的工作”这般，因此觉得“这个业界其实就是这样的世界”。在与Dylan见面之初时让我感觉到“这个业界并非较先进来，就可以依靠经验来虚张声势”这大概就是我对Dylan他们最初的印象。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo2.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo2.jpg" width="250" height="150" %}
 
 ##### 岩田
 毕竟当时他才18岁，就做出了当时最先进的3D软件呢。
@@ -247,7 +247,7 @@ title: 社长提问《星际火狐64 3D》
 ##### 天野
 我是情报开发总部 制作部的天野。这一次在《星际火狐64 3D》中，我在Q Games公司与任天堂之间协调，帮助决定许多游戏构思，工作内容比较像是联络窗口。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo3.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo3.jpg" width="250" height="150" %}
 
 ##### 岩田
 对天野先生而言这是“新超级马力欧Wii”<sup>[※6](#ref-6)</sup>之后的下一个工作吗？
@@ -296,7 +296,7 @@ Super Famicom版的《星际火狐》发售时你是小学生吗？
 ##### 高野
 我是情报开发总部 制作部的高野。原本我是负责N64版的script程序，以及登场角色的台词部分等，而在本次要重新制作Nintendo 3DS版中，则是支援的工作。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo4.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo4.jpg" width="250" height="150" %}
 
 ##### 岩田
 Super Famicom版的《星际火狐》发售时，高野先生是？
@@ -380,7 +380,7 @@ Super Famicom发售时是1990年的11月21日，而Dylan到京都来的时候，
 ##### 岩田
 当时，还是小学生的天野先生，在放学的途中第一次见到《星际火狐》时，有什么样的想法呢？
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo5.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo5.jpg" width="250" height="150" %}
 
 ##### 天野
 对不起。其实当时我觉得，不知道是什么东西的形状浮现出来（笑）。
@@ -434,7 +434,7 @@ Super Famicom发售时是1990年的11月21日，而Dylan到京都来的时候，
 ##### 宫本
 于是，当时我便想，在《星际火狐》当中，有很多利用战斗机在闸门之间穿梭的画面，而说到穿梭，就会想到鸟居吧。而说到鸟居，就想到有千本鸟居的伏见稻荷神社<sup>[※11](#ref-11)</sup>，在当时的试作版也有多穿越那里的画面。所以说到伏见稻荷神社，不得不想到狐狸呢。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo6.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo6.jpg" width="250" height="150" %}
 
 ##### 岩田
 啊，是这样的联想而使用了狐狸吗（笑）。
@@ -463,7 +463,7 @@ Super Famicom发售时是1990年的11月21日，而Dylan到京都来的时候，
 是的。
 
 ##### 高野
-其实我向今村先生借了最初[《星际火狐》所画的原稿](https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/slide005.jpg?width=620&height=430){: .figure-link }，就是这个……
+其实我向今村先生借了最初[《星际火狐》所画的原稿](https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/slide005.jpg?width=620&height=430){: .figure-link }，就是这个……
 
 ##### 宫本
 啊，就是这个。
@@ -519,7 +519,7 @@ Super Famicom发售时是1990年的11月21日，而Dylan到京都来的时候，
 ##### 岩田
 Super Famicom版的包装封面是实际做成角色公仔后再拍摄而成的，为何使用了那样的设计呢？
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo7.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo7.jpg" width="250" height="150" %}
 
 ##### 宫本
 我原本就非常喜欢像是《雷鸟神机队》（Thunderbirds）<sup>[※13](#ref-13)</sup>的意大利人偶剧。
@@ -582,7 +582,7 @@ Super Famicom版的包装封面是实际做成角色公仔后再拍摄而成的�
 
 ### 4.  虚幻的《星际火狐2》
 ##### 岩田
-那么，就将话题带入[N64版的《星际火狐》](https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/slide007.jpg?width=260&height=350){: .figure-link }<sup>[※16](#ref-16)</sup>吧。N64发售时，对于宫本先生来说，机械的机能性越来越提升，慢慢成为3D立体技术时代，在Super Famicom的《星际火狐》中，想要做的以及没办法做到的，都在N64中有了应该可以做得到的手感，所以有了“那么可以开始制作了”的灵感吧。
+那么，就将话题带入[N64版的《星际火狐》](https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/slide007.jpg?width=260&height=350){: .figure-link }<sup>[※16](#ref-16)</sup>吧。N64发售时，对于宫本先生来说，机械的机能性越来越提升，慢慢成为3D立体技术时代，在Super Famicom的《星际火狐》中，想要做的以及没办法做到的，都在N64中有了应该可以做得到的手感，所以有了“那么可以开始制作了”的灵感吧。
 
 ##### 宫本
 没错。
@@ -611,7 +611,7 @@ Super Famicom版的包装封面是实际做成角色公仔后再拍摄而成的�
 ##### Dylan
 《星际火狐2》的时候，也做过了许多的实验呢。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo8.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo8.jpg" width="250" height="150" %}
 
 ##### 宫本
 没错。《星际火狐2》中做了像是加入许多script使之动作，或是利用morphing让机器人跑步，还有能够360度自由飞行的全方位模式等挑战…… 。
@@ -700,7 +700,7 @@ Super Famicom版的包装封面是实际做成角色公仔后再拍摄而成的�
 ##### 高野
 我被召进团队时开发已经开始在进行了，然后今村先生对我说“会写script的人手不够，所以希望你来帮忙”。因为我有着当时开发Super Famicom版时的快乐的印象，我便很随意地回了“嗯，好啊”。结果，我好像是被骗了（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo9.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo9.jpg" width="250" height="150" %}
 
 ##### 岩田
 是有“不应该是这样的啊”的感觉吗？（笑）
@@ -754,7 +754,7 @@ Super Famicom版的包装封面是实际做成角色公仔后再拍摄而成的�
 ##### 高野
 没错。但因为让伙伴说出“敌人从背后过来了！”，就可以一边注意从后面而来的攻击一边游戏，所以会有游戏的范围扩大了很多的感觉呢。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo10.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo10.jpg" width="250" height="150" %}
 
 ##### 岩田
 我也还记得，听到伙伴说“快救我～”时，我便尾随在伙伴的后方击落敌人，之后伙伴非常感谢的对我说“谢谢！”让我感觉超级新鲜呢。
@@ -876,7 +876,7 @@ Super Famicom版的包装封面是实际做成角色公仔后再拍摄而成的�
 ##### 岩田
 也就是说，佛克的那句台词，也是代替高野先生说出了自己的心情吧。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo11.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo11.jpg" width="250" height="150" %}
 
 ##### 高野
 没错。其实还有很多像这样的例子。例如兔子派比会说“绝对不要放弃。要相信自己的感觉！”这样的台词……
@@ -942,7 +942,7 @@ N64版时也觉得很难吗？
 ##### 天野
 不，如果习惯了之后就变得有趣多了。《星际火狐》给人的第一印象是一款射击游戏，在一刚开始会以为是款以攻击敌人为目的的游戏，但是玩过几次之后，就会开始感觉到从狭窄的地方穿越过去是一件很快乐的事。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo12.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo12.jpg" width="250" height="150" %}
 
 ##### 岩田
 因为火狐可是在穿越了鸟居后所衍生出来的呢（笑）。
@@ -1028,7 +1028,7 @@ normal mapping就是，也被称作法线mapping，就算是一张平面的多�
 ##### Dylan
 是的。使用了normal mapping之后，在3DS上就会变成立体，与其它的硬件来比较，效果非常的显著呢。所以，我在制作的时候觉得，在3DS的话，左右两侧也有能够到深处的感觉呢。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo13.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo13.jpg" width="250" height="150" %}
 
 ##### 岩田
 不只是直行时能到深处，左右两边也有这样的感觉吗？
@@ -1061,7 +1061,7 @@ normal mapping就是，也被称作法线mapping，就算是一张平面的多�
 ##### 天野
 是的，没错。然后前面有提到，N64版会因每个人感受不同，而会觉得“很难”的人。除了这次是在掌上型游戏机上的关系，也希望能让人能更轻易的去玩这游戏，因此制作了“Nintendo 3DS模式”。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo14.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo14.jpg" width="250" height="150" %}
 
 ##### 岩田
 那么难度有向下做调整吗？
@@ -1147,7 +1147,7 @@ normal mapping就是，也被称作法线mapping，就算是一张平面的多�
 ##### 宫本
 是的。我玩《星际火狐》的时候，因为将N64的操纵杆当成飞机的操纵杆，所以觉得往上推的时候，艾英应该要往下降。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo15.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo15.jpg" width="250" height="150" %}
 
 ##### 岩田
 可是也有人有相反想法吧。
@@ -1200,7 +1200,7 @@ normal mapping就是，也被称作法线mapping，就算是一张平面的多�
 ##### 岩田
 这和看指针或是看飞机都无关，不管是谁都共用的，而且还能用直觉的方式进行操作。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo16.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo16.jpg" width="250" height="150" %}
 
 ##### Dylan
 所以当玩到的时候是非常爽快的。
@@ -1242,7 +1242,7 @@ normal mapping就是，也被称作法线mapping，就算是一张平面的多�
 ##### 宫本
 是的，变成有这么样舒适的操作方式可以选择。目前为止的游戏里，都只能再被限制的画面中玩的印象，但用陀螺仪玩过之后…（做势将脸塞进画面里）脸好像被拉进画面里的感觉……
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo17.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo17.jpg" width="250" height="150" %}
 
 ##### 岩田
 也因为这样，对游戏就更身入其境了呢。
@@ -1295,7 +1295,7 @@ normal mapping就是，也被称作法线mapping，就算是一张平面的多�
 ##### 高野
 我这次的主要工作是，将Q-Games所制作的东西一个个进行确认，实在是非常愉快。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo18.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo18.jpg" width="250" height="150" %}
 
 ##### 岩田
 明明是自己在14年前所制作出来的东西，是吗？
@@ -1321,7 +1321,7 @@ normal mapping就是，也被称作法线mapping，就算是一张平面的多�
 ##### 天野
 这次玩过后，“内容比原来的多了3倍呀”。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo19.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo19.jpg" width="250" height="150" %}
 
 ##### 全体
 （笑）
@@ -1362,7 +1362,7 @@ normal mapping就是，也被称作法线mapping，就算是一张平面的多�
 ##### Dylan
 我希望大家可以享受最多4人的对战模式。通过照相机可以拍到玩家的脸，可以看着对方的脸并同时对战。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo20.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo20.jpg" width="250" height="150" %}
 
 ##### 岩田
 对方的脸并不是用Mii，对吧。
@@ -1436,7 +1436,7 @@ Dylan，也期待下次的作品。
 ##### 岩田
 今天非常谢谢各位。
 
-{% include figure.html src="https://www.nintendo.co.jp/3ds/interview/anrj/vol1/img/photo21.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/3ds/interview/anrj/vol1/img/photo21.jpg" width="250" height="150" %}
 
 ##### 全体
 谢谢。

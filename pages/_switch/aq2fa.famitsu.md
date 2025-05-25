@@ -9,9 +9,9 @@ interviewees:
 - 襟川芽衣
 - 宫内淳
 - 杉原希
-last_modified_at: 2022-11-07 14:30
+last_modified_at: 2025-05-25 19:10
 links: 
-- - https://www.nintendo.co.jp/switch/ap2fa/index.html
+- - https://www.nintendo.com/jp/switch/ap2fa/index.html
   - 《搭档任务 秘密搜查组》官网
 sources: 
 - - https://www.famitsu.com/news/202104/06217147.html

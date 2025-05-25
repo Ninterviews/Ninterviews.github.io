@@ -9,16 +9,16 @@ interviewees:
 - 堂田卓宏
 - 泷泽智
 - 若井淑
-last_modified_at: 2023-10-12 19:06
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/switch/totk/
+- - https://www.nintendo.com/jp/switch/totk/
   - 《塞尔达传说 王国之泪》官网
 references: 
-- - https://www.nintendo.com.hk/interview/totk/
+- - https://www.nintendo.com/hk/interview/totk/
   - "開發人員訪談 : 薩爾達傳說 王國之淚"
 sources: 
-- - https://www.nintendo.co.jp/interview/totk/
+- - https://www.nintendo.com/jp/interview/totk/
   - "開発者に訊きました : ゼルダの伝説　ティアーズ オブ ザ キングダム"
 title: 开发人员访谈：塞尔达传说 王国之泪
 ---
@@ -84,7 +84,7 @@ title: 开发人员访谈：塞尔达传说 王国之泪
 
 即便前作《旷野之息》为一作完结式的故事，但由于在游戏结束后的地图中我们看见了更多“想尝试的点子”，因此并没有改变“制作续篇”这个想法。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/totk/img/fig_chapter01-01.png" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/totk/img/fig_chapter01-01.png" alt="" width="750" height="422" %}
 
 ##### 藤林
 正因为并非“熟悉”而是在清楚“哪里有什么”的状态下，感觉到了能实现“想开发的崭新玩法”的可能性。
@@ -92,7 +92,7 @@ title: 开发人员访谈：塞尔达传说 王国之泪
 所以在最一开始的企画书上，大大记下了“不改变地图”的重要方针。而且在向这几位成员传达这个点子时，大家也都没有提出异议。从那时起，我们的想法就是一致的。
 
 ##### 堂田
-我在开发《Wii 运动 度假胜地》<sup>[※6](#ref-6)</sup>时是负责“乌富岛”的程序设计。记得当时[宫本先生说过“想将舞台变成角色”这件事。](https://www.nintendo.co.jp/wii/interview/rztj/vol1/index2.html)
+我在开发《Wii 运动 度假胜地》<sup>[※6](#ref-6)</sup>时是负责“乌富岛”的程序设计。记得当时[宫本先生说过“想将舞台变成角色”这件事。](https://www.nintendo.com/jp/wii/interview/rztj/vol1/index2.html)
 
 具体来说，是打造一个岛屿再置入不同的作品中，并在其加上各式游戏。明明是同一地图，却会有新的发现……这件事令我印象深刻。
 
@@ -137,7 +137,7 @@ title: 开发人员访谈：塞尔达传说 王国之泪
 
 有些内容会让玩过前作的玩家忆起之前的趣事而会心一笑，想必玩家能乐在其中。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/totk/img/fig_chapter01-02.png" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/totk/img/fig_chapter01-02.png" alt="" width="750" height="422" %}
 
 ##### 也就是说，虽然续作是以前作为基底，但也有替初次游玩的玩家作了不少配套措施。话说回来，世界本身跟前作一样的话，应该会需要在画面与音效上作出差异吧？
 {: .question }
@@ -156,7 +156,7 @@ title: 开发人员访谈：塞尔达传说 王国之泪
 
 SE的部分则是使用跟前作截然不同的新系统来驱动，因此即便音效本身跟前作一模一样，听起来也会更有真实感。
 
-举例来说，在前作中我们有将鸟叫声这种距离较近的环境音做得很逼真[而在本作中，我们有加强表现能力，让远处传来的鸟叫声听起来更逼真](https://www.nintendo.co.jp/interview/totk/movie/01.mp4){: .video-link }。
+举例来说，在前作中我们有将鸟叫声这种距离较近的环境音做得很逼真[而在本作中，我们有加强表现能力，让远处传来的鸟叫声听起来更逼真](https://www.nintendo.com/jp/interview/totk/movie/01.mp4){: .video-link }。
 
 ##### 看来各个部门都是以前作为中心，挑战着新事物呢。
 {: .question }
@@ -171,7 +171,7 @@ SE的部分则是使用跟前作截然不同的新系统来驱动，因此即便
 ##### 青沼
 你是指右手吧。我们想呈现一种特征，让玩家一眼就能看出是本作的林克。还有不瞒你说，这只“手”……应该说“手牵手”这点是本作故事的核心要素。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/totk/img/fig_chapter02-01.jpg" alt="" width="1280" height="483" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/totk/img/fig_chapter02-01.jpg" alt="" width="1280" height="483" %}
 
 ##### “手牵手”？这是什么意思呢？
 {: .question }
@@ -256,7 +256,7 @@ BGM当中也有加入拍手音来表演“手”的部分喔。
 ##### 泷泽
 尤其开发初期的时候难免会感受到强烈的既视感，所以会把“尽可能改变印象”这件事当成首要的目标。不过开发到一定程度就会突然发现“改了反而会失去魅力”的部分。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/totk/img/fig_chapter02-02.png" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/totk/img/fig_chapter02-02.png" alt="" width="750" height="422" %}
 
 ##### 藤林
 我们不只认同这些不变的部分，还将其称为“伟大的千篇一律”呢。
@@ -297,7 +297,7 @@ BGM当中也有加入拍手音来表演“手”的部分喔。
 本作的起点，就是搜集并实现这些没被采用的点子。要是制作完全不同的地图，这些点子大概会跟前作一样无法实现。就这层面上来说，在同样地图上制作新内容是很有意义的事情。
 
 ##### 泷泽
-[举悬崖的“洞窟”入口](https://www.nintendo.co.jp/interview/totk/photo/02.jpg){: .figure-link }当例子或许会比较好懂。
+[举悬崖的“洞窟”入口](https://www.nintendo.com/jp/interview/totk/photo/02.jpg){: .figure-link }当例子或许会比较好懂。
 
 ##### 堂田
 前作中的悬崖只能用来攀爬，所以崖壁上没有任何东西呢。
@@ -329,7 +329,7 @@ BGM当中也有加入拍手音来表演“手”的部分喔。
 
 结果某天我就被设计师骂了。说我岛屿放太多，天空看起来很脏（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/totk/img/fig_chapter03-01.png" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/totk/img/fig_chapter03-01.png" alt="" width="750" height="422" %}
 
 ##### 泷泽
 当时看起来确实是乱七八糟的……（笑）
@@ -342,7 +342,7 @@ BGM当中也有加入拍手音来表演“手”的部分喔。
 
 不过在无接缝的天空中追加实际大小的浮空石等游乐场之后，从地上仰望时会因为尺寸太小，导致看起来就像垃圾浮在空中一样（笑）。虽然最后设计师有帮忙把外观调整得很漂亮就是了。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/totk/img/fig_chapter03-02.png" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/totk/img/fig_chapter03-02.png" alt="" width="750" height="422" %}
 
 ##### 若井
 天空和地面无接缝相连这部分，让我们在音效方面也费了不少苦心。
@@ -406,11 +406,11 @@ BGM当中也有加入拍手音来表演“手”的部分喔。
 尤其是本作特征之一──将物品结合的功能，是在开发初期，藤林说“想在续作加入这个玩法！”因而纳入的发想。
 
 ##### 藤林
-当时，[我尝试只用前作的玩法以及零件试做了“交通工具”并向大家发表呢](https://www.nintendo.co.jp/interview/totk/movie/02.mp4){: .video-link }。
+当时，[我尝试只用前作的玩法以及零件试做了“交通工具”并向大家发表呢](https://www.nintendo.com/jp/interview/totk/movie/02.mp4){: .video-link }。
 
 挑4个能转动的齿轮当作轮子，将其与板子结合组成车子；或是把能自己转动的齿轮与板子结合，组成外轮船等。还有，把石板组装成炮管，用遥控炸弹做出能发射古代球的大炮，并装在车子上，组成战车之类的（笑）。
 
-于是，我提出了“如果林克拥有『组装物品的能力』，用现有材料就能发展出这么多的玩法喔！”这个想法。这便成了本作[“透过究极手打造载具”](https://www.nintendo.co.jp/interview/totk/movie/03.mp4){: .video-link }的开端呢。
+于是，我提出了“如果林克拥有『组装物品的能力』，用现有材料就能发展出这么多的玩法喔！”这个想法。这便成了本作[“透过究极手打造载具”](https://www.nintendo.com/jp/interview/totk/movie/03.mp4){: .video-link }的开端呢。
 
 ##### 原来如此。“结合材料打造物品”这个点子，从开发初期就已经出现了呢。即使只看了青沼先生的游玩影片，也能清楚直觉到“这个组合可以做出什么”。
 {: .question }
@@ -423,10 +423,10 @@ BGM当中也有加入拍手音来表演“手”的部分喔。
 
 为了不让玩家遇到“明明想这么做，却没办法达成”的问题，我们放了很多心力在个别调整道具上。
 
-多亏如此，诞生了许多能透过余料建造打造的迷人武器。[例如能做出宛如“死神的大镰刀”般的长枪喔。](https://www.nintendo.co.jp/interview/totk/photo/03.jpg){: .figure-link }。
+多亏如此，诞生了许多能透过余料建造打造的迷人武器。[例如能做出宛如“死神的大镰刀”般的长枪喔。](https://www.nintendo.com/jp/interview/totk/photo/03.jpg){: .figure-link }。
 
 ##### 青沼
-不过，看到结合在一起的材料时，[会发现有像是黏着剂般的东西在上面呢！](https://www.nintendo.co.jp/interview/totk/photo/04.jpg){: .figure-link }刚开始我甚至有点吓到了呢，“真的要让它看起来长这样吗！？”（笑）。
+不过，看到结合在一起的材料时，[会发现有像是黏着剂般的东西在上面呢！](https://www.nintendo.com/jp/interview/totk/photo/04.jpg){: .figure-link }刚开始我甚至有点吓到了呢，“真的要让它看起来长这样吗！？”（笑）。
 
 ##### 泷泽
 我怎么觉得现在好像有点被嫌弃了……！？不，但这应该是最好展现出“究竟是否黏在一起”的指标了。我有自信（笑）。
@@ -440,7 +440,7 @@ BGM当中也有加入拍手音来表演“手”的部分喔。
 
 因此，无论材料种类，“黏合音效”常常会是同一种声音。正因为是经常听见的音效，展现出能让人单纯享受组装乐趣的手感是重点。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/totk/img/fig_chapter04-01.png" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/totk/img/fig_chapter04-01.png" alt="" width="750" height="422" %}
 
 ##### 藤林
 于是便这样决定了外观，再加上音效之后，材料黏合瞬间的手感就变得十分不错，令人上瘾呢。
@@ -492,7 +492,7 @@ BGM当中也有加入拍手音来表演“手”的部分喔。
 我想，在青沼先生的实机游玩影片中可以看到，使用“左纳乌装置”就能起风甚至移动物体。运用这项能力，说不定可以完成像是“全方位火焰喷射器”这种破天荒的道具。总之，在好的方面，我们准备了不少能投机取巧的方式。
 
 ##### 青沼
-不过，虽然名为魔法数值，[外观却仿佛干电池一般呢](https://www.nintendo.co.jp/interview/totk/photo/05.jpg){: .figure-link }（笑）。
+不过，虽然名为魔法数值，[外观却仿佛干电池一般呢](https://www.nintendo.com/jp/interview/totk/photo/05.jpg){: .figure-link }（笑）。
 
 ##### 在场所有人
 （笑）。
@@ -502,7 +502,7 @@ BGM当中也有加入拍手音来表演“手”的部分喔。
 
 但实际上，虽说是“灵性道具”，若不晓得它本身是什么，连使用都没办法呢。所以最后会发现说“这是魔法噢！”的东西其实是……嗯，电风扇。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/totk/img/fig_chapter04-02.png" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/totk/img/fig_chapter04-02.png" alt="" width="750" height="422" %}
 
 ##### 在场所有人
 （笑）。
@@ -533,7 +533,7 @@ BGM当中也有加入拍手音来表演“手”的部分喔。
 
 以前，曾经有个地方堆了不能动的木箱。因为“不能拿的话玩家绝对会失望”，所以就把它修改成可以拿起来的箱子。
 
-之后，[若有绝对不想让玩家移动的东西，设计者便会把它用绳子围起来，或用布覆盖住，布置成努力暗示大家“这不能动喔”的记号。](https://www.nintendo.co.jp/interview/totk/photo/06.jpg){: .figure-link }。在那种地方的坚持也许意外地多呢。
+之后，[若有绝对不想让玩家移动的东西，设计者便会把它用绳子围起来，或用布覆盖住，布置成努力暗示大家“这不能动喔”的记号。](https://www.nintendo.com/jp/interview/totk/photo/06.jpg){: .figure-link }。在那种地方的坚持也许意外地多呢。
 
 ##### 堂田
 不能破坏的壶绝对会被盖起来（笑）。随着游玩时间增加，大脑处理资讯的速度也会跟着提升，因此游戏进行到某种程度时，大脑就会自动开始分类。例如“这是敌人”、“这不能碰”或“这个要拿”。
@@ -562,7 +562,7 @@ BGM当中也有加入拍手音来表演“手”的部分喔。
 
 在某方面，这算是“塞尔达传说”系列特有的要素，而我觉得本作又更加体现了这个部分。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/totk/img/fig_chapter05-01.png" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/totk/img/fig_chapter05-01.png" alt="" width="750" height="422" %}
 
 ##### 谢谢。不单只有本作，总觉得能强烈感受到参与开发“塞尔达传说”系列的想法呢。接着，进到最后一个部分。如果有特别希望玩家能注意到、或是讲究的地方，能请各位进行说明吗？
 {: .question }

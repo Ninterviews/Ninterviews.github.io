@@ -9,7 +9,7 @@ interviewees:
 - 中西健太
 - 樋口雅大
 - 草木原俊行
-last_modified_at: 2023-01-23 10:59
+last_modified_at: 2025-05-25 19:10
 title: 《FIRE EMBLEM Echoes 另一位英雄王》访谈
 ---
 2017年4月某日，已经开始收到了顾客的声音。我们拜访了作为开发商的Intelligent Systems，询问了本作的制作想法和开发经过等。敬请阅读。
@@ -253,7 +253,7 @@ title: 《FIRE EMBLEM Echoes 另一位英雄王》访谈
 
 作为《FE》整体的主题，是一个家族和血液的故事，其中《外传》是男女的故事。比如在第二章的结尾，阿鲁姆和赛丽卡发生了非常不讲理的争吵，那其实也是男女之间经常发生的感觉。在平时的交流中，男性总是不明白女性生气的理由。还有，像阿鲁姆和赛莉卡那样，设定在巴伦西亚大陆整体相对的世界里。无论是米拉和多马，还是里格尔和索非亚。各自都是男性、女性的象征。其中，阿鲁姆是追求力量的道路，赛丽卡是爱的道路，从爱中拯救阿鲁姆等人，是某种自我牺牲的道路，在剧本上也是一对。
 
-{% include figure.html src="https://www.nintendo.co.jp/3DS/ajjj/characters/images/modal/character024_l.png" alt="作为沉溺于力量的存在而描绘的贝尔克。但是，这也是为了得到叔父鲁道夫的信赖而挣扎的悲伤姿态。" width="198" height="366.5" %}
+{% include figure.html src="https://www.nintendo.com/jp/3DS/ajjj/characters/images/modal/character024_l.png" alt="作为沉溺于力量的存在而描绘的贝尔克。但是，这也是为了得到叔父鲁道夫的信赖而挣扎的悲伤姿态。" width="198" height="366.5" %}
 
 ##### 核心是“男女的故事”和“成对的设定”。
 {: .question }
@@ -746,7 +746,7 @@ srider本来就令人印象深刻，不是吗？要说什么让他印象深刻�
 
 刚才也说了，我觉得这样的角色设定对于加入新角色的人来说很好。
 
-{% include figure.html src="https://www.nintendo.co.jp/3DS/ajjj/characters/images/modal/character029_l.png" alt="假面骑士。还没有玩的人，一定要享受这种反差！" width="231.5" height="366" %}
+{% include figure.html src="https://www.nintendo.com/jp/3DS/ajjj/characters/images/modal/character029_l.png" alt="假面骑士。还没有玩的人，一定要享受这种反差！" width="231.5" height="366" %}
 
 ### 肩负着大河剧无情的新角色费尔南
 
@@ -1020,7 +1020,7 @@ srider本来就令人印象深刻，不是吗？要说什么让他印象深刻�
 ##### 樋口
 {: .border-blue }
 
-我们制作《外传》的初衷是想让玩过《外传》的人和还没玩过《外传》的人都能乐在其中。如果能拿到手上，而且能让大家情绪高涨的话，我会非常开心的。与《觉醒》和《if》不同，这是一个稍微挖掘过去的标题，今后我也会尝试这样的试错和新的挑战。所以，一边玩《回声》，一边下一个[Switch版](https://www.nintendo.co.jp/switch/anvya/），请期待。
+我们制作《外传》的初衷是想让玩过《外传》的人和还没玩过《外传》的人都能乐在其中。如果能拿到手上，而且能让大家情绪高涨的话，我会非常开心的。与《觉醒》和《if》不同，这是一个稍微挖掘过去的标题，今后我也会尝试这样的试错和新的挑战。所以，一边玩《回声》，一边下一个[Switch版](https://www.nintendo.com/jp/switch/anvya/），请期待。
 
 ##### 中西
 {: .border-green }

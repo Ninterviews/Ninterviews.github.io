@@ -1,6 +1,6 @@
 ---
 date: 2009-11-13
-image: https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/mainvisual1.jpg
+image: https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/mainvisual1.jpg
 image_height: 236
 image_width: 768
 interviewees: 
@@ -8,17 +8,17 @@ interviewees:
 - 向尾英治
 - 一角崇行
 - 足助重之
-last_modified_at: 2021-06-17 19:38
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/wii/smnj/index.html
+- - https://www.nintendo.com/jp/wii/smnj/index.html
   - 《New 超级马力欧兄弟 Wii》官网
 no_index: true
 references: 
-- - https://www.nintendo.com.hk/nsmb/nsmb_interview_03.html
+- - https://www.nintendo.com/hk/nsmb/nsmb_interview_03.html
   - 社長提問『新 超級瑪利歐兄弟 Wii』
 sources: 
-- - https://www.nintendo.co.jp/wii/interview/smnj/vol3/index.html
+- - https://www.nintendo.com/jp/wii/interview/smnj/vol3/index.html
   - 社長が訊く『New スーパーマリオブラザーズ Wii』
 title: 社长提问《New 超级马力欧兄弟 Wii》
 ---
@@ -36,17 +36,17 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 ##### 足助
 好的。我是负责担任总监的情报开发本部的足助。这一次我想做的是“做出大家都能玩的《马力欧》”，希望做出厉害的人和不是那么厉害的人都可以一起玩新的《马力欧》。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo1.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo1.jpg" width="250" height="150" %}
 
 ##### 一角
 我是情报开发本部的一角。这一次的《New 超级马力欧兄弟 Wii》中我担任地图＆程度设计者负责制作舞台和调整难易度。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo2.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo2.jpg" width="250" height="150" %}
 
 ##### 向尾
 我是情报开发本部的向尾。这一次是负责所谓地形背景等绘图方面的整理。希望做出让客人容易玩而且不会辜负客人期待的绘图。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo3.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo3.jpg" width="250" height="150" %}
 
 ##### 岩田
 “不会辜负客人期待”这可是好大的压力，要做好这个工作，也必须要打败这样的压力，制造这种有传统的东西的确很辛苦呢。
@@ -57,7 +57,7 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 ##### 内田
 我是情报开发本部的内田。我这一次负责音效程序和音效制作。我也是，对于抵抗重大压力，还有所谓的传统，花了很多心力（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo4.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo4.jpg" width="250" height="150" %}
 
 ##### 岩田
 ……不知道为什么，话题好像都自然围绕在吃苦的事情（笑）。
@@ -99,7 +99,7 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 啊，原来如此（笑）。
 
 ##### 足助
-在那之前几乎没有在玩游戏，好像是她弟弟找她玩，她才一起玩《New 超级马力欧兄弟 Wii》。然后，她说“都拖累弟弟，一直是变成[泡泡](https://www.nintendo.co.jp/wii/interview/smnj/vol3/movie/moviemovie001.jpg?width=384&height=256){: .figure-link }的状态，让弟弟带自己过关”。
+在那之前几乎没有在玩游戏，好像是她弟弟找她玩，她才一起玩《New 超级马力欧兄弟 Wii》。然后，她说“都拖累弟弟，一直是变成[泡泡](https://www.nintendo.com/jp/wii/interview/smnj/vol3/movie/moviemovie001.jpg?width=384&height=256){: .figure-link }的状态，让弟弟带自己过关”。
 
 ##### 岩田
 确实是这样，游戏厉害的人和不厉害的人在一起玩时，这是最理想的状态。
@@ -128,7 +128,7 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 ##### 岩田
 电车客满，你还做出这种得意的胜利手势，你应该是真的很高兴吧。刚好现在，谈到这件事，顺便问一下，泡泡的系统是怎么诞生的啊？
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo5.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo5.jpg" width="250" height="150" %}
 
 ##### 足助
 开发途中，我们开始实验4人玩法的时候，实际上，大家都会玩。那时，我掉到洞里而失误，因为失误的人就不能玩，那时候我的想法是“好想早点回到游戏喔”。
@@ -190,7 +190,7 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 ##### 足助
 是的。您说的没错。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/mainvisual2.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/mainvisual2.jpg" width="768" height="236" %}
 
 ### 2. 希望被救时是“烤饭团”？
 ##### 向尾
@@ -223,7 +223,7 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 ##### 足助
 这么一来，希望早点被打破的时候是努力上下挥动Wii遥控器，手边可以听见“Help me!”的声音，很顺利地连结玩家的心情和动作。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo6.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo6.jpg" width="250" height="150" %}
 
 ##### 岩田
 原来如此。同时挥动Wii遥控器的话，就可以接近朋友，也可以发出讯息“希望你打破我的泡泡吧”。但如果不挥动，很安静的话，就是“不要打破我的泡泡，带我走吧”。
@@ -247,7 +247,7 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 （笑）
 
 ##### 内田
-希望被打破时发出的声音是[“Help me!”“Hello!”，以及“Get me out of here!”](https://www.nintendo.co.jp/wii/interview/smnj/vol3/movie/moviemovie002.jpg?width=384&height=256){: .figure-link }。
+希望被打破时发出的声音是[“Help me!”“Hello!”，以及“Get me out of here!”](https://www.nintendo.com/jp/wii/interview/smnj/vol3/movie/moviemovie002.jpg?width=384&height=256){: .figure-link }。
 
 ##### 足助
 “Get me out of here”的意思是“放我出来”吧。
@@ -306,7 +306,7 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 ##### 一角
 弟弟也是“你看看！”得意的表情，而且做出很大很大的胜利手势（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo7.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo7.jpg" width="250" height="150" %}
 
 ##### 众人
 （笑）
@@ -315,7 +315,7 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 厉害的人和没那么厉害的人一起玩时，不会永远只是厉害的人，救不厉害的人而已，有时也会反过来，这就是这个游戏好玩的地方。本来一角先生是，用什么样的思考方式来设计游戏的程度呢？
 
 ##### 一角
-基本上，我是以1人玩来思考的。全部的关卡中，没有用冲，没有用踢墙跳，也可以过关。不使用冲或是踢墙跳等、可以让马力欧变得厉害的道具，就拿不到星星金币。然而，这么一来2人以上的玩法是，[1人背另1人，把另1人丢出去，拿到星星金币的瞬间，另1人变成泡泡](https://www.nintendo.co.jp/wii/interview/smnj/vol3/movie/moviemovie003.jpg?width=384&height=256){: .figure-link }。
+基本上，我是以1人玩来思考的。全部的关卡中，没有用冲，没有用踢墙跳，也可以过关。不使用冲或是踢墙跳等、可以让马力欧变得厉害的道具，就拿不到星星金币。然而，这么一来2人以上的玩法是，[1人背另1人，把另1人丢出去，拿到星星金币的瞬间，另1人变成泡泡](https://www.nintendo.com/jp/wii/interview/smnj/vol3/movie/moviemovie003.jpg?width=384&height=256){: .figure-link }。
 
 ##### 岩田
 2人协力合作，可以简单拿到星星金币。
@@ -380,7 +380,7 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 ##### 岩田
 可是，因为有立场不一样的人在看，所以才能取得适当的平衡吧。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/mainvisual3.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/mainvisual3.jpg" width="768" height="236" %}
 
 ### 3. 背着太太过关
 ##### 岩田
@@ -410,7 +410,7 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 ##### 向尾
 然后再听她说下去，在困难的地方是，让哥哥背，一直往前进，让哥哥帮忙，才能够过关。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo8.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo8.jpg" width="250" height="150" %}
 
 ##### 岩田
 对啊，这个是高兴的事吧（笑）。就算玩游戏不厉害的人，也可以让厉害的人帮忙体验过关的感觉。
@@ -440,9 +440,9 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 接下来，内田小姐，让你久等了。内田小姐的身边，发生了什么样的事情呢？
 
 ##### 内田
-我没有办法像大家一样，提供神奇的事情……这一次，在音乐里，放入了[配合“♪wa-waaa!”的时机栗宝宝跳跃，跳舞](https://www.nintendo.co.jp/wii/interview/smnj/vol3/movie/moviemovie004.jpg?width=384&height=256){: .figure-link }等演出，让栗宝宝配合音乐跳舞，我想，可能没有人发现吧。然而，我有机会看到Club Nintendo的消费者调查，有客人写，“栗宝宝配合音乐跳，好可爱”。
+我没有办法像大家一样，提供神奇的事情……这一次，在音乐里，放入了[配合“♪wa-waaa!”的时机栗宝宝跳跃，跳舞](https://www.nintendo.com/jp/wii/interview/smnj/vol3/movie/moviemovie004.jpg?width=384&height=256){: .figure-link }等演出，让栗宝宝配合音乐跳舞，我想，可能没有人发现吧。然而，我有机会看到Club Nintendo的消费者调查，有客人写，“栗宝宝配合音乐跳，好可爱”。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo9.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo9.jpg" width="250" height="150" %}
 
 ##### 岩田
 有人很认真在看呢（笑）。
@@ -490,9 +490,9 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 就是螺旋桨的事。
 
 ##### 岩田
-啊，螺旋桨啊（笑）。我在[“社长提问《New 超级马力欧兄弟 Wii》之1”]({{ "/wii/smnj.html" | relative_url }})听到宫本先生提过这件事。你被问到“[螺旋桨](https://www.nintendo.co.jp/wii/interview/smnj/vol3/movie/moviemovie005.jpg?width=384&height=256){: .figure-link }是用什么样的素材做的？”，“动力是什么？”。
+啊，螺旋桨啊（笑）。我在[“社长提问《New 超级马力欧兄弟 Wii》之1”]({{ "/wii/smnj.html" | relative_url }})听到宫本先生提过这件事。你被问到“[螺旋桨](https://www.nintendo.com/jp/wii/interview/smnj/vol3/movie/moviemovie005.jpg?width=384&height=256){: .figure-link }是用什么样的素材做的？”，“动力是什么？”。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo10.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo10.jpg" width="250" height="150" %}
 
 ##### 内田
 是的，没有错。
@@ -520,11 +520,11 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 > ※7　《星之卡比》：1993年3月以Famicom软件发售的动作游戏。由HAL Laboratory开发，岩田（聪）以前担任过HAL Laboratory的社长。
 > {: #ref-7 }
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/mainvisual4.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/mainvisual4.jpg" width="768" height="236" %}
 
 ### 4. 大家互相批评的“游戏示范”
 ##### 岩田
-接下来，换个话题我想聊一下“[游戏示范](https://www.nintendo.co.jp/wii/interview/smnj/vol3/movie/moviemovie006.jpg?width=384&height=256){: .figure-link }”。原本，“游戏示范”是怎么诞生的呢？
+接下来，换个话题我想聊一下“[游戏示范](https://www.nintendo.com/jp/wii/interview/smnj/vol3/movie/moviemovie006.jpg?width=384&height=256){: .figure-link }”。原本，“游戏示范”是怎么诞生的呢？
 
 ##### 足助
 原本是，很多人说DS版的《New 马力欧》“很简单”……
@@ -547,7 +547,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 足助
 您说的没错。因为有怎么做都无法打倒的城主，有不少人就不玩游戏了。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo11.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo11.jpg" width="250" height="150" %}
 
 ##### 岩田
 原来如此。
@@ -585,7 +585,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 向尾
 对的。果然让客人看用冲而造成蹦蹦跳的玩法，看到“游戏示范”的人也不会认为自己看了就会做。所以做出了设计，不用冲和踢墙跳，用慢慢的，沉稳的玩法来过关。所以决定了几项规则，“不做太厉害的玩法”、“不做无谓的动作”等，员工来收录，然后，还是有好有坏。所以，把大家找来，召开会议，让大家看其它人的玩法。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo12.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo12.jpg" width="250" height="150" %}
 
 ##### 岩田
 大家一起看“游戏示范”，互相批评吧。
@@ -617,7 +617,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 岩田
 但是被人家指示“不要做无谓的动作”，反而紧张，“哇，又做了无谓的动作。重来1次”，又重复做吧，明明快哭出来，一边还要继续收录。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo13.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo13.jpg" width="250" height="150" %}
 
 ##### 向尾
 就是这样。其中有一个很长的关卡，在最后的最后，有一点失误……
@@ -640,7 +640,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 向尾
 可是，我也不是很会玩游戏的人，不用冲来玩的话，那种的玩法很难，我才知道“哇，原来这么困难啊”，对我们做开发的人来说，也学到了很多。而且，要让客人看不出来这是由20名左右的员工在玩，这些人的程度是几乎统一得差不多。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/mainvisual5.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/mainvisual5.jpg" width="768" height="236" %}
 
 ### 5. 完工的2星期前做出关卡
 ##### 岩田
@@ -671,7 +671,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 对啊。但还是有十分困难的关卡，对于负责做事的员工，我觉得很不好意思。
 
 ##### 岩田
-原来如此。另外，“游戏示范”之外，还可以看到Mario Club<sup>[※8](#ref-8)</sup>的除错同事们做的“[藏宝影片](https://www.nintendo.co.jp/wii/interview/smnj/vol3/movie/moviemovie007.jpg?width=384&height=256){: .figure-link }”。能够做到那种超级绝顶的超级技巧，对于你们做游戏的人来说，是不是觉得惊讶？
+原来如此。另外，“游戏示范”之外，还可以看到Mario Club<sup>[※8](#ref-8)</sup>的除错同事们做的“[藏宝影片](https://www.nintendo.com/jp/wii/interview/smnj/vol3/movie/moviemovie007.jpg?width=384&height=256){: .figure-link }”。能够做到那种超级绝顶的超级技巧，对于你们做游戏的人来说，是不是觉得惊讶？
 
 ##### 一角
 对啊，我很吃惊“居然这个也会！”（笑）。
@@ -688,7 +688,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 向尾
 老实说最初，我们想由员工来录。员工中，有几人对于游戏玩法是有自信的，实际请他们来玩看看，但是他们觉得不可行。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo14.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo14.jpg" width="250" height="150" %}
 
 ##### 岩田
 哇，那他们要哭死了。
@@ -729,7 +729,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 足助
 我是请他们只做2个而已啦，但是他们说“做好了”，给我的影片是加了5个的超级技巧。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo15.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo15.jpg" width="250" height="150" %}
 
 ##### 岩田
 真是干得好（笑）。
@@ -756,7 +756,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 对。在碧姬城堡可以看影片，玩一玩，有一点想喘口气时可以绕去看的话，是很好玩的。
 
 ##### 岩田
-接下来，来谈一谈“[金币对战](https://www.nintendo.co.jp/wii/interview/smnj/vol3/movie/moviemovie008.jpg?width=384&height=256){: .figure-link }”吧。刚好日本一决定战<sup>[※9](#ref-9)</sup>也决定要举办了。金币对战是怎么产生出来的呢？
+接下来，来谈一谈“[金币对战](https://www.nintendo.com/jp/wii/interview/smnj/vol3/movie/moviemovie008.jpg?width=384&height=256){: .figure-link }”吧。刚好日本一决定战<sup>[※9](#ref-9)</sup>也决定要举办了。金币对战是怎么产生出来的呢？
 
 > ※9　日本一决定战：“New 超级马力欧兄弟 Wii 金币对战日本一决定战”（<span lang="ja">NewスーパーマリオブラザーズWii コインバトル日本一決定戦</span>）。在日本全国7地区展开预赛，2010年3月27日，在东京展开决战大会“金币对战”的活动。
 > {: #ref-9 }
@@ -773,7 +773,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 一角
 一开始决定“专用关卡做2个就好”。然而，一下子出现金币对战舞台的选择画面时，有10个图像并排在一起，但是有人说“专用关卡只有2个啊？至少上面1排，要是专用关卡吧”。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo16.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo16.jpg" width="250" height="150" %}
 
 ##### 岩田
 是谁说的啊？
@@ -838,7 +838,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 足助
 对啊。我想大概就没有日本一决定战。所以说，我们这么拼，还是值得的啦。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/mainvisual6.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/mainvisual6.jpg" width="768" height="236" %}
 
 ### 6. 结果发表前让人心惊肉跳的“金币对战”
 ##### 岩田
@@ -877,7 +877,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 岩田
 啊，原来如此。一边争夺金币，在玩的中间不知道谁输谁赢，最后结果才分晓的话，才好玩。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo17.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo17.jpg" width="250" height="150" %}
 
 ##### 足助
 这个是游戏设计重点。一开始的决定是，在游戏途中，可以知道状况。可是，如果显示获得金币的枚数，这么一来，如果二者之间差异很大的话，输的人，在途中会想放弃吧。然而，隐藏金币枚数显示的话，不知道自己是输还是赢，在结果发表前，会觉得十分心惊肉跳。
@@ -910,7 +910,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 向尾先生的推荐是？
 
 ##### 向尾
-刚刚说到“藏宝影片”的超级技巧是厉害玩法，其中，希望客人试好几种东西。例如，炮弹刺客大量地从大炮出来的关卡，[为了不要掉在地面，在炮弹刺客上面连续跳跃](https://www.nintendo.co.jp/wii/interview/smnj/vol3/movie/moviemovie009.jpg?width=384&height=256){: .figure-link }的话，点数一直可以往上加。然后最终1UP，那之后也2UP，3UP一直往上加，自己周围很多人流行一直重复做这件事。
+刚刚说到“藏宝影片”的超级技巧是厉害玩法，其中，希望客人试好几种东西。例如，炮弹刺客大量地从大炮出来的关卡，[为了不要掉在地面，在炮弹刺客上面连续跳跃](https://www.nintendo.com/jp/wii/interview/smnj/vol3/movie/moviemovie009.jpg?width=384&height=256){: .figure-link }的话，点数一直可以往上加。然后最终1UP，那之后也2UP，3UP一直往上加，自己周围很多人流行一直重复做这件事。
 
 ##### 岩田
 在一团和乐玩法的设计团队中，也有人会那么做啊？
@@ -927,7 +927,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 岩田
 你想说的是“藏宝影片”的超级技巧不是专为少数人做的东西吧。内田小姐，你推荐玩法是什么？
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/mainvisual7.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/mainvisual7.jpg" width="768" height="236" %}
 
 ### 7. 玩家各自有享受游戏的方法
 ##### 岩田
@@ -946,7 +946,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 也就是，就算是厉害的人“游戏示范”也值得一看啰。
 
 ##### 足助
-对的。如果遇到无法1UP的关卡，请务必去看看“游戏示范”。另外，刚刚向尾先生提到炮弹刺客上面的连续跳跃，在“藏宝影片”中还有其他许多玩法提示。例如，在世界3－5的影片中，普通是需要坐升降梯的关卡，[4人协力的话，不用升降梯也可以到终点](https://www.nintendo.co.jp/wii/interview/smnj/vol3/movie/moviemovie010.jpg?width=384&height=256){: .figure-link }……
+对的。如果遇到无法1UP的关卡，请务必去看看“游戏示范”。另外，刚刚向尾先生提到炮弹刺客上面的连续跳跃，在“藏宝影片”中还有其他许多玩法提示。例如，在世界3－5的影片中，普通是需要坐升降梯的关卡，[4人协力的话，不用升降梯也可以到终点](https://www.nintendo.com/jp/wii/interview/smnj/vol3/movie/moviemovie010.jpg?width=384&height=256){: .figure-link }……
 
 ##### 岩田
 原来如此～。
@@ -958,7 +958,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 路易吉是被当做是像球一样在玩吧。
 
 ##### 足助
-像是“[Luigi bucket brigade](https://www.nintendo.co.jp/wii/interview/smnj/vol3/movie/moviemovie011.jpg?width=384&height=256){: .figure-link }”的玩法也可以玩。实际上试看看，十分好玩。
+像是“[Luigi bucket brigade](https://www.nintendo.com/jp/wii/interview/smnj/vol3/movie/moviemovie011.jpg?width=384&height=256){: .figure-link }”的玩法也可以玩。实际上试看看，十分好玩。
 
 ##### 岩田
 被弄的那一方，应该吃不消吧（笑）。
@@ -969,10 +969,10 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 岩田
 厉害的人和不太厉害的人们协力游玩固然是好玩。可是，厉害的人之间的协力游玩，另有一番趣味，对游戏不在行的人来说，乍看之下，看不出来他们到底在玩什么，这个游戏可以发展到这个程度吧。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo18.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo18.jpg" width="250" height="150" %}
 
 ##### 足助
-对。所以说，没有打破泡泡之前，无法复活这件事，在想要捉弄人时，也可以活用。例如，虽然有人说“救我！救我！”，[装作不知道，一直不帮他打破](https://www.nintendo.co.jp/wii/interview/smnj/vol3/movie/moviemovie012.jpg?width=384&height=256){: .figure-link }。
+对。所以说，没有打破泡泡之前，无法复活这件事，在想要捉弄人时，也可以活用。例如，虽然有人说“救我！救我！”，[装作不知道，一直不帮他打破](https://www.nintendo.com/jp/wii/interview/smnj/vol3/movie/moviemovie012.jpg?width=384&height=256){: .figure-link }。
 
 ##### 岩田
 哇哈哈哈（笑）。被捉弄的人，吃不消吧（笑）。
@@ -984,13 +984,13 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 可是，这样的玩法是1人玩时无法体会的，感觉上，这一次用的复数游戏模式，可以产生出前所未有的玩法。
 
 ##### 足助
-对，您说的没有错。不只复数游戏模式，有前所未有的玩法，这一次1人玩法，就像刚刚一角先生说的最速玩法可以打造自己独自的规则，在1人玩时有各式各样享受方法。例如“[不打败关卡内的任何一个敌人，就能抵达终点](https://www.nintendo.co.jp/wii/interview/smnj/vol3/movie/moviemovie013.jpg?width=384&height=256){: .figure-link }”。就算用这样的玩法，也会在意想不到的地方，踩到意外的敌人。
+对，您说的没有错。不只复数游戏模式，有前所未有的玩法，这一次1人玩法，就像刚刚一角先生说的最速玩法可以打造自己独自的规则，在1人玩时有各式各样享受方法。例如“[不打败关卡内的任何一个敌人，就能抵达终点](https://www.nintendo.com/jp/wii/interview/smnj/vol3/movie/moviemovie013.jpg?width=384&height=256){: .figure-link }”。就算用这样的玩法，也会在意想不到的地方，踩到意外的敌人。
 
 ##### 岩田
 也就是，打造给自己找麻烦的规则，才好玩吧。
 
 ##### 足助
-没有错，打造给自己找麻烦的规则，可以产生不同的玩法。我也推荐“[不拿1枚金币，就能抵达终点](https://www.nintendo.co.jp/wii/interview/smnj/vol3/movie/moviemovie014.jpg?width=384&height=256){: .figure-link }”。
+没有错，打造给自己找麻烦的规则，可以产生不同的玩法。我也推荐“[不拿1枚金币，就能抵达终点](https://www.nintendo.com/jp/wii/interview/smnj/vol3/movie/moviemovie014.jpg?width=384&height=256){: .figure-link }”。
 
 ##### 岩田
 哇，这个真的很难吧。穿越金币和金币之间，跳来跳去。
@@ -1028,7 +1028,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 内田
 对。所以，如果不厉害的人，把周围的人一起叫来，希望大家能一起玩。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo19.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo19.jpg" width="250" height="150" %}
 
 ##### 岩田
 接下来是，向尾先生。
@@ -1036,7 +1036,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 向尾
 我今年进公司是第9年，刚进公司时有机会听到宫本先生的谈话，那时留下印象的是，《马力欧卡丁车》的事，他提到“对战游戏有趣是应该的”。他还说“1人玩的话，不做成有趣的话，是不行的”，那时我觉得“很有道理”。所以，这一次的《New 超级马力欧兄弟 Wii》中，首先追求的是1人玩时，也有趣。所以，1人玩法也可以十分好玩，而且多人数玩的话，会变得更好玩。1人也是，人数也是，可以玩得很开心。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo20.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo20.jpg" width="250" height="150" %}
 
 ##### 岩田
 一角先生的想法是？
@@ -1050,7 +1050,7 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 一角
 对啊。我还很清楚记得，当时觉得有趣的地方。所以，现在的小朋友或是第一次接触到游戏的人们，我一边思考，要如何传达那个有趣的感觉，来做这一次的《New 超级马力欧兄弟 Wii》。以宫本先生，手冢先生，中乡先生为首，从初代的《超级马力欧兄弟》就参与的员工，另外，和像我一样，小时候玩《超级马力欧兄弟》受到冲击的员工们，大家混在一起，大家放进自己各式各样的想法，做出来的这个软件，让各种世代的人们都可以玩得开心。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo21.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo21.jpg" width="250" height="150" %}
 
 ##### 岩田
 最后请足助先生说几句。
@@ -1058,11 +1058,11 @@ DS版的《New 马力欧》是为了让一阵子没有玩游戏的人，以及�
 ##### 足助
 好的。这一次做的游戏是，让到目前为止在一旁看孩子玩游戏的爸爸妈妈也可以一起玩。我听到很多人说《New 超级马力欧兄弟 Wii》发售时，不想玩的人一开始说“我不用啦，你们玩就好了”，但如果玩一下的话，变成觉得“我也可以玩耶”。所以，即使是到目前为止，不习惯玩游戏的人也希望你们可以玩得很开心。就算是怎么样做都过不了关，利用“游戏示范”，可以过关，大家觉得“好难啊”的《马力欧》的动作游戏可以实际感受“自己也可以玩乐”。老实说，这一次的《New 超级马力欧兄弟 Wii》是，客人自己觉得“变厉害了”时，可以感受到最快乐的心情。所以，把周围的许多人一起找来，多1人也好，让更多的人，可以笑开怀，如果可以让大家感受这样的话，我会很开心。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo22.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo22.jpg" width="250" height="150" %}
 
 ##### 岩田
 然后是我来说几句。到目前为止，世界上，有许多游戏是技巧程度差不多的人在一起玩，会好玩，但是像这一次的《New 超级马力欧兄弟 Wii》，就算技巧程度不一的人整体来说，可以把它当做游乐场，玩得很开心，所以说，我觉得我们是做出了非常好玩的游戏。这样的事是，到目前为止我们一直希望“如果能够做到这样，就好了”的事，现在客人这样玩了之后，觉得好玩，我就觉得“真的成真了”。所以，世界上，有人一口咬定“技巧程度不一的话，就算多人数玩法，也不会好玩”，但请大家就算是技巧程度不一，一定要一起玩看看，就可以知道，到底有多好玩了。今日谢谢大家，大家辛苦了。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol3/img/photo23.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol3/img/photo23.jpg" width="250" height="150" %}
 
 {% include subnav.html links="/wii/smnj.html,其一|/wii/smnj_02.html,其二|/wii/smnj_03.html,其三" %}

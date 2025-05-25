@@ -7,21 +7,21 @@ image_width: 1520
 interviewees: 
 - 手岛宏介
 - 益田直生
-last_modified_at: 2023-10-12 18:12
+last_modified_at: 2025-05-25 19:10
 links: 
-- - https://www.nintendo.co.jp/switch/awuxa/index.html
+- - https://www.nintendo.com/jp/switch/awuxa/index.html
   - 《附带导航！一做就上手 第一次的游戏程序设计》官网
-- - https://www.nintendo.com.hk/interview/awuxa/
+- - https://www.nintendo.com/hk/interview/awuxa/
   - "開發人員的訪談 : 附帶導航！一做就上手 第一次的遊戲程式設計"
 sources: 
-- - https://www.nintendo.co.jp/interview/awuxa/index.html
+- - https://www.nintendo.com/jp/interview/awuxa/index.html
   - "開発者に訊きました : ナビつき！ つくってわかる　はじめてゲームプログラミング"
 title: 开发人员访谈：附带导航！一做就上手 第一次的游戏程序设计
 ---
 - **手岛宏介**（<span lang="ja">手嶋 宏介</span>）：任天堂企划制作部第4制作组。
 - **益田直生**（<span lang="ja">益田 直生</span>）：任天堂企划制作部第4制作组。
 
-> 任天堂（香港）于2021年7月16日公布了本文的[中文翻译版](https://www.nintendo.com.hk/interview/awuxa/)。
+> 任天堂（香港）于2021年7月16日公布了本文的[中文翻译版](https://www.nintendo.com/hk/interview/awuxa/)。
 
 ### 1. 把它翻转过来会如何呢？
 ##### 让开发者自己用语言来传达对任天堂创作方式的想法和坚持——“开发人员访谈”栏目。首次访谈要提问参与了《附带导航！一做就上手 第一次的游戏程序设计》开发的两位。
@@ -31,7 +31,7 @@ title: 开发人员访谈：附带导航！一做就上手 第一次的游戏程
 {: .question }
 
 ##### 益田
-我是担任了《附带导航！一做就上手 第一次的游戏程序设计》的总监兼程序员的益田。之前负责[《Nintendo Labo》](https://www.nintendo.co.jp/labo/index.html)<sup>[※1](#ref-1)</sup>系列的规格讨论和程序开发。
+我是担任了《附带导航！一做就上手 第一次的游戏程序设计》的总监兼程序员的益田。之前负责[《Nintendo Labo》](https://www.nintendo.com/jp/labo/index.html)<sup>[※1](#ref-1)</sup>系列的规格讨论和程序开发。
 
 > ※1　将纸箱和Nintendo Switch组合起来，可以制作钢琴、摩托车、机器人等各种各样的控制器（“Toy-Con”）来玩的游戏。“组合套装”“机器人套装”于2018年4月20日发售。
 > {: #ref-1 }
@@ -46,7 +46,7 @@ title: 开发人员访谈：附带导航！一做就上手 第一次的游戏程
 {: .question }
 
 ##### 益田
-好的。《附带导航！一做就上手 第一次的游戏程序设计》这款软件，只需要通过连接一种[被称作“小节点”的不可思议生物](https://www.nintendo.co.jp/interview/awuxa/photo/01.jpg){: .figure-link }，就可以轻松享受程序设计。
+好的。《附带导航！一做就上手 第一次的游戏程序设计》这款软件，只需要通过连接一种[被称作“小节点”的不可思议生物](https://www.nintendo.com/jp/interview/awuxa/photo/01.jpg){: .figure-link }，就可以轻松享受程序设计。
 
 即使是觉得程序设计很难的人，也可以通过详细的导航和小节点来理解程序设计，最终自己制作游戏。
 
@@ -54,7 +54,7 @@ title: 开发人员访谈：附带导航！一做就上手 第一次的游戏程
 {: .question }
 
 ##### 益田
-在《Nintendo Labo》第四作“VR套装”开发结束之后，我想到是否可以把VR套装中包含的[Toy-Con车库VR](https://www.nintendo.co.jp/interview/awuxa/photo/02.png){: .figure-link }部分分割出来，做成单独的商品。
+在《Nintendo Labo》第四作“VR套装”开发结束之后，我想到是否可以把VR套装中包含的[Toy-Con车库VR](https://www.nintendo.com/jp/interview/awuxa/photo/02.png){: .figure-link }部分分割出来，做成单独的商品。
 
 Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩家用自己的想法，利用VR来制作并游玩游戏。我想要不局限于VR，而是将范围扩大。
 
@@ -64,7 +64,7 @@ Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩�
 ##### 益田
 不，倒不是还有什么未完成的内容，而是觉得是否可以用不同的方式来展现出来。VR套装的Toy-Con车库，是《Nintendo Labo》中最后的最后的应用环节，当时我的想法是“即使只有很少一部分人能玩到那里也好啊”。
 
-但是试着举办了Toy-Con车库的[比赛](https://www.nintendo.co.jp/labo/contest_VR/index.html)后，我们发现玩家们在Toy-Con车库制作的原创游戏中，有很多反响不错的有趣的游戏，于是我们才知道不仅仅是“很少一部分人”，而是有很多人都想要体体验制作游戏的乐趣。
+但是试着举办了Toy-Con车库的[比赛](https://www.nintendo.com/jp/labo/contest_VR/index.html)后，我们发现玩家们在Toy-Con车库制作的原创游戏中，有很多反响不错的有趣的游戏，于是我们才知道不仅仅是“很少一部分人”，而是有很多人都想要体体验制作游戏的乐趣。
 
 能不能让一边试错一边制作游戏的乐趣，变得更容易就能体验到呢……我们开始这样考虑。
 
@@ -100,19 +100,19 @@ Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩�
 ##### 手岛
 是的，那也可以说是益田先生的分身吧（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/awuxa/img/1_3_M.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/awuxa/img/1_3_M.jpg" width="640" height="360" %}
 
 ##### 这样的话，我就很在意作为益田先生分身的导航了。“附带导航！”中的导航到底是什么样的呢？
 {: .question }
 
 ##### 手岛
-具体来说，导航就是[7种“附带导航的课堂”](https://www.nintendo.co.jp/interview/awuxa/movie/01.mp4){: .video-link }，它们是这款软件的主要内容，通过使用小节点来使游戏程序设计充满乐趣。可以使用导航从头开始帮助完成游戏。
+具体来说，导航就是[7种“附带导航的课堂”](https://www.nintendo.com/jp/interview/awuxa/movie/01.mp4){: .video-link }，它们是这款软件的主要内容，通过使用小节点来使游戏程序设计充满乐趣。可以使用导航从头开始帮助完成游戏。
 
 ##### 实际上，它能提供什么程度的导航呢？
 {: .question }
 
 ##### 手岛
-会有名为“鲍伯”的说明角色出现，他可以从头到尾，手把手地教学。程序设计时使用的是名为小节点的角色，像是“把小节点放到这里”“把这个小节点和这个小节点连在一起”这样，[鲍伯会根据玩家的操作在画面上移动，从头到尾地详细教学](https://www.nintendo.co.jp/interview/awuxa/movie/02.mp4){: .video-link }。
+会有名为“鲍伯”的说明角色出现，他可以从头到尾，手把手地教学。程序设计时使用的是名为小节点的角色，像是“把小节点放到这里”“把这个小节点和这个小节点连在一起”这样，[鲍伯会根据玩家的操作在画面上移动，从头到尾地详细教学](https://www.nintendo.com/jp/interview/awuxa/movie/02.mp4){: .video-link }。
 
 ##### 原来如此，那样的话初学者也能完成游戏。顺便说一下，小学生也能享受程序设计吗？
 {: .question }
@@ -179,15 +179,15 @@ Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩�
 {: .question }
 
 ##### 手岛
-[在课堂中登场的小节点，会在课堂中讲解的程序设计的流程中，分别说明自己的功能。](https://www.nintendo.co.jp/interview/awuxa/movie/03.mp4){: .video-link }
+[在课堂中登场的小节点，会在课堂中讲解的程序设计的流程中，分别说明自己的功能。](https://www.nintendo.com/jp/interview/awuxa/movie/03.mp4){: .video-link }
 
-另外，游戏中有叫做“[小节点指南](https://www.nintendo.co.jp/interview/awuxa/movie/11.mp4){: .video-link }”的地方，能够更详细地对课堂中出现的流程和小节点的功能进行讲解，也可以在那里学习他们的情况。
+另外，游戏中有叫做“[小节点指南](https://www.nintendo.com/jp/interview/awuxa/movie/11.mp4){: .video-link }”的地方，能够更详细地对课堂中出现的流程和小节点的功能进行讲解，也可以在那里学习他们的情况。
 
 ##### 顺便一提，小节点有几种呢？
 {: .question }
 
 ##### 手岛
-有80种以上！虽然不是所有的小节点都会在附带导航的课堂中出现，但是在课堂中没有出现的节点也可以在[名叫“小百科”的说明栏目](https://www.nintendo.co.jp/interview/awuxa/movie/04.mp4){: .video-link }中确认详细的功能。
+有80种以上！虽然不是所有的小节点都会在附带导航的课堂中出现，但是在课堂中没有出现的节点也可以在[名叫“小百科”的说明栏目](https://www.nintendo.com/jp/interview/awuxa/movie/04.mp4){: .video-link }中确认详细的功能。
 
 例如，可以了解Joy-Con的振动功能、挥动Joy-Con的动作<sup>[※3](#ref-3)</sup>等，也有小节点使用了Nintendo Switch特有的功能，把这些功能组合起来，就可以制作出各种各样的游戏。
 
@@ -200,7 +200,7 @@ Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩�
 ##### 对了，我从刚才开始就很在意，那边的彩色卡片是什么？
 {: .question }
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/awuxa/img/2_1.jpg" width="640" height="335" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/awuxa/img/2_1.jpg" width="640" height="335" %}
 
 ##### 益田
 这是实体版附赠的“小节点回顾卡片”（<span lang="ja">ノードンふりかえりカード</span>），每一张都是一种不同的小节点，正面是小节点的样子，反面是功能说明和使用方法的提示，以及登场的课堂。
@@ -219,7 +219,7 @@ Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩�
 ##### 手岛
 虽然也有“单纯是喜欢这样”的原因，但如果做成卡片的类型的话，就可以像这样重新排列。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/awuxa/img/05.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/awuxa/img/05.jpg" width="640" height="360" %}
 
 ##### 益田
 对对，能重新排列是重点。想象一下，“把这个小节点和那个小节点组合在一起的话，能不能制作出什么有意思的游戏呢。”就是这样的感觉。
@@ -253,14 +253,14 @@ Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩�
 {: .question }
 
 ##### 益田
-要说特征的话，我认为“[材质小节点](https://www.nintendo.co.jp/interview/awuxa/photo/06.jpg){: .figure-link }”和“[BGM小节点](https://www.nintendo.co.jp/interview/awuxa/photo/07.jpg){: .figure-link }”的功能比较好懂。
+要说特征的话，我认为“[材质小节点](https://www.nintendo.com/jp/interview/awuxa/photo/06.jpg){: .figure-link }”和“[BGM小节点](https://www.nintendo.com/jp/interview/awuxa/photo/07.jpg){: .figure-link }”的功能比较好懂。
 
-[“材质小节点”可以把自己绘制的画作显示在游戏中，然后贴在各种各样物体的表面随着物体移动](https://www.nintendo.co.jp/interview/awuxa/movie/05.mp4){: .video-link }。
+[“材质小节点”可以把自己绘制的画作显示在游戏中，然后贴在各种各样物体的表面随着物体移动](https://www.nintendo.com/jp/interview/awuxa/movie/05.mp4){: .video-link }。
 
-[“BGM小节点”就是播放BGM](https://www.nintendo.co.jp/interview/awuxa/movie/06.mp4){: .video-link }。可以从旋律、主伴奏、副伴奏、节奏四个部分中选择自己喜欢的音乐，然后将它们组合起来编曲成BGM。可以按照自己的喜好选择和游戏搭配的音乐。
+[“BGM小节点”就是播放BGM](https://www.nintendo.com/jp/interview/awuxa/movie/06.mp4){: .video-link }。可以从旋律、主伴奏、副伴奏、节奏四个部分中选择自己喜欢的音乐，然后将它们组合起来编曲成BGM。可以按照自己的喜好选择和游戏搭配的音乐。
 
 ##### 手岛
-我个人比较推荐“[开始时小节点](https://www.nintendo.co.jp/interview/awuxa/photo/08.jpg){: .figure-link }”。
+我个人比较推荐“[开始时小节点](https://www.nintendo.com/jp/interview/awuxa/photo/08.jpg){: .figure-link }”。
 
 ##### “开始时小节点”？也有功能相当细致的小节点啊。
 {: .question }
@@ -268,12 +268,12 @@ Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩�
 ##### 手岛
 是的。它的功能就是在游戏开始的瞬间来执行输出，虽然只是有勇无谋的家伙，不过它的那种气氛，包括视觉效果在内，非常可爱（笑）。
 
-除此之外，就是“[计时小节点](https://www.nintendo.co.jp/interview/awuxa/photo/09.jpg){: .figure-link }”了吧。顾名思义，就是在指定的时间执行输出。它的性格细致入微，有些爱唠叨，不过相应地很有人情味，我很喜欢。
+除此之外，就是“[计时小节点](https://www.nintendo.com/jp/interview/awuxa/photo/09.jpg){: .figure-link }”了吧。顾名思义，就是在指定的时间执行输出。它的性格细致入微，有些爱唠叨，不过相应地很有人情味，我很喜欢。
 
 ##### 益田
-我推荐的是“[滴管小节点](https://www.nintendo.co.jp/interview/awuxa/photo/10.jpg){: .figure-link }”。这家伙可以知道被称为“标示”的东西有没有显示在滴管所在的地方……
+我推荐的是“[滴管小节点](https://www.nintendo.com/jp/interview/awuxa/photo/10.jpg){: .figure-link }”。这家伙可以知道被称为“标示”的东西有没有显示在滴管所在的地方……
 
-虽然是面向高手的，但如果把“[计数小节点](https://www.nintendo.co.jp/interview/awuxa/photo/11.jpg){: .figure-link }”“[显示标示小节点](https://www.nintendo.co.jp/interview/awuxa/photo/12.jpg){: .figure-link }”和“[播放声音小节点](https://www.nintendo.co.jp/interview/awuxa/photo/13.jpg){: .figure-link }”组合起来的话，也可以创作出自己的原创音乐。虽然是小众的家伙，但是我很喜欢这些角色，而且如果能灵活运用这些功能的话，就会发现“只要肯下功夫，这样的事情也能做到啊”，能够得知小节点车库中不为人知的可能性。多多使用的话就会上瘾，这种感觉非常好……有点像是大人的小节点（笑）。
+虽然是面向高手的，但如果把“[计数小节点](https://www.nintendo.com/jp/interview/awuxa/photo/11.jpg){: .figure-link }”“[显示标示小节点](https://www.nintendo.com/jp/interview/awuxa/photo/12.jpg){: .figure-link }”和“[播放声音小节点](https://www.nintendo.com/jp/interview/awuxa/photo/13.jpg){: .figure-link }”组合起来的话，也可以创作出自己的原创音乐。虽然是小众的家伙，但是我很喜欢这些角色，而且如果能灵活运用这些功能的话，就会发现“只要肯下功夫，这样的事情也能做到啊”，能够得知小节点车库中不为人知的可能性。多多使用的话就会上瘾，这种感觉非常好……有点像是大人的小节点（笑）。
 
 ##### 手岛先生推荐的是可爱的角色，益田先生推荐的是功能深奥的角色，对吧。
 {: .question }
@@ -313,7 +313,7 @@ Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩�
 ##### 手岛
 是的。没有学过编程的人，竟然会被“自己设计的程序能让物体移动起来”这种事所感动……！在那时这件事给我留下了深刻的印象。在这次的游戏开发过程中我们也运用了这个经验。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/awuxa/img/3_1_T.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/awuxa/img/3_1_T.jpg" width="640" height="360" %}
 
 ##### 这个发现很重要啊。
 {: .question }
@@ -335,7 +335,7 @@ Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩�
 {: .question }
 
 ##### 手岛
-是的。[“附带导航的课堂”的7个课堂中，有些步骤5分钟左右就可以完成，](https://www.nintendo.co.jp/interview/awuxa/movie/07.mp4){: .video-link }通过不断积累，逐渐向下一个步骤推进，我们采取了这样的形式。通过重复小小的完成体验，逐渐接近游戏的完成，就是这样的构造。
+是的。[“附带导航的课堂”的7个课堂中，有些步骤5分钟左右就可以完成，](https://www.nintendo.com/jp/interview/awuxa/movie/07.mp4){: .video-link }通过不断积累，逐渐向下一个步骤推进，我们采取了这样的形式。通过重复小小的完成体验，逐渐接近游戏的完成，就是这样的构造。
 
 ##### 但是，如果过程中中断了，经过了好几天之后，会不会因为忘了前一个课堂的内容而无法继续进行下去呢？
 {: .question }
@@ -359,14 +359,14 @@ Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩�
 ##### 益田
 是的。在这部软件里，我们也注重了要让玩家不管怎样到最后为止都不会出错，无论如何都能亲自动手完成……这样的结构。
 
-另外，[在课堂和课堂之间还有被称为“小测验”的问题](https://www.nintendo.co.jp/interview/awuxa/movie/08.mp4){: .video-link }，在那里可以感受到“自己理解并完成”的体验。
+另外，[在课堂和课堂之间还有被称为“小测验”的问题](https://www.nintendo.com/jp/interview/awuxa/movie/08.mp4){: .video-link }，在那里可以感受到“自己理解并完成”的体验。
 
 ### 4. 程序设计的乐趣
 ##### 如果在“附带导航的课堂”中完成了所有游戏，接下来应该做什么呢？
 {: .question }
 
 ##### 益田
-作为下一个阶段，我们准备了“自由编程”。当然，突然想要自己从头开始制作游戏也不错，但还是建议先把“附带导航的课堂”中制作的游戏[复制之后改编](https://www.nintendo.co.jp/interview/awuxa/movie/10.mp4){: .video-link }，从这里开始。
+作为下一个阶段，我们准备了“自由编程”。当然，突然想要自己从头开始制作游戏也不错，但还是建议先把“附带导航的课堂”中制作的游戏[复制之后改编](https://www.nintendo.com/jp/interview/awuxa/movie/10.mp4){: .video-link }，从这里开始。
 
 在课堂中制作的游戏也会作为自己制作的游戏保存在自由编程模式中，我觉得用它来尝试制作新的游戏也不错。
 
@@ -414,7 +414,7 @@ Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩�
 ##### 手岛
 ……不不不，也许会有人把各种小节点组合起来实现突破（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/awuxa/img/4_1_M.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/awuxa/img/4_1_M.jpg" width="640" height="360" %}
 
 ##### 益田
 确实，Toy-Con车库VR的时候也有很多玩家制作的作品，让开发者们感到非常惊讶。“竟然能做出这种东西……”就像这样（笑）。
@@ -431,9 +431,9 @@ Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩�
 ##### 手岛
 制作出来的作品可以通过互联网或本地连接共享。
 
-如果是使用互联网的情况<sup>[※8](#ref-8)</sup>，[在上传到任天堂的服务器之后，就会获得一个游戏ID](https://www.nintendo.co.jp/interview/awuxa/movie/09.mp4){: .video-link }，将那个ID交给对方并输入之后，就可以下载那个游戏，是这样的机制。
+如果是使用互联网的情况<sup>[※8](#ref-8)</sup>，[在上传到任天堂的服务器之后，就会获得一个游戏ID](https://www.nintendo.com/jp/interview/awuxa/movie/09.mp4){: .video-link }，将那个ID交给对方并输入之后，就可以下载那个游戏，是这样的机制。
 
-> ※8　若要使用互联网连接，需要另外加入“[Nintendo Switch Online](https://www.nintendo.co.jp/hardware/switch/onlineservice/index.html)”（收费）。
+> ※8　若要使用互联网连接，需要另外加入“[Nintendo Switch Online](https://www.nintendo.com/jp/hardware/switch/onlineservice/index.html)”（收费）。
 > {: #ref-8 }
 
 ##### 对于已下载的游戏，能否查看它的程序是如何组成的呢？
@@ -449,7 +449,7 @@ Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩�
 {: .question }
 
 ##### 益田
-[下载下来的作品，也可以像课堂里制作的一样复制之后改编](https://www.nintendo.co.jp/interview/awuxa/movie/12.mp4){: .video-link }，因此可以在上面增加小节点，也可以在同一个游戏中减少小节点，或许可以更有效率地完成作品。
+[下载下来的作品，也可以像课堂里制作的一样复制之后改编](https://www.nintendo.com/jp/interview/awuxa/movie/12.mp4){: .video-link }，因此可以在上面增加小节点，也可以在同一个游戏中减少小节点，或许可以更有效率地完成作品。
 
 ##### 挑战能否将复杂的程序简化，也是一种学习吧。
 {: .question }
@@ -474,7 +474,7 @@ Toy-Con车库VR是在大概了解了VR的Toy-Con的制作方式之后，由玩�
 ##### 原来如此，我明白了，只要轻松地制作自己想要的东西就好。我很期待互联网上会出现什么游戏。
 {: .question }
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/awuxa/img/4_2_T.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/awuxa/img/4_2_T.jpg" width="640" height="360" %}
 
 ##### 手岛
 我认为很多编程软件的重点都是最终“能做出什么样的有趣的作品”，也就是结果。

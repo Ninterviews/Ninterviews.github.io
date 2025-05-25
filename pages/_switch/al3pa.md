@@ -7,10 +7,10 @@ interviewees:
 - 田邨嘉隆
 - 河本浩一
 - 松永浩志
-last_modified_at: 2021-05-30 21:48
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/ring/index.html
+- - https://www.nintendo.com/jp/ring/index.html
   - 《健身环大冒险》官网
 references: 
 - - https://www.nintendoswitch.com.cn/topics/11d2cf76-ba70-4100-96ed-b9823401909d
@@ -22,7 +22,7 @@ title: 《健身环大冒险》开发者访谈
 ---
 好久不见。我是作家<span lang="ja">稲葉ほたて</span>。继上一次 [“脑锻炼”访谈](/switch/as3ma.html) 之后，这次我想要对《健身环大冒险》的开发者们进行访谈。
 
-《健身环大冒险》就如 [官网](https://www.nintendo.co.jp/ring/) 上所写的“一边冒险一边健身”<sup>[※1](#ref-1)</sup>那样，是一款真正做到能够一边健身一边游戏的商品。
+《健身环大冒险》就如 [官网](https://www.nintendo.com/jp/ring/) 上所写的“一边冒险一边健身”<sup>[※1](#ref-1)</sup>那样，是一款真正做到能够一边健身一边游戏的商品。
 
 > ※1　“一边冒险一边健身”：此为国际版标语。[中国大陆版](https://www.nintendoswitch.com.cn/ring_fit_adventure/)标语为“运动轻松玩，快乐零负担”。
 

@@ -8,16 +8,16 @@ interviewees:
 - 熊崎信也
 - 神山达哉
 - 远藤裕贵
-last_modified_at: 2023-10-12 18:12
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/switch/arzga/
+- - https://www.nintendo.com/jp/switch/arzga/
   - 《星之卡比 探索发现》官网
 references: 
-- - https://www.nintendo.com.hk/interview/arzga/
+- - https://www.nintendo.com/hk/interview/arzga/
   - "開發人員訪談 : 星之卡比 探索發現"
 sources: 
-- - https://www.nintendo.co.jp/interview/arzga/
+- - https://www.nintendo.com/jp/interview/arzga/
   - "開発者に訊きました : 星のカービィ　ディスカバリー"
 title: 开发人员访谈：星之卡比 探索发现
 ---
@@ -51,7 +51,7 @@ title: 开发人员访谈：星之卡比 探索发现
 ##### 远藤
 我是HAL研究所的远藤。从《星之卡比 Wii》之后开始参与系列作的开发，担任关卡设计总监（<span lang="ja">レベルデザインディレクター</span>）的职务，主要是制作、监修敌人和机关的细节，以及配置这些部分将关卡设计出来。
 
-{% include figure.html src="https://www.nintendo.com.hk/interview/arzga/img/fig_chapter01-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/hk/interview/arzga/img/fig_chapter01-01.png" width="640" height="360" %}
 
 ##### 谢谢。本次虽是远程视频，但很高兴邀请到开发“星之卡比”系列的HAL研究所和任天堂的开发成员，想请教一下你们两家公司对本作的想法、开发时的小故事，以及做过哪些错误尝试等。那么，可否先请二宫先生帮我们简单说明一下，本次即将发售的《星之卡比 探索发现》是一款什么样的游戏？
 {: .question }
@@ -79,7 +79,7 @@ title: 开发人员访谈：星之卡比 探索发现
 
 此外，我们在过去的作品中已经和HAL研究所合作很久了，知道他们很擅长将卡比的魅力表现出来，也有很强的游戏开发技术，因此，我们一直在等待HAL研究所开口说：“我们已经做好开发3D的准备了。”
 
-{% include figure.html src="https://www.nintendo.com.hk/interview/arzga/img/fig_chapter01-02.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/hk/interview/arzga/img/fig_chapter01-02.png" width="640" height="360" %}
 
 ##### 神山
 我自己也有想像过，如果可以让卡比在3D空间中，自由自在地恣意奔驰一定很有趣。
@@ -103,7 +103,7 @@ title: 开发人员访谈：星之卡比 探索发现
 
 卡比的身体是球形的，如果他向后转的话，也根本不知道他是转向哪里呢。
 
-{% include figure.html src="https://www.nintendo.com.hk/interview/arzga/img/fig_chapter01-03.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/hk/interview/arzga/img/fig_chapter01-03.png" width="640" height="360" %}
 
 ##### 这真的是卡比才会有的问题呢（哈哈）。那么，在游戏开发方面，又有遇到什么困难的地方呢？
 {: .question }
@@ -175,12 +175,12 @@ title: 开发人员访谈：星之卡比 探索发现
 
 于是，我们在本作中做了一个设计，那就是在游戏画面中看起来像是攻击命中时，就算其实没有真的命中，也会当成是“有命中”。
 
-我们让程序根据画面视角和卡比的位置关系，自动判断出玩家会觉得攻击看起来像是命中的范围，[只要攻击到该范围，就会认定为攻击命中。](https://www.nintendo.com.hk/interview/arzga/movie/01.mp4){: .video-link }。如此设计之后，即使是不擅长玩3D动作游戏的玩家，也能毫不费力地顺利打到敌人，不会感到压力。
+我们让程序根据画面视角和卡比的位置关系，自动判断出玩家会觉得攻击看起来像是命中的范围，[只要攻击到该范围，就会认定为攻击命中。](https://www.nintendo.com/hk/interview/arzga/movie/01.mp4){: .video-link }。如此设计之后，即使是不擅长玩3D动作游戏的玩家，也能毫不费力地顺利打到敌人，不会感到压力。
 
 > ※5　以《星之卡比 机械星球》为雏形制作，2017年在Nintendo 3DS上推出的滚动栏式3D动作游戏。操控卡比在3D空间中闯关，以吸入吐出方式打倒敌人赚取最高分数。
 > {: #ref-5 }
 
-{% include figure.html src="https://www.nintendo.com.hk/interview/arzga/img/fig_chapter02-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/hk/interview/arzga/img/fig_chapter02-01.png" width="640" height="360" %}
 
 ##### 已经将攻击调整成，玩家觉得“命中”时，就真的是爽快命中的感觉。
 {: .question }
@@ -209,18 +209,18 @@ title: 开发人员访谈：星之卡比 探索发现
 ##### 远藤
 这是我擅自取的名字（哈哈）。
 
-{% include figure.html src="https://www.nintendo.com.hk/interview/arzga/img/fig_chapter02-02.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/hk/interview/arzga/img/fig_chapter02-02.png" width="640" height="360" %}
 
 ##### 神山
 改为3D之后，当卡比跳跃后回到地面时，就会变得难以调整落地的位置。可以用俯视的感觉看见卡比后，以为卡比已经落地，当想要再次跳跃时按下A键后，却发现卡比其实尚未落地，因此会出现漂浮的盘旋状态。
 
-于是，我们进行了[模糊调整](https://www.nintendo.com.hk/interview/arzga/movie/02.mp4){: .video-link }（视频左方是没有“模糊落地”的效果；右方是有“模糊落地”的效果），就是当卡比距离地面很近的某个位置时按下A键之后，程序会自动判定为已经确实落地。
+于是，我们进行了[模糊调整](https://www.nintendo.com/hk/interview/arzga/movie/02.mp4){: .video-link }（视频左方是没有“模糊落地”的效果；右方是有“模糊落地”的效果），就是当卡比距离地面很近的某个位置时按下A键之后，程序会自动判定为已经确实落地。
 
 ##### 即使误判距离按下A，卡比也会按照玩家的想法落地和跳跃……这也和攻击一样，都是为了让玩的感觉变得更畅快所进行的调整呢。
 {: .question }
 
 ##### 远藤
-这部分，在画面视角和地图设计上，也都有进行调整。在本作中，游戏这边会自动控制“俯视卡比”“从旁边看卡比”的这些画面视角，通过设置成最适合玩家看的视角位置后，即使遇到障碍物，玩家也可以轻松操控卡比前进。除此之外，我们也有和美工设计沟通，看看能否利用地图的装饰让障碍物变得更浅显易懂。为了让玩家可以更清楚了解建筑物或障碍物的高低差，我们有尝试加入匹配[舞台世界观的萤光带](https://www.nintendo.com.hk/interview/arzga/photo/01.jpg){: .figure-link }。
+这部分，在画面视角和地图设计上，也都有进行调整。在本作中，游戏这边会自动控制“俯视卡比”“从旁边看卡比”的这些画面视角，通过设置成最适合玩家看的视角位置后，即使遇到障碍物，玩家也可以轻松操控卡比前进。除此之外，我们也有和美工设计沟通，看看能否利用地图的装饰让障碍物变得更浅显易懂。为了让玩家可以更清楚了解建筑物或障碍物的高低差，我们有尝试加入匹配[舞台世界观的萤光带](https://www.nintendo.com/hk/interview/arzga/photo/01.jpg){: .figure-link }。
 
 ##### 熊崎
 当我提出“这里看不清楚。”时，设计美术图案的人和设计游戏机关的人就会立刻聚集起来一起思考看看有什么解决的方法，然后一个一个慢慢调整。
@@ -228,9 +228,9 @@ title: 开发人员访谈：星之卡比 探索发现
 ##### 远藤
 我们认为，新手会觉得3D游戏很难，原因是出在比较不会操控视角。在本作中已经设计成，不需要由玩家来操控视角，而是游戏自己会转动视角的方式，这样在玩的时候，就不用同时兼顾操控视角和操控动作。
 
-再加上，我们又故意在视角中显示出进行方向的地标，即使四处绕来绕去地进行探索，视角也会固定在应该要前进的方向，让玩家不会走回原路，可以顺利引导玩家[“只要往这边前进就没问题。”](https://www.nintendo.com.hk/interview/arzga/movie/03.mp4){: .video-link }。
+再加上，我们又故意在视角中显示出进行方向的地标，即使四处绕来绕去地进行探索，视角也会固定在应该要前进的方向，让玩家不会走回原路，可以顺利引导玩家[“只要往这边前进就没问题。”](https://www.nintendo.com/hk/interview/arzga/movie/03.mp4){: .video-link }。
 
-{% include figure.html src="https://www.nintendo.com.hk/interview/arzga/img/fig_chapter02-03.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/hk/interview/arzga/img/fig_chapter02-03.png" width="640" height="360" %}
 
 ##### 神山
 不把视角操作留给玩家，也是追求轻松上手的结果。此外，通过采用关卡设计师设置的画面视角，我们还能够实现画面视角和游戏的融合。
@@ -249,7 +249,7 @@ title: 开发人员访谈：星之卡比 探索发现
 {: .question }
 
 ##### 二宫
-本次有一个新动作叫“[塞满嘴变形](https://www.nintendo.com.hk/interview/arzga/movie/04.mp4){: .video-link }”，卡比会吸入汽车、三角锥等物品塞满嘴巴，然后根据塞入嘴巴的物品，做出匹配该物品特色的全新动作。
+本次有一个新动作叫“[塞满嘴变形](https://www.nintendo.com/hk/interview/arzga/movie/04.mp4){: .video-link }”，卡比会吸入汽车、三角锥等物品塞满嘴巴，然后根据塞入嘴巴的物品，做出匹配该物品特色的全新动作。
 
 ##### 熊崎
 一开始我们常在讨论，什么动作和视觉形像是卡比独有的，但在其他的3D动作游戏中却没有。于是，在重新审视卡比这个角色的特色时，我们再次认定，吸入各种物品后，一下子膨胀一下子缩小，这种“可以自由变化的奇特”风格，正是卡比在3D动作游戏中不可或缺的独有特色。
@@ -260,7 +260,7 @@ title: 开发人员访谈：星之卡比 探索发现
 这次诞生的“塞满嘴变形”和过去的变身不同，卡比并非单纯地变身成变吸入的那个物品的模样，这次是无法将物品完全吞入，会以嘴巴撑大成该物品的状态，继续做出该物品正在进行的动作。那种不可思议的感觉和外观都很匹配卡比的奇特风格，所以觉得很棒。
 
 ##### 远藤
-就“创造乐趣”的观点来说，“塞满嘴变形”这个特色，光是看到外观的第一眼就让人觉得很有趣。如果[嘴巴塞入“О（圆）”形的物品](https://www.nintendo.com.hk/interview/arzga/movie/05.mp4){: .video-link }，就可以挡住风来移动船只，把[水管塞满嘴](https://www.nintendo.com.hk/interview/arzga/movie/06.mp4){: .video-link }，就能打倒大范围的敌人，同时四处滚动，就像这样可以做出更多五花八门的动作。
+就“创造乐趣”的观点来说，“塞满嘴变形”这个特色，光是看到外观的第一眼就让人觉得很有趣。如果[嘴巴塞入“О（圆）”形的物品](https://www.nintendo.com/hk/interview/arzga/movie/05.mp4){: .video-link }，就可以挡住风来移动船只，把[水管塞满嘴](https://www.nintendo.com/hk/interview/arzga/movie/06.mp4){: .video-link }，就能打倒大范围的敌人，同时四处滚动，就像这样可以做出更多五花八门的动作。
 
 ##### 二宫
 能以3D呈现的地方还包括美术设计上的趣味，因为可从各种角度来欣赏变形的奇特卡比。
@@ -293,7 +293,7 @@ title: 开发人员访谈：星之卡比 探索发现
 
 另外这是美术设计的点子，那就是加入了写着当地语言的招牌等，让人可以明显知道，这个舞台“在过去的时候的确是一个快乐的世界。”
 
-##### 听你这么一提，我记得[购物广场的招牌](https://www.nintendo.com.hk/interview/arzga/photo/02.png){: .figure-link }上好像也有文字之类的符号呢。
+##### 听你这么一提，我记得[购物广场的招牌](https://www.nintendo.com/hk/interview/arzga/photo/02.png){: .figure-link }上好像也有文字之类的符号呢。
 {: .question }
 
 ##### 熊崎
@@ -301,7 +301,7 @@ title: 开发人员访谈：星之卡比 探索发现
 
 这样的设计，就像是在游戏的世界观中加入一点刺激的调味料，对于想要深入了解的玩家来说，这也会让他们更加沉浸在冒险之中，这应该算是我们创作者加入的一点讲究地方吧。
 
-{% include figure.html src="https://www.nintendo.com.hk/interview/arzga/img/fig_chapter03-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/hk/interview/arzga/img/fig_chapter03-01.png" width="640" height="360" %}
 
 ##### 二宫
 因为是自创的语言，因此对世界上不管是讲哪国语言的玩家来说，听起来都会是“自己所不懂的语言的歌”呢。
@@ -355,7 +355,7 @@ title: 开发人员访谈：星之卡比 探索发现
 ##### 神山
 如果在“咖啡厅”将餐点外带，那么即使正在关卡中战斗，也能随时回复体力。
 
-不仅如此，还可以在“武器店”[“进化”复制能力。](https://www.nintendo.com.hk/interview/arzga/movie/07.mp4){: .video-link }进化之后，外观会改变外，威力也会跟着上升，或是加入额外的特别能力。
+不仅如此，还可以在“武器店”[“进化”复制能力。](https://www.nintendo.com/hk/interview/arzga/movie/07.mp4){: .video-link }进化之后，外观会改变外，威力也会跟着上升，或是加入额外的特别能力。
 
 遇到打不赢的强大魔王时，本作则增加了比过去还要多的攻略选项。
 
@@ -368,7 +368,7 @@ title: 开发人员访谈：星之卡比 探索发现
 “瓦豆鲁迪小镇”的存在，可以让新手玩家变得更容易过关，对已经习惯游戏的玩家来说，则是一个可深入游玩的要素，我觉得这是一个可让玩家感受到耐玩性的部分。
 
 ##### 熊崎
-在《超级卡比猎人队》中也有加入“[杂货店](https://www.nintendo.com.hk/interview/arzga/photo/03.png){: .figure-link }”这个可以让玩家感受到自由度的趣味设计，可在此购买各种道具，思考不同的战法。
+在《超级卡比猎人队》中也有加入“[杂货店](https://www.nintendo.com/hk/interview/arzga/photo/03.png){: .figure-link }”这个可以让玩家感受到自由度的趣味设计，可在此购买各种道具，思考不同的战法。
 
 能够让玩家体验到这样的有趣要素，其实，这也是过去制作了一系列作品后所累积的实力，如今才能在本作中开花结果。
 
@@ -413,7 +413,7 @@ title: 开发人员访谈：星之卡比 探索发现
 
 在难度较高的“狂野模式”中，虽然难度增加，但也有提升打倒敌人时的硬币回报率，因此可感受到辛苦没白费的感觉。
 
-{% include figure.html src="https://www.nintendo.com.hk/interview/arzga/img/fig_chapter04-01.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/hk/interview/arzga/img/fig_chapter04-01.jpg" width="640" height="360" %}
 
 ##### 话说回来，本作的文字叙述部分，感觉好像比过去的“星之卡比”系列作还要多。以全球化的角度来思考制作，那这方面应该会很辛苦吧。
 {: .question }

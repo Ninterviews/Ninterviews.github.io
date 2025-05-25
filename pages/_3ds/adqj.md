@@ -6,11 +6,11 @@ image_height: 461
 image_width: 820
 interviewees: 
 - 河本浩一
-last_modified_at: 2021-06-17 11:08
+last_modified_at: 2025-05-25 19:10
 links: 
-- - https://www.nintendo.co.jp/3ds/adqj/index.html
+- - https://www.nintendo.com/jp/3ds/adqj/index.html
   - 3DS《迷托邦》官网
-- - https://www.nintendo.co.jp/switch/aw8sa/index.html
+- - https://www.nintendo.com/jp/switch/aw8sa/index.html
   - Switch《迷托邦》官网
 - - https://www.famitsu.com/news/201611/25121408.html
   - <span lang="ja">家族や友だち、あの人といっしょに冒険できる。想像以上にがっつり遊べる『Miitopia』開発者インタビュー</span>
@@ -238,7 +238,7 @@ title: 从制作人那里听来的《迷托邦》开发内幕
 ##### 最初的《脑锻炼》引起了巨大的热潮，在全世界卖出了将近2000万份<sup>[※9](#ref-9)</sup>，那时候的心情是怎样的呢？
 {: .question }
 
-> ※9　将近200万份：截至2016年9月底《脑锻炼》销量为1901万份。详情请参阅[此处](https://www.nintendo.co.jp/ir/finance/software/ds.html)。
+> ※9　将近200万份：截至2016年9月底《脑锻炼》销量为1901万份。详情请参阅[此处](https://www.nintendo.com/jp/ir/finance/software/ds.html)。
 > {: #ref-9 }
 
 ##### 河本

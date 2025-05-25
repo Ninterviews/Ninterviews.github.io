@@ -1,23 +1,23 @@
 ---
 date: 2009-11-13
-image: https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/mainvisual1.jpg
+image: https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/mainvisual1.jpg
 image_height: 236
 image_width: 768
 interviewees: 
 - 中乡俊彦
 - 手冢卓志
 - 岩田聪
-last_modified_at: 2021-06-17 18:01
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/wii/smnj/index.html
+- - https://www.nintendo.com/jp/wii/smnj/index.html
   - 《New 超级马力欧兄弟 Wii》官网
 no_index: true
 references: 
-- - https://www.nintendo.com.hk/nsmb/nsmb_interview_02.html
+- - https://www.nintendo.com/hk/nsmb/nsmb_interview_02.html
   - 社長提問『新 超級瑪利歐兄弟 Wii』
 sources: 
-- - https://www.nintendo.co.jp/wii/interview/smnj/vol2/index.html
+- - https://www.nintendo.com/jp/wii/interview/smnj/vol2/index.html
   - 社長が訊く『New スーパーマリオブラザーズ Wii』
 title: 社长提问《New 超级马力欧兄弟 Wii》
 ---
@@ -70,7 +70,7 @@ title: 社长提问《New 超级马力欧兄弟 Wii》
 ##### 手冢
 对啊。我是1984年进公司的……今年己经第25年了。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo1.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo1.jpg" width="250" height="150" %}
 
 ##### 岩田
 Famicom<sup>[※1](#ref-1)</sup>推出后的第二年进公司的吧。
@@ -108,7 +108,7 @@ Famicom<sup>[※1](#ref-1)</sup>推出后的第二年进公司的吧。
 ##### 中乡
 好的。我现在是担任SRD<sup>[※2](#ref-2)</sup>的社长。本来是帮忙做Famicom的程序，到任天堂公司后，从那时一直到现在，参与了任天堂公司的各式各样商品。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo2.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo2.jpg" width="250" height="150" %}
 
 > ※2　SRD：SRD Co. Ltd.。1979年成立，进行游戏软件程序的受委托开发，和CAD套装软件的开发、贩卖等。总公司在大阪，京都事务所位于任天堂总公司内。
 > {: #ref-2 }
@@ -144,7 +144,7 @@ Famicom<sup>[※1](#ref-1)</sup>推出后的第二年进公司的吧。
 之后，开发二部跟企划开发本部合并，但是，当时是制作Famicom和Super Famicom<sup>[※4](#ref-4)</sup>的硬件和软件的部门。
 
 ##### 中乡
-对。我是和那个开发二部一起做了和Famicom同时发售的《森喜刚》<sup>[※5](#ref-5)</sup>、《森喜刚Jr.》<sup>[※6](#ref-6)</sup>、《麻将》<sup>[※7](#ref-7)</sup>，以及《森喜刚Jr.的算数游戏》<sup>[※8](#ref-8)</sup>等[各式各样软件](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide001.jpg?width=500&height=380){: .figure-link }。
+对。我是和那个开发二部一起做了和Famicom同时发售的《森喜刚》<sup>[※5](#ref-5)</sup>、《森喜刚Jr.》<sup>[※6](#ref-6)</sup>、《麻将》<sup>[※7](#ref-7)</sup>，以及《森喜刚Jr.的算数游戏》<sup>[※8](#ref-8)</sup>等[各式各样软件](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide001.jpg?width=500&height=380){: .figure-link }。
 
 > ※4　Super Famicom：做为Family Computer的后续机种，1990年11月发售的家用游戏机。
 > {: #ref-4 }
@@ -167,7 +167,7 @@ Famicom<sup>[※1](#ref-1)</sup>推出后的第二年进公司的吧。
 你移植了《森喜刚》，但你却不认识大名鼎鼎的宫本先生吗（笑）？
 
 ##### 中乡
-我是真的不认识他（笑）。我当时还不知道那位是宫本先生。然后他说“下次，我们要一起做[《越野机车》](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide002.jpg?width=400&height=328){: .figure-link }<sup>[※9](#ref-9)</sup>（<span lang="ja">エキサイトバイク</span>），请多关照”。
+我是真的不认识他（笑）。我当时还不知道那位是宫本先生。然后他说“下次，我们要一起做[《越野机车》](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide002.jpg?width=400&height=328){: .figure-link }<sup>[※9](#ref-9)</sup>（<span lang="ja">エキサイトバイク</span>），请多关照”。
 
 > ※9　《越野机车》：1984年11月在Famicom平台发售的横向卷轴赛车游戏。
 > {: #ref-9 }
@@ -175,7 +175,7 @@ Famicom<sup>[※1](#ref-1)</sup>推出后的第二年进公司的吧。
 ##### 岩田
 是《越野机车》啊。那这么算来，你跟宫本先生拍档有几多年呢？
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo3.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo3.jpg" width="250" height="150" %}
 
 ##### 中乡
 超过20年了。
@@ -184,7 +184,7 @@ Famicom<sup>[※1](#ref-1)</sup>推出后的第二年进公司的吧。
 不只20年吧。
 
 ##### 中乡
-嗯，算了一下大概有25年左右吧。而我是同时做那个《越野机车》和[《翻越冰山者》](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide003.jpg?width=400&height=328){: .figure-link }<sup>[※10](#ref-10)</sup>那之后就进入《超级马力欧兄弟》系列，《塞尔达》系列。
+嗯，算了一下大概有25年左右吧。而我是同时做那个《越野机车》和[《翻越冰山者》](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide003.jpg?width=400&height=328){: .figure-link }<sup>[※10](#ref-10)</sup>那之后就进入《超级马力欧兄弟》系列，《塞尔达》系列。
 
 > ※10　《翻越冰山者》：1985年1月在Famicom平台发售的动作游戏。
 > {: #ref-10 }
@@ -193,10 +193,10 @@ Famicom<sup>[※1](#ref-1)</sup>推出后的第二年进公司的吧。
 进到《超级马力欧兄弟》的事情我们等一下再请问你，我和中乡先生是在那之前的时间见过面。
 
 ##### 中乡
-对啊。我印象很深刻，做[《Balloon Fight》](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide004.jpg?width=400&height=328){: .figure-link }<sup>[※11](#ref-11)</sup>时，岩田先生还来帮我们上课。
+对啊。我印象很深刻，做[《Balloon Fight》](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide004.jpg?width=400&height=328){: .figure-link }<sup>[※11](#ref-11)</sup>时，岩田先生还来帮我们上课。
 
 ##### 岩田
-对啊。当时是和Famicom用相同的芯片套，叫做[任天堂Vs. System](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide005.jpg?width=280&height=398){: .figure-link }<sup>[※12](#ref-12)</sup>业务用的基板。
+对啊。当时是和Famicom用相同的芯片套，叫做[任天堂Vs. System](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide005.jpg?width=280&height=398){: .figure-link }<sup>[※12](#ref-12)</sup>业务用的基板。
 
 ##### 中乡
 Vs. System，好怀念的字眼啊（笑）。
@@ -230,7 +230,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 中乡
 对啊，帮了很大的忙。《超级马力欧兄弟》水中的舞台能够移动得很平滑是因为多亏了岩田先生帮我们上这一课。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo4.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo4.jpg" width="250" height="150" %}
 
 ##### 岩田
 我到那个时候之前，虽然身在HAL可以参与到各式各样软件，但是“只有自家的《马力欧》系列，没有参与到”，这是我过去一直这么觉得的事。可是，过去跟中乡先生讲过的事，居然用这样的方法，能间接地参与，和大家扯上一些关连，我知道这个事情时，老实说，有一点高兴呢（笑）。
@@ -256,7 +256,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 众人
 （笑）
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/mainvisual2.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/mainvisual2.jpg" width="768" height="236" %}
 
 ### 2. 连《吃豆人》也不知道
 ##### 岩田
@@ -287,7 +287,7 @@ Vs. System，好怀念的字眼啊（笑）。
 大家都想早点知道手冢先生是什么样人（笑）。
 
 ##### 手冢
-对啊。大家那时还很担心吧（笑）。而那个打工的时候，有[《超级击拳热斗!!》](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide006.jpg?width=300&height=360){: .figure-link }<sup>[※13](#ref-13)</sup>的企划，我帮忙做了位图。
+对啊。大家那时还很担心吧（笑）。而那个打工的时候，有[《超级击拳热斗!!》](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide006.jpg?width=300&height=360){: .figure-link }<sup>[※13](#ref-13)</sup>的企划，我帮忙做了位图。
 
 > ※13　《超级击拳热斗!!》：是《击拳热斗!!》的续作，在1985年发售的业务用动作游戏。
 > {: #ref-13 }
@@ -322,7 +322,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 手冢
 对啊，我不太记得了（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo5.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo5.jpg" width="250" height="150" %}
 
 ##### 岩田
 这真的很像你说的话（笑）。
@@ -381,7 +381,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 岩田
 人生真的很不可思议。如果没有那个偶然的话，宫本先生也不会得到最佳拍档了。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo6.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo6.jpg" width="250" height="150" %}
 
 ##### 手冢
 （笑）
@@ -390,7 +390,7 @@ Vs. System，好怀念的字眼啊（笑）。
 然后，进到任天堂之后，手冢先生跟宫本先生一起最初做的工作是什么呢？
 
 ##### 手冢
-打工时代时做了《超级击拳热斗!!》，成为正式社员后，做的第一个工作是……咦？什么呢……？对对！想起来了，是[《Devil World》](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide007.jpg?width=400&height=275){: .figure-link }<sup>[※14](#ref-14)</sup>。是消除点阵<sup>[※15](#ref-15)</sup>的游戏。
+打工时代时做了《超级击拳热斗!!》，成为正式社员后，做的第一个工作是……咦？什么呢……？对对！想起来了，是[《Devil World》](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide007.jpg?width=400&height=275){: .figure-link }<sup>[※14](#ref-14)</sup>。是消除点阵<sup>[※15](#ref-15)</sup>的游戏。
 
 ##### 岩田
 是《吃豆人》<sup>[※16](#ref-16)</sup>类型的游戏。
@@ -456,7 +456,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 手冢
 是的，没错。虽然是业余爱好者，大家齐心合力，拿出自己的知识和智慧，那个时代的确是这样子的。而且，我也有提出过创意啊。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo7.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo7.jpg" width="250" height="150" %}
 
 ##### 岩田
 那是什么样的创意呢？
@@ -482,14 +482,14 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 手冢
 对呀，真是好可惜（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/mainvisual3.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/mainvisual3.jpg" width="768" height="236" %}
 
 ### 3. 从四角形物体会动时，开始的
 ##### 岩田
 顺道一问，宫本先生，手冢先生和中乡先生你们3人的金三角组合是什么时候诞生的？
 
 ##### 中乡
-[《超级马力欧兄弟》](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide008.jpg?width=400&height=328){: .figure-link }<sup>[※17](#ref-17)</sup>的时候。刚刚也说过，一开始，手冢先生被介绍时，是公司的新进员工，那时手冢先生是……
+[《超级马力欧兄弟》](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide008.jpg?width=400&height=328){: .figure-link }<sup>[※17](#ref-17)</sup>的时候。刚刚也说过，一开始，手冢先生被介绍时，是公司的新进员工，那时手冢先生是……
 
 ##### 手冢
 我是做《Devil World》……
@@ -519,9 +519,9 @@ Vs. System，好怀念的字眼啊（笑）。
 （笑）
 
 ##### 中乡
-就这样子，做出了《越野机车》，那之后同时开始做《超级马力欧兄弟》和[《塞尔达》](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide009.jpg?width=400&height=360){: .figure-link }<sup>[※18](#ref-18)</sup>两个软件。
+就这样子，做出了《越野机车》，那之后同时开始做《超级马力欧兄弟》和[《塞尔达》](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide009.jpg?width=400&height=360){: .figure-link }<sup>[※18](#ref-18)</sup>两个软件。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo8.jpg" alt="" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo8.jpg" alt="" width="250" height="150" %}
 
 ##### 岩田
 对对，那两个软件是同时进行的。这件事，世界上的游戏迷可能不知道，实际上最初《超级马力欧兄弟》和《塞尔达》是由相同的员工同时并行做出来的。虽然现在看来是很难以致信（笑）。
@@ -530,7 +530,7 @@ Vs. System，好怀念的字眼啊（笑）。
 > {: #ref-18 }
 
 ##### 中乡
-偶尔也会调换创意。例如《超级马力欧兄弟》中不是有[火焰棒](https://www.nintendo.co.jp/wii/interview/smnj/vol2/movie/movie001.jpg?width=320&height=280){: .figure-link }吗？
+偶尔也会调换创意。例如《超级马力欧兄弟》中不是有[火焰棒](https://www.nintendo.com/jp/wii/interview/smnj/vol2/movie/movie001.jpg?width=320&height=280){: .figure-link }吗？
 
 ##### 岩田
 从城面出来，朝往酷霸王通路上旋转的火焰棒子。
@@ -589,7 +589,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 岩田
 那是《超级马力欧兄弟》的起源吗？
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo9.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo9.jpg" width="250" height="150" %}
 
 ##### 中乡
 对的。所以我想，那时还不能跳跃。
@@ -610,7 +610,7 @@ Vs. System，好怀念的字眼啊（笑）。
 这种新人去营业部长那里，还看得到营业额资料喔？
 
 ##### 手冢
-中午午休的时候，我常去各式各样的地方和其他部门的人聊天，然后跟他们变成好朋友。然后，那个部长就给我看营业额资料，我才知道[Famicom的《马力欧兄弟》](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide010.jpg?width=400&height=328){: .figure-link }<sup>[※19](#ref-19)</sup>在发售后，即使过了1年以上，还是一直持续地卖得很好。
+中午午休的时候，我常去各式各样的地方和其他部门的人聊天，然后跟他们变成好朋友。然后，那个部长就给我看营业额资料，我才知道[Famicom的《马力欧兄弟》](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide010.jpg?width=400&height=328){: .figure-link }<sup>[※19](#ref-19)</sup>在发售后，即使过了1年以上，还是一直持续地卖得很好。
 
 > ※19　《马力欧兄弟》：大型街机版和Famicom版均在1983年发售的动作游戏。
 > {: #ref-19 }
@@ -627,7 +627,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 手冢
 我猜想大概还有一个想法是，未来要怎么用马力欧。可是，听到那个营业额资料之后，宫本先生大概是更笃定了吧。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo10.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo10.jpg" width="250" height="150" %}
 
 ##### 岩田
 原来如此。然后，四角形的东西变成马力欧时，另一方面，《塞尔达》是以什么样的感觉，开始制作的呢？
@@ -668,7 +668,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 手冢
 （笑）
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/mainvisual4.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/mainvisual4.jpg" width="768" height="236" %}
 
 ### 4. 1日1次的循环，调整地图
 ##### 岩田
@@ -707,7 +707,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 中乡
 所以我说“一定要做那么多吗？”。然而宫本先生说，“途中要做各式各样的事情一个关卡里如果有20个画面的话，也可以”。但是我那时其实无法理解，宫本先生说的意思是什么。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo11.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo11.jpg" width="250" height="150" %}
 
 ##### 岩田
 那时的画面只有出现蓝天、白云和地面，但是宫本先生的脑中已有了各式各样具体的形象。
@@ -769,7 +769,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 岩田
 顺道一提，我很早就听说，做《超级马力欧兄弟》的关卡时，不是从第1面开始做的。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo12.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo12.jpg" width="250" height="150" %}
 
 ##### 中乡
 是的，没错。最初做好的是世界3或世界5。那是最好玩的。虽然好玩，但是对第一次玩的人来说，实在是太困难了，做不来。所以基本上，我们把难度降低一点的面放到比较前面一点。
@@ -819,7 +819,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 岩田
 所以才说，《超级马力欧兄弟》是让许多人都可以接受的作品啊。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/mainvisual5.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/mainvisual5.jpg" width="768" height="236" %}
 
 ### 5. 用一个创意，飞天遁地
 ##### 中乡
@@ -838,7 +838,7 @@ Vs. System，好怀念的字眼啊（笑）。
 是手冢先生想出这个藤蔓的吗？
 
 ##### 手冢
-对啊。就像《杰克与魔豆》（<i>Jack and the Beanstalk</i>）一样，我在想，难道《超级马力欧兄弟》做不到吗？所以，我想“爬上藤蔓，就可以到达天空的世界，那就太好了”，这是我提出来的想法。然后，宫本先生捉住那个创意，帮我们整理出[敲砖块的话，会出现藤蔓](https://www.nintendo.co.jp/wii/interview/smnj/vol2/movie/movie002.jpg?width=320&height=280){: .figure-link }的设计。
+对啊。就像《杰克与魔豆》（<i>Jack and the Beanstalk</i>）一样，我在想，难道《超级马力欧兄弟》做不到吗？所以，我想“爬上藤蔓，就可以到达天空的世界，那就太好了”，这是我提出来的想法。然后，宫本先生捉住那个创意，帮我们整理出[敲砖块的话，会出现藤蔓](https://www.nintendo.com/jp/wii/interview/smnj/vol2/movie/movie002.jpg?width=320&height=280){: .figure-link }的设计。
 
 ##### 岩田
 也就是你们二个人合作的作品啊。
@@ -870,7 +870,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 岩田
 不管放在空中多高的地方，那里有金币，跳到那里准没有错，不会被骗。这一点信念在《超级马力欧兄弟》里是还有的。但是，如果换成是比较恶劣的人来做这个游戏的话，为了要陷害玩家，可能故意放金币，然后，就算是那里有自己很想要的金币，也不会想要飞扑过去吧。但是，《超级马力欧兄弟》的情形是因为有玩家的信赖“我飞扑过去，应该也不会被骗”，所以玩的客人们可以毫不怀疑地回到地上来。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo13.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo13.jpg" width="250" height="150" %}
 
 ##### 手冢
 对的。
@@ -911,7 +911,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 手冢
 对啊。那个时代可以想很多这样的事，所以才是很好玩的时代啊。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo14.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo14.jpg" width="250" height="150" %}
 
 ##### 中乡
 蘑菇啊，花啊，为了节省零件，只画一半，然后把这一半反转过来，和另一半结合在一起显示。
@@ -926,7 +926,7 @@ Vs. System，好怀念的字眼啊（笑）。
 这样做也都是为了节省零件吧。
 
 ##### 手冢
-是的，没错。我们一边节省，一边可以做出很多东西，但是，最后的最后，才制造出[栗宝宝](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide011.jpg?width=200&height=210){: .figure-link }。
+是的，没错。我们一边节省，一边可以做出很多东西，但是，最后的最后，才制造出[栗宝宝](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide011.jpg?width=200&height=210){: .figure-link }。
 
 ##### 岩田
 咦！栗宝宝是最后才制造出来的啊？（笑）
@@ -976,7 +976,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 岩田
 这个冲撃太大。这个我也真的第一次听说（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/mainvisual6.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/mainvisual6.jpg" width="768" height="236" %}
 
 ### 6. 就算完成了《超级马力欧兄弟》
 ##### 岩田
@@ -1033,7 +1033,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 中乡
 做好《超级马力欧兄弟》时，宫本先生还冷冷说了一句，“也只有3个小时可以让你说好高兴、终于做好了”。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo15.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo15.jpg" width="250" height="150" %}
 
 ##### 岩田
 完成好之后，能够高兴的时间也只有3个小时啊（笑）。
@@ -1087,7 +1087,7 @@ Vs. System，好怀念的字眼啊（笑）。
 哦？怎么说呢？你觉得他哪一个地方不可思议呢？
 
 ##### 中乡
-那是在制作[《马力欧3》](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide012.jpg?width=400&height=275){: .figure-link }<sup>[※22](#ref-22)</sup>时的事，不是有[狸猫马力欧](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide013.jpg?width=360&height=360){: .figure-link }吗？
+那是在制作[《马力欧3》](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide012.jpg?width=400&height=275){: .figure-link }<sup>[※22](#ref-22)</sup>时的事，不是有[狸猫马力欧](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide013.jpg?width=360&height=360){: .figure-link }吗？
 
 > ※22　《马力欧3》：《超级马力欧兄弟3》。1988年10月在Famicom平台发售的动作游戏。
 > {: #ref-22 }
@@ -1095,7 +1095,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 岩田
 马力欧有尾巴和耳朵，可以飞上天空。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo16.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo16.jpg" width="250" height="150" %}
 
 ##### 中乡
 最初做那个的时候在设计上，让他在空中一直一直飞。可是，这么一来，做好的地面关卡就全部变成白费工夫，我说“想放弃”。然而，手冢先生很喜欢那个狸猫马力欧。
@@ -1116,13 +1116,13 @@ Vs. System，好怀念的字眼啊（笑）。
 马力欧一直一直飞的话，就不算游戏啦（笑）。
 
 ##### 中乡
-但是手冢先生说“就算是只有这个也好，我很希望要实现这个”。所以，大家决定加上限制，[跑了8个角色身体宽的距离才会飞。](https://www.nintendo.co.jp/wii/interview/smnj/vol2/movie/movie003.jpg?width=320&height=280){: .figure-link }
+但是手冢先生说“就算是只有这个也好，我很希望要实现这个”。所以，大家决定加上限制，[跑了8个角色身体宽的距离才会飞。](https://www.nintendo.com/jp/wii/interview/smnj/vol2/movie/movie003.jpg?width=320&height=280){: .figure-link }
 
 ##### 岩田
 为了要飞上天空需要一定程度的平地吧。
 
 ##### 中乡
-忘记是谁取的名字，我们把它叫做“跑道”。所以，再讨论可以飞的地方，一口气重新做地图，最终的决定是[取得“跳跳龟的翅膀”这个道具的话，可以在关卡一直飞](https://www.nintendo.co.jp/wii/interview/smnj/vol2/movie/movie004.jpg?width=320&height=280){: .figure-link }。
+忘记是谁取的名字，我们把它叫做“跑道”。所以，再讨论可以飞的地方，一口气重新做地图，最终的决定是[取得“跳跳龟的翅膀”这个道具的话，可以在关卡一直飞](https://www.nintendo.com/jp/wii/interview/smnj/vol2/movie/movie004.jpg?width=320&height=280){: .figure-link }。
 
 ##### 岩田
 手冢先生对于“天空”的执着，终于打动了大家吧（笑）。
@@ -1133,7 +1133,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 中乡
 我也觉得这样做是对的。果然有些客人是想用飞的，可以早一点到。而且，《马力欧3》时的“跳跳龟的翅膀”，和这一次《New 超级马力欧兄弟 Wii》的“游戏示范”也有关系。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/mainvisual7.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/mainvisual7.jpg" width="768" height="236" %}
 
 ### 7. 对于骑恐龙图的执念
 ##### 岩田
@@ -1152,7 +1152,7 @@ Vs. System，好怀念的字眼啊（笑）。
 所谓的恐龙是耀西吧？（笑）
 
 ##### 中乡
-是耀西（笑）。可是，那时是骑恐龙图案。然后，在[《马力欧世界》](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide014.jpg?width=320&height=385){: .figure-link }<sup>[※23](#ref-23)</sup>时，第一次骑恐龙。
+是耀西（笑）。可是，那时是骑恐龙图案。然后，在[《马力欧世界》](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide014.jpg?width=320&height=385){: .figure-link }<sup>[※23](#ref-23)</sup>时，第一次骑恐龙。
 
 > ※23　《马力欧世界》：《超级马力欧世界》。1990年11月，和Super Famicom同时发售的动作游戏。系列的第4部作品。
 > {: #ref-23 }
@@ -1182,7 +1182,7 @@ Vs. System，好怀念的字眼啊（笑）。
 对啊。
 
 ##### 中乡
-这件事跟骑耀西是有关联的。可是，没有办法在Famicom上实现。大概在《马力欧3》的时候也是希望由马力欧骑恐龙，但是因为硬件的限制，没有办法做到，所以手冢先生就想利用[狸猫](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide015.jpg?width=320&height=360){: .figure-link }或是，[青蛙](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide016.jpg?width=320&height=360){: .figure-link }等，让马力欧自己可以变得更厉害。
+这件事跟骑耀西是有关联的。可是，没有办法在Famicom上实现。大概在《马力欧3》的时候也是希望由马力欧骑恐龙，但是因为硬件的限制，没有办法做到，所以手冢先生就想利用[狸猫](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide015.jpg?width=320&height=360){: .figure-link }或是，[青蛙](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide016.jpg?width=320&height=360){: .figure-link }等，让马力欧自己可以变得更厉害。
 
 ##### 岩田
 变成狸猫或青蛙，长出尾巴，能够飞上天空，这是因为马力欧不能骑恐龙的关系（笑）。
@@ -1202,7 +1202,7 @@ Vs. System，好怀念的字眼啊（笑）。
 ##### 众人
 （笑）
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo17.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo17.jpg" width="250" height="150" %}
 
 ##### 中乡
 但是手冢先生，当时是这种感觉吧？
@@ -1232,16 +1232,16 @@ Mii也做了很久了呢。
 一发不可收拾啊。
 
 ##### 中乡
-是这样的。然后最后《马力欧兄弟》系统的，全部变成[同1画面对战的迷你游戏。](https://www.nintendo.co.jp/wii/interview/smnj/vol2/movie/movie005.jpg?width=320&height=280){: .figure-link }
+是这样的。然后最后《马力欧兄弟》系统的，全部变成[同1画面对战的迷你游戏。](https://www.nintendo.com/jp/wii/interview/smnj/vol2/movie/movie005.jpg?width=320&height=280){: .figure-link }
 
 ##### 岩田
-所以说，每次发表的主题中，都会有一个这样的事情。我也是很久很久以前，在对宫本先生进行[《星之卡比 超级豪华版》](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide017.jpg?width=320&height=375){: .figure-link }<sup>[※24](#ref-24)</sup>提议时，他“每次用《马力欧》挑战，也做不到，所以我们用《卡比》来试试看复数游戏？”就丢了一个课题给我。
+所以说，每次发表的主题中，都会有一个这样的事情。我也是很久很久以前，在对宫本先生进行[《星之卡比 超级豪华版》](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide017.jpg?width=320&height=375){: .figure-link }<sup>[※24](#ref-24)</sup>提议时，他“每次用《马力欧》挑战，也做不到，所以我们用《卡比》来试试看复数游戏？”就丢了一个课题给我。
 
 ##### 中乡
 本来是去提议的，反被宫本先生提议啊（笑）。
 
 ##### 岩田
-是这样啊。那个源头是当时卡比的导演，[现在做Project Sora的樱井先生](https://web.archive.org/web/2/http://www.project-sora.co.jp/interview/index.html)想出了[两人玩的协助系统](https://www.nintendo.co.jp/wii/interview/smnj/vol2/movie/movie006.jpg?width=320&height=280){: .figure-link }所以才能够实现。
+是这样啊。那个源头是当时卡比的导演，[现在做Project Sora的樱井先生](https://web.archive.org/web/2/http://www.project-sora.co.jp/interview/index.html)想出了[两人玩的协助系统](https://www.nintendo.com/jp/wii/interview/smnj/vol2/movie/movie006.jpg?width=320&height=280){: .figure-link }所以才能够实现。
 
 > ※24　《星之卡比 超级豪华版》：1996年3月发售的Super Famicom软件。在系列中首次实现了2人协力游玩（协助系统）。
 > {: #ref-24 }
@@ -1262,16 +1262,16 @@ Mii也做了很久了呢。
 ##### 中乡
 对的。“如果是这样的话，就算是两个人玩，也可以把画面缩小”。所以，《马力欧世界》的时候，我们花了很多功夫，反复测试关卡的复数游戏，但是处理时间完全不够，因为我们决定骑耀西，所以放弃复数游戏。然后，过了15年左右，因为推出DS，我在想“就是这个啦！”。变成两个画面，然后用复数游戏可以在关卡一起玩，是很好的想法，才开始测试。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo18.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo18.jpg" width="250" height="150" %}
 
 ##### 岩田
-然而，在[DS的《New 马力欧》](https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/slide018.jpg?width=320&height=285){: .figure-link }<sup>[※26](#ref-26)</sup>也无法实现。
+然而，在[DS的《New 马力欧》](https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/slide018.jpg?width=320&height=285){: .figure-link }<sup>[※26](#ref-26)</sup>也无法实现。
 
 > ※26　DS的《New 马力欧》：《New 超级马力欧兄弟》。2006年5月在Nintendo DS平台发售的动作游戏。
 > {: #ref-26 }
 
 ##### 中乡
-是这样的。关卡变得十分复杂，想要去制作，却没办法办到。所以，我们做了专用舞台，做出了[马力欧和路易吉的对战玩法](https://www.nintendo.co.jp/wii/interview/smnj/vol2/movie/movie007.jpg?width=320&height=280){: .figure-link }，做了之后，觉得果然复数游戏很好玩。
+是这样的。关卡变得十分复杂，想要去制作，却没办法办到。所以，我们做了专用舞台，做出了[马力欧和路易吉的对战玩法](https://www.nintendo.com/jp/wii/interview/smnj/vol2/movie/movie007.jpg?width=320&height=280){: .figure-link }，做了之后，觉得果然复数游戏很好玩。
 
 ##### 岩田
 这样一来，这一次的《New 超级马力欧兄弟 Wii》，终于可以实现4人玩法了。
@@ -1306,7 +1306,7 @@ Mii也做了很久了呢。
 ##### 中乡
 真的，我也这么觉得。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/mainvisual8.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/mainvisual8.jpg" width="768" height="236" %}
 
 ### 8. 互相给点子25年
 ##### 岩田
@@ -1357,7 +1357,7 @@ Mii也做了很久了呢。
 ##### 手冢
 是的，没错。如果不做点贡献的话，就真的变成只是来公司玩了。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo19.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo19.jpg" width="250" height="150" %}
 
 ##### 众人
 （笑）
@@ -1404,7 +1404,7 @@ Mii也做了很久了呢。
 ##### 岩田
 自己说的，自己都忘记，手冢先生真的很常说“是这样来着吗？”（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo20.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo20.jpg" width="250" height="150" %}
 
 ##### 中乡
 （笑）。说到这件事，我想起来了，手冢先生，做这一次的《New 超级马力欧兄弟 Wii》，我们讨论过金币吧。
@@ -1437,7 +1437,7 @@ Mii也做了很久了呢。
 哇，高兴得咧（笑）。
 
 ##### 中乡
-然而手冢先生是要来对抗，用POW砖块[让金币一口气落下来](https://www.nintendo.co.jp/wii/interview/smnj/vol2/movie/movie008.jpg?width=384&height=256){: .figure-link }。“对啊，这样才好玩嘛”（笑）。
+然而手冢先生是要来对抗，用POW砖块[让金币一口气落下来](https://www.nintendo.com/jp/wii/interview/smnj/vol2/movie/movie008.jpg?width=384&height=256){: .figure-link }。“对啊，这样才好玩嘛”（笑）。
 
 ##### 手冢
 （笑）
@@ -1460,7 +1460,7 @@ Mii也做了很久了呢。
 ##### 中乡
 如果要说的话，例如，首先最初是宫本先生挖了一个洞，手冢先生适当地填了那个洞，最后是我用滚轮把它压平。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo21.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo21.jpg" width="250" height="150" %}
 
 ##### 岩田
 喔，原来如此。
@@ -1507,7 +1507,7 @@ Mii也做了很久了呢。
 ##### 众人
 （笑）
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/mainvisual9.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/mainvisual9.jpg" width="768" height="236" %}
 
 ### 9. 3人被开发现场吸进去了
 ##### 岩田
@@ -1549,7 +1549,7 @@ Mii也做了很久了呢。
 ##### 手冢
 也不是说新的就是好。这些的事，我们都经历过。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo22.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo22.jpg" width="250" height="150" %}
 
 ##### 岩田
 到目前为止，我们试了许许多多新的东西，在这些东西当中，只有能够超过试验的东西，才能够留下来，我们把这样的东西放到《马力欧》里。
@@ -1611,7 +1611,7 @@ Mii也做了很久了呢。
 ##### 中乡
 晚上很晚才来，站在程序人员的后面，两手交叉一直一直盯着看，说“这里不能变成这样吗？”。那个时候，连我们也没有办法靠近。因为他已进到自己的世界了（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo23.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo23.jpg" width="250" height="150" %}
 
 ##### 众人
 （笑）
@@ -1670,7 +1670,7 @@ Mii也做了很久了呢。
 ##### 手冢
 啊，对啊……因为喜欢才做，所以果然，我们是被吸进去的（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/mainvisual0.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/mainvisual0.jpg" width="768" height="236" %}
 
 ### 10. 玩好几次的话，会有新发现
 ##### 岩田
@@ -1703,7 +1703,7 @@ Mii也做了很久了呢。
 ##### 中乡
 特别宫本先生是这样子，没错。所以，这次的难易度变成是可以享受，希望大家可以实际地感受看看。“这一次是有一点厉害啊”。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo24.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo24.jpg" width="250" height="150" %}
 
 ##### 岩田
 虽然有一点厉害，但是因为有“游戏示范”，初学者也可以安心地玩乐。
@@ -1774,7 +1774,7 @@ Mii也做了很久了呢。
 ##### 手冢
 一般来说，过关后，大家对已经玩过一次的关卡就没有什么兴趣了，但是，对这个游戏，我希望客人同一个关卡，可以多玩几次。而且，你可以发现自己渐渐变得厉害起来。的确有人会觉得“有一点难”，我快50岁了，就连我，也可以玩到最后，如果大家多玩几次的话，我想可以更体会明了全新的《马力欧》。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo25.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo25.jpg" width="250" height="150" %}
 
 ##### 中乡
 52岁的我，也可以玩到最后啊（笑）。
@@ -1791,7 +1791,7 @@ Mii也做了很久了呢。
 ##### 岩田
 然后是，我也想要来说一句。《马力欧》这个王道游戏，它有很大很大的魅力，不只玩的人，就连看的人，也可以看得很开心。这个是从第一代《超级马力欧兄弟》开始，就一直传承下来的传统，这一次是看的人拿了Wii遥控器的话，马上可以参加。所以，首先请先看一看。然后，觉得有意思的话，请一起碰碰看。而且，到目前为止，完全都没有玩过《马力欧》的人，1个人玩的话，当然一开始，某种程度上，可能会觉得很难，我们准备了一些设计，让大家可以进到下一关。有许多人说“我本来跟《马力欧》是没有交集的”，因为这一次的《新 超级马力欧兄弟 Wii》变成跟《马力欧》发生关连了，因此，到目前为止喜欢玩马力欧的人以及第一次玩马力欧的人之间产生了共通的话题，很会玩游戏的人，和不怎么会玩的人，可以在一起玩乐，那是我的梦想。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/smnj/vol2/img/photo26.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/smnj/vol2/img/photo26.jpg" width="250" height="150" %}
 
 ##### 手冢
 也是我的梦想。

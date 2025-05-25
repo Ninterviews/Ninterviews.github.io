@@ -6,16 +6,16 @@ image_width: 1520
 interviewees: 
 - 盐田兴
 - 山下透
-last_modified_at: 2023-10-12 18:12
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/hardware/detail/switch-oled/index.html
+- - https://www.nintendo.com/jp/hardware/detail/switch-oled/index.html
   - Nintendo Switch（OLED款式）官网
 references: 
-- - https://www.nintendo.com.hk/interview/switch-oled/
+- - https://www.nintendo.com/hk/interview/switch-oled/
   - "開發人員的訪談 : Nintendo Switch（OLED款式）"
 sources: 
-- - https://www.nintendo.co.jp/interview/switch-oled/index.html
+- - https://www.nintendo.com/jp/interview/switch-oled/index.html
   - "開発者に訊きました : Nintendo Switch（有機ELモデル）"
 title: 开发人员访谈：Nintendo Switch（OLED款式）
 ---
@@ -32,7 +32,7 @@ title: 开发人员访谈：Nintendo Switch（OLED款式）
 ##### 盐田
 我是技术开发部的负责人盐田，负责开发任天堂的硬件<sup>[※1](#ref-1)</sup>。我进入公司后，一直都参与开发家用游戏机的业务。
 
-在过去“社长提问”的单元里，也曾跟大家谈到[“Wii”](https://www.nintendo.co.jp/wii/topics/interview/vol1/index.html)<sup>[※2](#ref-2)</sup>和[“Wii U”](https://www.nintendo.co.jp/wiiu/interview/hardware/vol1/index.html)<sup>[※3](#ref-3)</sup>，但此前我就一直在开发家用游戏机了。其实我进公司后第一款参与开发的家用游戏机是“New Family Computer（AV端口规格的Family Computer）”<sup>[※4](#ref-4)</sup>呢。
+在过去“社长提问”的单元里，也曾跟大家谈到[“Wii”](https://www.nintendo.com/jp/wii/topics/interview/vol1/index.html)<sup>[※2](#ref-2)</sup>和[“Wii U”](https://www.nintendo.com/jp/wiiu/interview/hardware/vol1/index.html)<sup>[※3](#ref-3)</sup>，但此前我就一直在开发家用游戏机了。其实我进公司后第一款参与开发的家用游戏机是“New Family Computer（AV端口规格的Family Computer）”<sup>[※4](#ref-4)</sup>呢。
 
 我认为似乎是当时公司前辈的背影让我学会“什么是任天堂的研发精神”。
 
@@ -111,7 +111,7 @@ Nintendo Switch发售后，我们不断思考要在OLED款式加入哪些设计�
 
 实际上，在这次新款式发售前，就已经有多个采用这些想法与技术而进行改良的例子。所以我们认为游戏机注定要在发售后不断改良。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/switch-oled/img/01-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/switch-oled/img/01-01.png" width="640" height="360" %}
 
 ##### 注定是个分量很重的词呢。
 {: .question }
@@ -179,7 +179,7 @@ Nintendo Switch发售后，我们不断思考要在OLED款式加入哪些设计�
 ##### 山下
 好的。首先从新采用的OLED显示器说起，除了能展现更鲜明的色彩，显示屏也从6.2英寸增至7英寸。相信只要各位实际拿起OLED款式的主机，马上就能注意到显示屏尺寸变大了。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/switch-oled/img/02-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/switch-oled/img/02-01.png" width="640" height="360" %}
 
 不过，这次款式中最具特色的虽然是OLED显示器，但其实这项技术并不是整个改良开发的主轴。
 
@@ -260,7 +260,7 @@ OLED显示器本身在“Nintendo 3DS”<sup>[※7](#ref-7)</sup>时期就已经
 ##### 盐田
 虽然使用金属的支架后厚度变薄，但面积增加后，即使是采用了较薄的OLED显示器，空间也还是不太够。这部分除了改变显示器显示屏盖板的厚度，也经过支架负责人与显示器负责人双方讨论与最大幅度的妥协、多次的调整，才得以解决。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/switch-oled/img/02-03.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/switch-oled/img/02-03.png" width="640" height="360" %}
 
 ##### 那支架改为金属制后重量会增加吗？
 {: .question }
@@ -398,7 +398,7 @@ OLED显示器本身在“Nintendo 3DS”<sup>[※7](#ref-7)</sup>时期就已经
 ##### 山下
 改到支架的后面了。这样就可以依需求去查看，我个人觉得很满意。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/switch-oled/img/03-02.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/switch-oled/img/03-02.png" width="640" height="360" %}
 
 ##### 看来是山下先生很讲究的重点。
 {: .question }
@@ -406,11 +406,11 @@ OLED显示器本身在“Nintendo 3DS”<sup>[※7](#ref-7)</sup>时期就已经
 ##### 山下
 还有一个很细微的改变，就是Joy-Con握把正中间的标志从印刷改为雕刻了。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/switch-oled/img/03-03.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/switch-oled/img/03-03.png" width="640" height="360" %}
 
 请让我在这边再偷偷宣传一个地方吧（笑）。我们为了尽可能在Joy-Con腕带的设计上下功夫，于是就在系绳里加入白点做了变化。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/switch-oled/img/03-04.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/switch-oled/img/03-04.png" width="640" height="360" %}
 
 另外也改掉了同捆的HDMI线。线变得很柔软，我个人满喜欢这部分。
 
@@ -422,12 +422,12 @@ OLED显示器本身在“Nintendo 3DS”<sup>[※7](#ref-7)</sup>时期就已经
 
 只是刚好与OLED款式在同一个时间点决定采用，因此就一起改了。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/switch-oled/img/03-05.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/switch-oled/img/03-05.png" width="640" height="360" %}
 
 ##### 山下
 接着是底座，先前在背面的盖子上设有双方向的出线口，但似乎很多人都不知道用法……
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/switch-oled/img/03-06.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/switch-oled/img/03-06.png" width="640" height="360" %}
 
 似乎有许多顾客在使用时，会一直开着背面的盖子。
 
@@ -439,7 +439,7 @@ OLED显示器本身在“Nintendo 3DS”<sup>[※7](#ref-7)</sup>时期就已经
 
 这部分不只让它有设计感，也变得更实用。是请设计师重新设计时的重点。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/switch-oled/img/03-07.png" width="" height="" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/switch-oled/img/03-07.png" width="" height="" %}
 
 ##### 毕竟是否便于使用与满意度是息息相关的。
 {: .question }
@@ -498,7 +498,7 @@ Nintendo Switch是“可随身携带的家用游戏机”。既然拥有随身�
 
 不过……这说明实在是太直接了。记得我当初看到产品加上这句话时，真的吓了一跳（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/switch-oled/img/04-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/switch-oled/img/04-01.png" width="640" height="360" %}
 
 ##### 盐田
 也因为耗电量减少了，我们才能成功开发Nintendo Switch Lite这种一开始构想的手提专用款式。
@@ -553,7 +553,7 @@ Joy-Con的模拟操控摇杆并不是使用市面上既有的产品零件，而�
 
 我认为我们的开发人员在构思的时候，总是把任天堂这种运用技术的方法放在心上。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/switch-oled/img/04-02.png" width="" height="" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/switch-oled/img/04-02.png" width="" height="" %}
 
 ##### 用户的意见也会影响上述的过程吗？
 {: .question }

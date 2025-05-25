@@ -1,15 +1,15 @@
 ---
 author: Baidao
 date: 2017-06-29
-image: https://www.nintendo.co.jp/hardware/switch/compare/img/compare_switch.jpg
+image: https://www.nintendo.com/jp/hardware/switch/compare/img/compare_switch.jpg
 image_height: 144
 image_width: 443
 interviewees: 
 - 小泉欢晃
 - 河本浩一
-last_modified_at: 2022-11-07 15:56
+last_modified_at: 2025-05-25 19:10
 sources: 
-- - https://www.nintendo.co.jp/csr/pdf/nintendo_csr2017.pdf
+- - https://www.nintendo.com/jp/csr/pdf/nintendo_csr2017.pdf
   - 任天堂CSRレポート 2017
 title: 挑战创造“前所未有的东西”
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2009-06-04
-image: https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/mainvisual1.jpg
+image: https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/mainvisual1.jpg
 image_height: 236
 image_width: 768
 interviewees: 
@@ -10,16 +10,16 @@ interviewees:
 - 佐藤贤太
 - 宫本茂
 - 岩田聪
-last_modified_at: 2021-06-17 18:04
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/wii/rztj/index.html
+- - https://www.nintendo.com/jp/wii/rztj/index.html
   - 《Wii Sports Resort》官网
 references: 
-- - https://www.nintendo.com.hk/wiisportsresort/wsr_interview_05.html
+- - https://www.nintendo.com/hk/wiisportsresort/wsr_interview_05.html
   - 社長提問『Wii Sports Resort』
 sources: 
-- - https://www.nintendo.co.jp/wii/interview/rztj/vol1/index.html
+- - https://www.nintendo.com/jp/wii/interview/rztj/vol1/index.html
   - 社長が訊く『Wii Sports Resort』
 title: 社长提问《Wii Sports Resort》
 ---
@@ -38,7 +38,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 佐藤
 我是情报开发本部制作部的佐藤。这次的作品中，负责游戏的程序设计。负责的项目是“击剑”和“乒乓球”。在《Wii Sports》<sup>[※1](#ref-1)</sup>中，我担任“网球”的程序设计。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo1.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo1.jpg" width="250" height="150" %}
 
 > ※1　《Wii Sports》：收录“网球”、“棒球”、“保龄球”、“高尔夫球”以及“拳击”等5种运动。2006年12月在日本和Wii主机同步发售。
 > {: #ref-1 }
@@ -51,7 +51,7 @@ title: 社长提问《Wii Sports Resort》
 
 > ※2　“慢跑”：《Wii Fit》中的运动训练项目。玩家可以把Wii遥控器拿在手中，或放在口袋里跑步。
 > {: #ref-2 }
-> {% include image.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo31.jpg" width="150" height="84" %}
+> {% include image.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo31.jpg" width="150" height="84" %}
 
 ##### 岩田
 原来那也是佐藤先生设计的啊。好，那么接下来请堂田先生自我介绍一下。
@@ -65,7 +65,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 堂田
 我记得当时，岩田社长还问我说“真的来得及吗！？”（笑）
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo2.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo2.jpg" width="250" height="150" %}
 
 ##### 岩田
 你回答说“我加油试试吧！”（笑）
@@ -97,7 +97,7 @@ title: 社长提问《Wii Sports Resort》
 > ※3　《用实践锻炼眼力 DS眼力训练》：2007年5月发售的Nintendo DS用的软件。
 > {: #ref-3 }
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo3.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo3.jpg" width="250" height="150" %}
 
 ##### 岩田
 对。他开发那个非常难处理的“陀螺仪感应器”时我听说他费了许多精力。
@@ -111,7 +111,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 山下
 我也同样是制作部的。我是山下。在《Wii Sports》中，负责“棒球”和“拳击”的项目。完成之后，休息了一段时间，参加了“Mii Contest Channel”的研发工作。2008年3月开始参与《Resort》的开发设计。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo4.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo4.jpg" width="250" height="150" %}
 
 ##### 岩田
 好的，多谢你。接下来我想问大家对于Wii动感强化器的印象。听到要开发新的电子装置时，大家是怎么想的呢？
@@ -122,7 +122,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 岩田
 因为你参与了各种实验，所以被征调来《Wii Fit》小组，然后研发设计出“慢跑”运动项目吧<sup>[※4](#ref-4)</sup>。起初我对宫本部长把这个项目列入《Wii Fit》，觉得有点牵强。但是后来想想，把它放在《Wii Fit》里还是对的。
 
-> ※4　详细内容请参照社长提问 Wii Fit Vol.1 “[活用各种各样创意的训练](https://www.nintendo.co.jp/wii/interview/rfnj/vol1/index4.html)”。
+> ※4　详细内容请参照社长提问 Wii Fit Vol.1 “[活用各种各样创意的训练](https://www.nintendo.com/jp/wii/interview/rfnj/vol1/index4.html)”。
 > {: #ref-4 }
 
 ##### 佐藤
@@ -164,7 +164,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 所有人
 （笑）
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo5.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo5.jpg" width="250" height="150" %}
 
 ##### 佐藤
 当时这个新装置还在开发阶段时，最初真的还有很多问题。老实说我的感想是“这个电子装置真的如预期那样地好用吗？”
@@ -184,7 +184,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 岩田
 全新的感触吧！
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo6.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo6.jpg" width="250" height="150" %}
 
 ##### 堂田
 对、对。非常新鲜。
@@ -226,9 +226,9 @@ title: 社长提问《Wii Sports Resort》
 是的。但是加装了Wii动感强化器之后，不管是动、是停，Wii遥控器都能马上完全感应出玩家的姿势是处于何种状态。
 
 ##### 山下
-所以[手中的Wii遥控器一动，画面中的人物也会即时动起来](https://www.nintendo.co.jp/wii/interview/rztj/vol1/movie/movie001.jpgwidth=320&height=280)。手一停，人物也会马上停下来。当看到这个画面效果时，实在太感动了！
+所以[手中的Wii遥控器一动，画面中的人物也会即时动起来](https://www.nintendo.com/jp/wii/interview/rztj/vol1/movie/movie001.jpgwidth=320&height=280)。手一停，人物也会马上停下来。当看到这个画面效果时，实在太感动了！
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/mainvisual2.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/mainvisual2.jpg" width="768" height="236" %}
 
 - **宫本茂**（<span lang="ja">宫本　茂</span>）：任天堂专务取缔役 情报开发本部长。
 
@@ -263,7 +263,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 宫本
 好的。我来说一下。其实这个构想大概早在10年以前就已经开始在想了。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo7.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo7.jpg" width="250" height="150" %}
 
 ##### 岩田
 那么早就开始了啊！
@@ -293,12 +293,12 @@ title: 社长提问《Wii Sports Resort》
 就是那个“Wii Fit岛”吧！在《Wii Sports Resort》中出现的那个岛，跟《Wii Fit》的岛是一样的吧？
 
 ##### 宫本
-对。我们把它取名为“[乌富岛](https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/slide001.jpg?width=400&height=225)”。两个岛的样子大致是一样的。但是对这个岛，我们想要好好地修饰它，让整个岛成为一座度假休闲的岛屿。然后再把舞台变成角色。以后还想陆陆续续推出岛屿度假胜地的系列作品呢！
+对。我们把它取名为“[乌富岛](https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/slide001.jpg?width=400&height=225)”。两个岛的样子大致是一样的。但是对这个岛，我们想要好好地修饰它，让整个岛成为一座度假休闲的岛屿。然后再把舞台变成角色。以后还想陆陆续续推出岛屿度假胜地的系列作品呢！
 
 ##### 岩田
 推出各种系列作品，具体来说，指的是什么呢？
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo8.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo8.jpg" width="250" height="150" %}
 
 ##### 宫本
 比如说，像冒险游戏、角色扮演游戏、土地开发游戏等等。以后陆陆续续能推出各种游戏的话，岂不是很有意思吗？
@@ -330,7 +330,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 岛村
 我也这么想。只要玩过一次《Wii Sports Resort》的话，就会对这个岛屿有整体的地理概念。所以下次买同一系列的新游戏软件时，即使被丢在岛上的哪个地方，也能够马上判断自己现在身处何处。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo9.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo9.jpg" width="250" height="150" %}
 
 ##### 山下
 因此，宫本部长对我们说：“在岛上做个象征、标志吧！”。如果岛上有个象征或是地标的话，就容易辨别现在自己身处何处了。
@@ -374,7 +374,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 所有人
 （笑）
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/mainvisual3.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/mainvisual3.jpg" width="768" height="236" %}
 
 ### 3. 用魔法技术和70人击剑
 ##### 岩田
@@ -413,7 +413,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 宫本
 其实，我早就知道我们的制作小组的实力。我有信心他们一定能完成的。另外，刚才岛村先生也有提到过，最初在Wii软件构想中，早已经有《Wii Sports 2》的构思了。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo10.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo10.jpg" width="250" height="150" %}
 
 ##### 岩田
 在原型实验版《Wii Sports》中，大家做了各种项目的游戏实验。而其中没有用在《Wii Sports》的，就决定把它放在《Wii Sports 2》里面吧。
@@ -437,9 +437,9 @@ title: 社长提问《Wii Sports Resort》
 “水上摩托车”等3种。可是实际上我们也制作了第4种游戏呢！
 
 <table class="figure-table"><tbody><tr>
-<td>{% include figure.html src="https://www.nintendo.com.hk/images/wsr_interview_37.jpg" alt="飞盘狗狗" width="180" height="102" %}</td>
-<td>{% include figure.html src="https://www.nintendo.com.hk/images/wsr_interview_38.jpg" alt="击剑" width="180" height="102" %}</td>
-<td>{% include figure.html src="https://www.nintendo.com.hk/images/wsr_interview_39.jpg" alt="水上摩托车" width="180" height="102" %}</td>
+<td>{% include figure.html src="https://www.nintendo.com/hk/images/wsr_interview_37.jpg" alt="飞盘狗狗" width="180" height="102" %}</td>
+<td>{% include figure.html src="https://www.nintendo.com/hk/images/wsr_interview_38.jpg" alt="击剑" width="180" height="102" %}</td>
+<td>{% include figure.html src="https://www.nintendo.com/hk/images/wsr_interview_39.jpg" alt="水上摩托车" width="180" height="102" %}</td>
 </tr></tbody></table>
 
 ##### 宫本
@@ -452,7 +452,7 @@ title: 社长提问《Wii Sports Resort》
 因为当时还没有把握能实现“射箭”这样的项目。
 
 ##### 岛村
-[意思就是说“射箭”这个游戏的操作方法是把Wii遥控器当做弓，拿在左手](https://www.nintendo.co.jp/wii/interview/rztj/vol1/movie/movie002.jpgwidth=384&height=256)。然后用右手慢慢拉弦，也就是拉“双节棍控制器”的操作。我们只是先试做了。因为拉弓是一种慢动作操作的项目，实际上在游戏的画面操作中，能否准确地表现出来，当时还是未知数。
+[意思就是说“射箭”这个游戏的操作方法是把Wii遥控器当做弓，拿在左手](https://www.nintendo.com/jp/wii/interview/rztj/vol1/movie/movie002.jpgwidth=384&height=256)。然后用右手慢慢拉弦，也就是拉“双节棍控制器”的操作。我们只是先试做了。因为拉弓是一种慢动作操作的项目，实际上在游戏的画面操作中，能否准确地表现出来，当时还是未知数。
 
 ##### 岩田
 这么听起来，意思就是说，那个时候Wii动感强化器虽然能感应到快的动作，但是对于缓慢的动作，还不知道可不可以很准确地能感应到，是吗？
@@ -470,7 +470,7 @@ title: 社长提问《Wii Sports Resort》
 原本“击剑”是拿着Wii遥控器的姿势和画面中的剑是一致的。我们想这个动作比较适合Wii动感强化器所以研发了这个游戏。
 
 ##### 山下
-我们还能够让挥剑这个动作，[在画面中出现瞬间暂停呢](https://www.nintendo.co.jp/wii/interview/rztj/vol1/movie/movie003.jpgwidth=384&height=256)（笑）。所以我们开始做了一些实验，然而，之后的实验中出现了瓶颈……。
+我们还能够让挥剑这个动作，[在画面中出现瞬间暂停呢](https://www.nintendo.com/jp/wii/interview/rztj/vol1/movie/movie003.jpgwidth=384&height=256)（笑）。所以我们开始做了一些实验，然而，之后的实验中出现了瓶颈……。
 
 ##### 岩田
 那是什么样的问题呢？
@@ -484,7 +484,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 佐藤
 是啊。玩了击剑一阵子之后，玩家手中所拿的Wii遥控器的方向和画面中剑出现的方向，会有些偏差。这个问题总是解决不了。这样的话，就无法制作游戏了。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo11.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo11.jpg" width="250" height="150" %}
 
 ##### 山下
 所以我们就讨论、决定，只要挥一次剑，就能击倒对方的游戏。
@@ -519,7 +519,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 岩田
 一个小游戏结束后，重新归零，然后再玩另一个游戏的话，其实还是过得去的。所以我们就说“那个硬件装置和软件游戏配合得真好”。但是，长时间使用的话，就不行了。到现在我还记得这件事情呢。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo12.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo12.jpg" width="250" height="150" %}
 
 ##### 山下
 其实，遇到瓶颈无法突破时，本来想放弃了。但又想到如果请太田先生帮忙的话，或许可能有解决的办法吧。没想到他真的帮我们解决了问题（笑）。
@@ -554,7 +554,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 山下
 另外，因为佐藤先生所开发出来的技术，以及苦思设计游戏规则，最后，玩家可以和70个对手玩击剑的游戏。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/wsr_interview_42.jpg" alt="击剑" width="250" height="141" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/wsr_interview_42.jpg" alt="击剑" width="250" height="141" %}
 
 ##### 岩田
 最初对手只有一个人,而且是只要一挥就倒的游戏。结果能发展到和70人对战啊！？
@@ -571,7 +571,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 所有人
 （笑）
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/mainvisual4.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/mainvisual4.jpg" width="768" height="236" %}
 
 ### 4. 为了营造轻松度假的感觉
 ##### 岩田
@@ -592,7 +592,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 山下
 在《Wii Sports》开始售卖之前，就预定把它和Wii主机同时发售。在当时完全无法预测这个软件到底能卖出多少个？我自己觉得，我们制作了很有趣的作品，这一点是有自信的。所以应该多少能受到玩家们的喜爱吧？但实际上开始销售后，情况比预期的好太多了！所以，在计划要继续做下一集的时候，老实说压力还是很大的。更何况，主流的运动项目能玩的都……。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo13.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo13.jpg" width="250" height="150" %}
 
 ##### 岩田
 全部都设计完了吧？（笑）。
@@ -636,7 +636,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 岛村
 因为上次的《Wii Sports》太有人气、太有名了。如果这次的作品又把它命名为《Wii Sports 2》的话，玩家们可能会想“因为上次卖得好，所以出第2集了”。但是，这次的作品跟上次是截然不同的！因为使用了Wii动感强化器，这种新奇的电子装置，可以实现前所未有的新玩法。所以我们不想把它取名为《2》。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo14.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo14.jpg" width="250" height="150" %}
 
 ##### 山下
 对、对。这次的玩法和上次有很大的不同。
@@ -666,7 +666,7 @@ title: 社长提问《Wii Sports Resort》
 是的。这句话我们经常挂在嘴边啊！还有，也常常说“这个样子，度假感有点不够吧？”（笑）。
 
 ##### 岩田
-度假感……？这么听起来，好像跟以前开发《塞尔达》小组的人一样。他们在开发期间，也常常说“[塞尔达感](https://www.nintendo.co.jp/wii/topics/interview/vol5/index.html)”。我想这一点是相通的（笑）。
+度假感……？这么听起来，好像跟以前开发《塞尔达》小组的人一样。他们在开发期间，也常常说“[塞尔达感](https://www.nintendo.com/jp/wii/topics/interview/vol5/index.html)”。我想这一点是相通的（笑）。
 
 ##### 岛村
 我们也一直在想，怎么营造那个“度假感”？“度假感”这句话，总是挂在嘴边。
@@ -701,7 +701,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 所有人
 （笑）
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo15.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo15.jpg" width="250" height="150" %}
 
 ##### 山下
 他们回答说：“好像有。”
@@ -721,7 +721,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 山下
 所以我们决定把“乒乓球”设计在室外。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/wsr_interview_46.jpg" alt="乒乓球" width="250" height="141" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/wsr_interview_46.jpg" alt="乒乓球" width="250" height="141" %}
 
 ##### 岛村
 在游泳池边打乒乓球的话，很有轻松度假的感觉吧！
@@ -738,7 +738,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 所有人
 （笑）
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/mainvisual5.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/mainvisual5.jpg" width="768" height="236" %}
 
 ### 5. “乒乓球”比“网球”更好
 ##### 岩田
@@ -775,7 +775,7 @@ title: 社长提问《Wii Sports Resort》
 确实没错。其实也可以说，《Wii Sports》以前的网球游戏，在玩的时候，通常是以按钮来操作的。只要挥拍的轨道不同，就可以打出不同方向的抽球。还可以打出吊高球。
 
 ##### 佐藤
-正如社长所说。但是那种比较高难度的操作方法，对有些玩家来说，会觉得要打出不同球路比较困难。所以这次我们的设计，[只要把球拍（也就是遥控器）稍微旋转一下，就能挥出“切球”或“抽球”的效果](https://www.nintendo.co.jp/wii/interview/rztj/vol1/movie/movie004.jpgwidth=384&height=256)。所以这样对初学者来说，更能轻巧上手。而对高手们来说，更是能把自己的球艺和技巧在游戏中展现出来。
+正如社长所说。但是那种比较高难度的操作方法，对有些玩家来说，会觉得要打出不同球路比较困难。所以这次我们的设计，[只要把球拍（也就是遥控器）稍微旋转一下，就能挥出“切球”或“抽球”的效果](https://www.nintendo.com/jp/wii/interview/rztj/vol1/movie/movie004.jpgwidth=384&height=256)。所以这样对初学者来说，更能轻巧上手。而对高手们来说，更是能把自己的球艺和技巧在游戏中展现出来。
 
 ##### 岛村
 还有，我想“乒乓球”本来就是一种比“网球”更具有亲切感的运动项目，不是吗？
@@ -802,12 +802,12 @@ title: 社长提问《Wii Sports Resort》
 对了。你们设计放在游泳池旁边玩“乒乓球”。这样非常有度假的感觉。至于其他的项目呢？有没有也能体验度假感的游戏……？
 
 ##### 岛村
-比如说，玩飞机……我想[“游览飞行”](https://www.nintendo.co.jp/wii/interview/rztj/vol1/movie/movie005.jpgwidth=384&height=256)也能体验到那种感觉。
+比如说，玩飞机……我想[“游览飞行”](https://www.nintendo.com/jp/wii/interview/rztj/vol1/movie/movie005.jpgwidth=384&height=256)也能体验到那种感觉。
 
 ##### 堂田
 原本是设计用滑翔翼来玩的。但我对这个玩法不太赞成。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo16.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo16.jpg" width="250" height="150" %}
 
 ##### 岩田
 为什么不太赞成呢？“滑翔翼”不是也很有度假感吗？
@@ -863,7 +863,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 岛村
 （笑） 。我还记得啊！“花式滑水”是10年以来，“游览飞行”是20年以来的梦想，终于实现了。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/wsr_interview_48.jpg" alt="花式滑水" width="250" height="141" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/wsr_interview_48.jpg" alt="花式滑水" width="250" height="141" %}
 
 ##### 宫本
 真的有那么久了呀……。说到在空中自由飞行这件事，可以说是从《Pilotwings》<sup>[※8](#ref-8)</sup>那个时候就一直想要实现的游戏。
@@ -900,7 +900,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 岛村
 真的。玩这个游戏时，还能体验度假感呢！
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/mainvisual6.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/mainvisual6.jpg" width="768" height="236" %}
 
 ### 6. “你们真是好运啊！”
 ##### 岩田
@@ -910,8 +910,8 @@ title: 社长提问《Wii Sports Resort》
 对，那就是“保龄球”和“高尔夫球”。
 
 <table class="figure-table"><tbody><tr>
-<td>{% include figure.html src="https://www.nintendo.com.hk/images/wsr_interview_49.jpg" alt="保龄球" width="250" height="141" %}</td>
-<td>{% include figure.html src="https://www.nintendo.com.hk/images/wsr_interview_50.jpg" alt="高尔夫球" width="250" height="141" %}</td>
+<td>{% include figure.html src="https://www.nintendo.com/hk/images/wsr_interview_49.jpg" alt="保龄球" width="250" height="141" %}</td>
+<td>{% include figure.html src="https://www.nintendo.com/hk/images/wsr_interview_50.jpg" alt="高尔夫球" width="250" height="141" %}</td>
 </tr></tbody></table>
 
 ##### 岩田
@@ -924,7 +924,7 @@ title: 社长提问《Wii Sports Resort》
 是的。我还记得那个游戏是放在练习模式的地方。在上次的作品里，最后一局的时候只可以投一球吧。
 
 ##### 岛村
-是啊。所以我们就想把它再改良得更精致一些。在这次的游戏中，每局不仅能投两球，而且是一项单独的模式，[一共可以玩10局](https://www.nintendo.co.jp/wii/interview/rztj/vol1/movie/movie006.jpgwidth=384&height=256)。如果以一般的保龄球来计算，最高得分是300分吧。
+是啊。所以我们就想把它再改良得更精致一些。在这次的游戏中，每局不仅能投两球，而且是一项单独的模式，[一共可以玩10局](https://www.nintendo.com/jp/wii/interview/rztj/vol1/movie/movie006.jpgwidth=384&height=256)。如果以一般的保龄球来计算，最高得分是300分吧。
 
 ##### 山下
 但是我们的游戏，最高能得3000分呢！（笑）。因为是以100瓶赛，以最高得分来计算。
@@ -938,7 +938,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 岩田
 所谓的“一体感”是指什么呢？
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo18.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo18.jpg" width="250" height="150" %}
 
 ##### 岛村
 以上次的作品来说，玩家们在画面上可以看到代表自己的Mii（人物）拿着球，按下B键的话，Mii就会自己开始动起来。玩家得配合Mii的动作来投球。但是在这次的新作品中，即使按下B键，玩家没有动作的话，画面中的Mii也不会有任何的动作。意思就是画面的人物会完全配合玩家的一举一动。
@@ -964,7 +964,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 山下
 这是研发小组同事说的。由于遥控器的精准度提高了很多，游戏前虽然没有练习空挥杆，但凭自己的感觉打出的第一球，一般都能飞到自己预想的地方。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo19.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo19.jpg" width="250" height="150" %}
 
 ##### 岛村
 所以我想玩家一定能更确实地体会到新型高尔夫球游戏中，自己的击球在画面里真实地被呈现出来了。换句话说，我想在击球中的不确定因素，大幅降低了很多。
@@ -1003,9 +1003,9 @@ title: 社长提问《Wii Sports Resort》
 也就是从挥动Wii遥控器的速度来分析判断玩家的动作。
 
 ##### 宫本
-但是这样的话，如果突然太用力挥杆的话，对身体也不好。可是如果只能小幅度地挥杆，又会觉得不够力。所以这次我们想设计让玩家能渐渐地用力挥杆。[如果挥打出大幅度的上杆的话，在画面中将可得到“强击球”的评价](https://www.nintendo.co.jp/wii/interview/rztj/vol1/movie/movie007.jpgwidth=384&height=256)。我们想在新游戏中呈现出这种感觉。
+但是这样的话，如果突然太用力挥杆的话，对身体也不好。可是如果只能小幅度地挥杆，又会觉得不够力。所以这次我们想设计让玩家能渐渐地用力挥杆。[如果挥打出大幅度的上杆的话，在画面中将可得到“强击球”的评价](https://www.nintendo.com/jp/wii/interview/rztj/vol1/movie/movie007.jpgwidth=384&height=256)。我们想在新游戏中呈现出这种感觉。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo20.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo20.jpg" width="250" height="150" %}
 
 ##### 岛村
 既然宫本部长在采访中已经发出豪语，那我们也就只得想办法把它做出来了……。
@@ -1058,7 +1058,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 岛村
 我们软件设计小组这边也是为了配合能在圣诞节时发售，所以“高尔夫球”这个项目只预定做9个洞。但是硬件开发那边延期，使我们软件设计这方面也有了多余的时间，所以就决定把“高尔夫球”这个项目增加到18个洞。自从改良完成以后，从其他的成员们得到非常好的评价。其实，打高尔夫球的人都知道，打18洞，标准杆数72杆的常识。所以有的成员打了我们的新作品后，在看成绩时，都说很有真实感。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo21.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo21.jpg" width="250" height="150" %}
 
 ##### 岩田
 因为Wii动感强化器的开发不太顺利，结果延期，但有了意想不到的好结果啊！对了，我想问宫本部长，在当你知道发售日期往后延时，有了多余的时间，那时你有什么想法吗？
@@ -1093,7 +1093,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 宫本
 对啊。大声喊了（笑）。我就想在开发Wii动感强化器时发生延误的情况，对我们软件开发小组反而是“塞翁失马，焉知非福”。我想对从事软件开发工作的人来说，敏捷、快速地判断状况和条件的变化，而且适时地去因应，是非常重要的事啊！
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/mainvisual7.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/mainvisual7.jpg" width="768" height="236" %}
 
 ### 7. 另外再追加的游戏项目
 ##### 岩田
@@ -1138,7 +1138,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 所有人
 （笑）
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo22.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo22.jpg" width="250" height="150" %}
 
 ##### 宫本
 是岩田社长说的啊。社长不是指示“还要再追加1个模式”吗？
@@ -1165,7 +1165,7 @@ title: 社长提问《Wii Sports Resort》
 好吧。先不管我下了什么命令（笑），新的模式是什么呢？
 
 ##### 岛村
-我们设计了[“跳伞”](https://www.nintendo.co.jp/wii/interview/rztj/vol1/movie/movie008.jpgwidth=384&height=256)。
+我们设计了[“跳伞”](https://www.nintendo.com/jp/wii/interview/rztj/vol1/movie/movie008.jpgwidth=384&height=256)。
 
 ##### 山下
 为了决定出新模式，连假日休息也来公司。我、岛村、还有另外1个制作人3个人绞尽脑汁，拼命想“怎么办？”“开发期间太短了！”“到软件调试（Debug）阶段前已经没时间了”等等。想了很多构思，最后决定设计开发“跳伞”这个模式。
@@ -1188,7 +1188,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 岩田
 他们是为了节省时间吧（笑）。他们一定也想到，开发的时间非常有限吧。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo23.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo23.jpg" width="250" height="150" %}
 
 ##### 宫本
 其实，在设计软件以前，应该不要说：“什么、什么做不到，而是应该说如果在这个条件、情况下的话，我们可以做到什么、什么。”这样才对吧。
@@ -1223,7 +1223,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 山下
 “独木舟”的对战模式也是新追加的。原来这个项目里，我们在设计时，犹豫要采取协力方式，还是要用对战方式来玩？虽然对战可以引发玩家们的斗志，但总会有人输吧。用协力方式的话，比较不会有互相仇视、争吵的感觉。所以最后我们决定，以协力方式的玩法来设计独木舟游戏。在年底的时候，已经把它设计到非常精致的地步了。可是……。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/wsr_interview_57.jpg" alt="独木舟" width="250" height="141" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/wsr_interview_57.jpg" alt="独木舟" width="250" height="141" %}
 
 ##### 岩田
 可是什么……？
@@ -1241,7 +1241,7 @@ title: 社长提问《Wii Sports Resort》
 是因为起初就没有以那种方式来构想、设计，是吗？
 
 ##### 山下
-对、对。所以如果要分区成两个画面来玩对战的话，在设计上实在太难了。最后就想[用同一个画面来玩对战](https://www.nintendo.co.jp/wii/interview/rztj/vol1/movie/movie009.jpgwidth=384&height=256)。
+对、对。所以如果要分区成两个画面来玩对战的话，在设计上实在太难了。最后就想[用同一个画面来玩对战](https://www.nintendo.com/jp/wii/interview/rztj/vol1/movie/movie009.jpgwidth=384&height=256)。
 
 ##### 宫本
 我也觉得玩对战的时候，与其用两个画面，不如在同一个画面玩，那会更有意思。看了设计后的新作品，我很满意。
@@ -1252,7 +1252,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 佐藤
 在《Wii Sports Resort》中，大家可以体验那个非常熟悉、而且又容易玩的“乒乓球”。当你玩了“乒乓球”之后，它会让你觉得你好像是超级高手一样。因为我们在“乒乓球”游戏软件中下了很多功夫。即使实际上没有打过乒乓球的人，或者是很有经验的人，都可以非常轻松、愉快地享受这个游戏的乐趣。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo23.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo23.jpg" width="250" height="150" %}
 
 ##### 岩田
 老实说，曾经有一段期间，我真的非常着迷打真正的乒乓球，也正是因为如此，最近我玩这个游戏。尤其是在享受“连续击球”的时候，简直可以达到完全忘我的境界，那种感觉实在太厉害了，非常有真实感。这个游戏让我忘了年龄，热血沸腾啊！好、好。那接下来，再请堂田先生说一下。
@@ -1266,7 +1266,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 堂田
 说到这个，我们小组的一个成员，就因为玩了《Resort》之后，对跳伞产生了兴趣，结果他真的去玩跳伞了。所以我想如果能透过《Resort》的模拟游戏，而对实际的运动产生兴趣的话，那更是我们很乐于见到的事。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo24.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo24.jpg" width="250" height="150" %}
 
 ##### 岩田
 很好。那接下来再请岛村先生说一下。
@@ -1274,7 +1274,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 岛村
 我想这次在新作品《Wii Sports Resort》中，设计了很多既特殊又会让人爱不释手的趣味运动游戏。对每个运动项目都非常热爱的玩家，或许不多。但是我想每个人一定都能发现其中有几项是自己非常喜爱玩的。另外，我对玩家们有一个建议。那就是新作品里有12种运动项目，1个月玩1种的话，可以玩1年。大家可以决定“这个月我一定要把这个项目玩到得心应手”。因为每个项目都值得玩家们好好地、慢慢地去挑战和享受。我们期待大家在家里，或是单身在外的人们，当你和朋友相聚在一起的时候，和大家一同轻松地享受这个运动游戏。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo25.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo25.jpg" width="250" height="150" %}
 
 ##### 岩田
 谢谢你。那么接下来请山下先生说一下。
@@ -1282,7 +1282,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 山下
 我想这次的作品，无形中受到上次作品的影响也挺多的。不过我们一直都以跟上它、超越它的心情来设计这次的作品。当新作品完成后，我们真的可以拍胸膛向所有的玩家们保证说：这次的游戏跟上次的游戏一样，“绝对是非常有意思”。期待大家都来玩玩看。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo26.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo26.jpg" width="250" height="150" %}
 
 ##### 岩田
 好的。那最后请宫本部长来说一下。
@@ -1296,7 +1296,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 宫本
 是啊。如果大家对那个岛屿非常熟悉的话，那下次的游戏会更有趣的（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo27.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo27.jpg" width="250" height="150" %}
 
 ##### 岩田
 （笑）
@@ -1307,7 +1307,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 岩田
 好的。那么最后我想说的就是，这次的《Wii Sports Resort》新作品，我们公司是以非常合理的价格来提供给各位玩家。因为我们希望让2个人以上一起来享受游戏。还有，如果您想再买1个Wii动感强化器时，我们公司也以容易负担的价钱来提供给各位玩家们。最后，在这里我想对已经有Wii主机的玩家们说：如果您不用这个Wii动感强化器的话，那真的太可惜了。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/mainvisual8.jpg" width="768" height="236" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/mainvisual8.jpg" width="768" height="236" %}
 
 ### 番外篇
 ##### 岩田
@@ -1343,7 +1343,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 岛村
 对。我还记得当被说“再追加一个新模式”时，都快晕倒了。还有我总是被部长骂说：“这样做，太差了！不行、不行”、“老是这样，你怎么成得了事啊！”等等。他总是对我这样“忠告”。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo28.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo28.jpg" width="250" height="150" %}
 
 ##### 所有人
 （笑）
@@ -1408,7 +1408,7 @@ title: 社长提问《Wii Sports Resort》
 ##### 山下
 对、对（笑）。那个时候，部长就会一一指正我们“这里不行”“好了、好了。知道了、知道了。(一副不耐烦的样子)”，而且是一个人一小时，一个接着一个去报告。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo29.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo29.jpg" width="250" height="150" %}
 
 ##### 岛村
 有12种、24个模式的游戏，全部要报告完，要花很多时间的！
@@ -1461,6 +1461,6 @@ H先生是担任“射箭”游戏企划的负责人，向来他的射箭技术�
 ##### 岩田
 听起来其实正因为有部长这么严格的要求和指正，所以才能确保情报开发本部的游戏软件的质量啊。今天真的是辛苦各位了。谢谢大家。
 
-{% include figure.html src="https://www.nintendo.co.jp/wii/interview/rztj/vol1/img/photo30.jpg" width="250" height="150" %}
+{% include figure.html src="https://www.nintendo.com/jp/wii/interview/rztj/vol1/img/photo30.jpg" width="250" height="150" %}
 
 {% include subnav.html links="/wii/rvl-026.html,Wii动感强化器|/wii/rztj.html,Wii Sports Resort" %}

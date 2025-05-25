@@ -3,9 +3,9 @@ author: Xzonn
 date: 2022-03-22
 interviewees: 
 - 矢吹光佑
-last_modified_at: 2022-04-14 16:54
+last_modified_at: 2025-05-25 19:10
 links: 
-- - https://www.nintendo.co.jp/switch/aabpa/
+- - https://www.nintendo.com/jp/switch/aabpa/
   - 《马力欧卡丁车8 豪华版》官网
 sources: 
 - - https://www.nikkei.com/article/DGXZQOUF15CLC0V10C22A3000000/

@@ -1,10 +1,10 @@
 ---
 date: 2021-05-26 23:15
-last_modified_at: 2021-05-28 23:28
+last_modified_at: 2025-05-25 19:10
 layout: category_index
 title: Nintendo 3DS
 ---
-{% include figure.html src="https://www.nintendo.co.jp/hardware/3dsseries/img/series_01-img.jpg" width="312" height="287" class="pull-right" %}
+{% include figure.html src="https://www.nintendo.com/jp/hardware/3dsseries/img/series_01-img.jpg" width="312" height="287" class="pull-right" %}
 Nintendo 3DS，是任天堂研发的第八世代掌上游戏机，于2011年2月26日发售，2020年9月停产。其前代机种为Nintendo DS，后继机种为Nintendo Switch Lite。
 
 Nintendo 3DS家族包括：

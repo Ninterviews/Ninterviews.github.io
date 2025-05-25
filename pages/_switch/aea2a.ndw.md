@@ -10,9 +10,9 @@ interviewees:
 - 渡边惠未
 - 蛭子悦延
 - 山本真裕
-last_modified_at: 2022-04-14 20:19
+last_modified_at: 2025-05-25 19:10
 links: 
-- - https://www.nintendo.co.jp/switch/aea2a/index.html
+- - https://www.nintendo.com/jp/switch/aea2a/index.html
   - 《耀西的手工世界》官网
 sources: 
 - - https://www.ndw.jp/yoshi_craft_world-interview/

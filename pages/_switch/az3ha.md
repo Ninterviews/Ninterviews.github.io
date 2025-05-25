@@ -7,16 +7,16 @@ interviewees:
 - 高桥哲哉
 - 小岛幸
 - 横田弦纪
-last_modified_at: 2023-10-12 18:12
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/switch/az3ha/
+- - https://www.nintendo.com/jp/switch/az3ha/
   - 《异度神剑3》官网
 references: 
-- - https://www.nintendo.com.hk/interview/az3ha/
+- - https://www.nintendo.com/hk/interview/az3ha/
   - "開發人員的訪談 異度神劍3"
 sources: 
-- - https://www.nintendo.co.jp/interview/az3ha/
+- - https://www.nintendo.com/jp/interview/az3ha/
   - "開発者に訊きました : ゼノブレイド3"
 title: 开发人员访谈：异度神剑3
 ---
@@ -43,7 +43,7 @@ title: 开发人员访谈：异度神剑3
 ##### 横田
 我是任天堂的横田。头衔同样是制作人与总监，我以任天堂方的项目负责人身份参与了企划立案至完成的过程。简单来说，我是任天堂方的窗口，负责与Monolith Soft讨论游戏的内容。请多指教。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter01-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter01-01.png" width="640" height="360" %}
 
 ##### 谢谢。本次开发“异度神剑”系列的Monolith Soft也将以远程视频的形式参与访谈，希望今天任天堂与Monolith Soft能多多分享对于本作的想法、开发时的小故事，以及开发过程中的失败经验等等。那么，可以请横田先生简单介绍一下“异度神剑”系列吗？
 {: .question }
@@ -100,7 +100,7 @@ title: 开发人员访谈：异度神剑3
 
 不过这次我想尝试从不同的切入点来描写故事。因为我觉得，其实“力量”也有各种形式，不是理念、正义以及大义，就像面子或欲望之类，其实单纯的东西还比较多吧。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter01-02.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter01-02.png" width="640" height="360" %}
 
 ##### 原来是这样。也就是说，是在与理论或道理都说不通的不讲理战斗呢。横田先生在一开始听到这个故事的设置时觉得如何呢？
 {: .question }
@@ -142,7 +142,7 @@ title: 开发人员访谈：异度神剑3
 
 如此一来，一定也能展现出异度神剑的感觉，所以我想把这个故事做到底。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter01-03.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter01-03.png" width="640" height="360" %}
 
 ##### 高桥
 第一作对我来说是一款资优生般的作品。第二作虽然不到资优生的程度，但是相当明亮、清爽的开始……
@@ -156,7 +156,7 @@ title: 开发人员访谈：异度神剑3
 {: .question }
 
 ##### 高桥
-玩家一开始操纵的主角诺亚肩负的职责是[吊祭战场上阵亡士兵的“送行者”](https://www.nintendo.com.hk/interview/az3ha/movie/01.mp4){: .video-link }诺亚透过吊祭思考着各种事物……以角色的定位来说，就是“哲学家”吧。
+玩家一开始操纵的主角诺亚肩负的职责是[吊祭战场上阵亡士兵的“送行者”](https://www.nintendo.com/hk/interview/az3ha/movie/01.mp4){: .video-link }诺亚透过吊祭思考着各种事物……以角色的定位来说，就是“哲学家”吧。
 
 ##### 哲学家吗？
 {: .question }
@@ -205,7 +205,7 @@ RPG的定义是玩家把自己投射在担任主角的角色上，借此进行�
 
 其实在第2款作品时角色也是3组2人搭档，画面显示为6人，但这次是6名角色会独立战斗，而且还有“英雄”这个第7名应战角色。然后敌人也会以复数型态发动袭击。究竟可以同时显示多少人，是否能正常游玩，去验证这些事也是我们这次的其中一项挑战。
 
-##### 说到2人搭档，[这次的战斗系统，其中一项特色就是2名角色会融合的系统](https://www.nintendo.com.hk/interview/az3ha/movie/02.mp4){: .video-link }对吧。
+##### 说到2人搭档，[这次的战斗系统，其中一项特色就是2名角色会融合的系统](https://www.nintendo.com/hk/interview/az3ha/movie/02.mp4){: .video-link }对吧。
 {: .question }
 
 ##### 高桥
@@ -243,7 +243,7 @@ RPG的定义是玩家把自己投射在担任主角的角色上，借此进行�
 
 不过，由于这次的故事内容比以往更严肃一点，所以采用了增加头身数，提高年龄层的设计，服装也配合这次故事的风格，请他不要设计得太华丽花俏……
 
-虽然视觉形象图上穿的是不同服装，但主角们在最一开始登场时都是[各自穿着自己国家的军服](https://www.nintendo.com.hk/interview/az3ha/photo/01.jpg){: .figure-link }。连同这种服装设计的部分在内，我们在视觉上配合严肃的剧情，调整为正经严谨的风格。
+虽然视觉形象图上穿的是不同服装，但主角们在最一开始登场时都是[各自穿着自己国家的军服](https://www.nintendo.com/hk/interview/az3ha/photo/01.jpg){: .figure-link }。连同这种服装设计的部分在内，我们在视觉上配合严肃的剧情，调整为正经严谨的风格。
 
 > ※4　斋藤将嗣。负责《异度神剑2》、《异度神剑3》主要角色设计的自由角色设计师兼插画家。
 > {: #ref-4 }
@@ -260,7 +260,7 @@ RPG的定义是玩家把自己投射在担任主角的角色上，借此进行�
 
 可是，当我们花了一整天，在最后把那些东西拿给高桥先生看时，却得到像是“不对，不是这样。”的答案。就是一直重复这样的过程……
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter02-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter02-01.png" width="640" height="360" %}
 
 ##### 高桥
 在设计诺亚时真的遇到了许多困难。虽然画了各种图给我，但是怎么说呢，总觉得就是不像诺亚……
@@ -273,16 +273,16 @@ RPG的定义是玩家把自己投射在担任主角的角色上，借此进行�
 ##### 高桥
 或是如果设计成气质高贵的角色，又担心台词会不会看起来很目中无人。为了找到“这就是诺亚！”的角色设计方向，真是费了不少苦心呢。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter02-02.jpg" width="640" height="452.5" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter02-02.jpg" width="640" height="452.5" %}
 
 ##### 小岛
 其他角色的话，反而因为在设置角色时已定好种族或体型等外观，所以都是相对顺利地定案。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter02-03.jpg" width="640" height="452.5" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter02-03.jpg" width="640" height="452.5" %}
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter02-04.jpg" width="640" height="452.5" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter02-04.jpg" width="640" height="452.5" %}
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter02-05.jpg" width="640" height="353.7" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter02-05.jpg" width="640" height="353.7" %}
 
 ##### 决定好角色设计后，接着就必须创建角色在游戏里的3D形象了对吧。
 {: .question }
@@ -318,9 +318,9 @@ RPG的定义是玩家把自己投射在担任主角的角色上，借此进行�
 > ※5　在制作3DCG时，用来处理阴影等绘图工作的程序。可在计算机演算下模拟物品的素材或质感，实现多样化的表现手法。
 > {: #ref-5 }
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter02-06.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter02-06.jpg" width="640" height="360" %}
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter02-07.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter02-07.jpg" width="640" height="360" %}
 
 ##### 那么，到目前为止已访问过在视觉方面的坚持，接下来想请教的是在声音制作上的想法。说到声音，本作出现了象征诺亚与弥央的职责“送行者”的道具，也就是笛子对吧。为什么这项道具会是笛子呢？
 {: .question }
@@ -386,9 +386,9 @@ RPG的定义是玩家把自己投射在担任主角的角色上，借此进行�
 ##### 小岛
 就是这些笛子……这是Monolith Soft以实际用于录音为前提设计后，请篠笛的师傅将其制作成笛子，再由漆器的师傅进行装饰的成品。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter02-08.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter02-08.png" width="640" height="360" %}
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter02-09.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter02-09.jpg" width="640" height="360" %}
 
 ##### 哦，这真是……！ 确实跟游戏中出现的诺亚和弥央的笛子如出一辙呢。横田先生听到要从实际制作笛子开始时有什么感想呢？
 {: .question }
@@ -404,7 +404,7 @@ RPG的定义是玩家把自己投射在担任主角的角色上，借此进行�
 ##### 横田
 是的。乐曲也有诺亚和弥央的两种旋律。为此让诺亚的笛子稍大，音色较为低沉。然后弥央的笛子较小，音色较为高亢。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter02-10.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter02-10.jpg" width="640" height="360" %}
 
 ##### 表面的花纹也非常美丽呢。
 {: .question }
@@ -417,13 +417,13 @@ RPG的定义是玩家把自己投射在担任主角的角色上，借此进行�
 ##### 高桥
 诺亚的笛子加入了红色的渐层，而这种渐层似乎很难用漆来呈现。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter02-11.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter02-11.jpg" width="640" height="360" %}
 
 ##### 漆的渐层非常美丽呢。
 {: .question }
 
 ##### 小岛
-[实际在录音时用了这把笛子吹奏，](https://www.nintendo.com.hk/interview/az3ha/movie/03.mp4){: .video-link }所以能在游戏内听到用它演奏的乐曲。
+[实际在录音时用了这把笛子吹奏，](https://www.nintendo.com/hk/interview/az3ha/movie/03.mp4){: .video-link }所以能在游戏内听到用它演奏的乐曲。
 
 ##### 横田
 这次也有加入像广告短曲的简短乐曲，约有140首。
@@ -470,7 +470,7 @@ RPG的定义是玩家把自己投射在担任主角的角色上，借此进行�
 ##### 高桥
 小岛先生总是说事件场景要弄短一点（笑）。
 
-使用了动作捕捉的事件场景，能让角色的表情看起来很丰富。不过，由于无法全都使用动作捕捉来呈现，[为了让人难以感受到使用动作捕捉的场景和其他场景的差异，会在中间夹杂风景，或是有情绪的场景来进行调整，让交接处能自然地连贯起来。](https://www.nintendo.com.hk/interview/az3ha/movie/04.mp4){: .video-link }这是本作在演出中最讲究的一点。
+使用了动作捕捉的事件场景，能让角色的表情看起来很丰富。不过，由于无法全都使用动作捕捉来呈现，[为了让人难以感受到使用动作捕捉的场景和其他场景的差异，会在中间夹杂风景，或是有情绪的场景来进行调整，让交接处能自然地连贯起来。](https://www.nintendo.com/hk/interview/az3ha/movie/04.mp4){: .video-link }这是本作在演出中最讲究的一点。
 
 ##### 确实，能感觉到自然地连接在一起，让人看不出差别的质量呢。
 {: .question }
@@ -548,7 +548,7 @@ RPG是需要一定分量的游戏类别，得有游玩所需的最低限度规�
 ##### 在场所有人
 （笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter03-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter03-01.png" width="640" height="360" %}
 
 ##### 小岛
 不过，在立场上我会说“请减少分量”，但到头来我也是最喜欢有分量的内容啊。而且负责地图和任务的人，也最喜欢有分量的内容了。如此一来，制作人员几乎都喜欢有分量的作品，内容也必然会越来越多了。
@@ -610,10 +610,10 @@ RPG是需要一定分量的游戏类别，得有游玩所需的最低限度规�
 ##### 横田
 铁巨神真的十分巨大，很希望玩家可以在地图中仰望它呢。我偶尔也会在游戏里抬头张望，查找铁巨神在哪里，然后心想：“哇！真的有够巨大！”我到现在还是觉得很惊人（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/az3ha/img/fig_chapter03-02.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/az3ha/img/fig_chapter03-02.png" width="640" height="360" %}
 
 ##### 高桥
-[或者是可以从非常远的地方看见铁巨神殖民地。那真是一幅很美的景色对吧。](https://www.nintendo.com.hk/interview/az3ha/photo/02.png){: .figure-link }
+[或者是可以从非常远的地方看见铁巨神殖民地。那真是一幅很美的景色对吧。](https://www.nintendo.com/hk/interview/az3ha/photo/02.png){: .figure-link }
 
 ##### 横田
 这正是很有“异度神剑感”的地方，希望玩家都能有机会看看。
@@ -626,9 +626,9 @@ RPG是需要一定分量的游戏类别，得有游玩所需的最低限度规�
 
 虽然玩家在游戏里本就需要多方尝试，但要是太容易迷路，难免会造成玩家压力，所以我们便思考有没有什么好办法……
 
-然后就在这次准备了“[导航](https://www.nintendo.com.hk/interview/az3ha/movie/05.mp4){: .video-link }”这个导览功能放进选项里。
+然后就在这次准备了“[导航](https://www.nintendo.com/hk/interview/az3ha/movie/05.mp4){: .video-link }”这个导览功能放进选项里。
 
-我们在《异度神剑X》时虽然也准备了名为“[导航球](https://www.nintendo.com.hk/interview/az3ha/movie/06.mp4){: .video-link }”的相同机制，但还是有玩家表示难以理解。
+我们在《异度神剑X》时虽然也准备了名为“[导航球](https://www.nintendo.com/hk/interview/az3ha/movie/06.mp4){: .video-link }”的相同机制，但还是有玩家表示难以理解。
 
 不过我个人其实也有个疑虑，那就是导览功能在设计上只会让人完全照着导览前进，但明明岔路还有更有趣的游玩内容，不知道这样会不会导致玩家无法体会这些乐趣……
 
@@ -645,7 +645,7 @@ RPG是需要一定分量的游戏类别，得有游玩所需的最低限度规�
 
 不过，对于想快点推进主要剧情的玩家，我认为也应该满足他们的要求。
 
-顺道一提，这项导览功能并非只是指出目的地，[在视觉上也会于目的地显示光柱，](https://www.nintendo.com.hk/interview/az3ha/photo/03.jpg){: .figure-link }让玩家即使在远处也能轻易找寻。
+顺道一提，这项导览功能并非只是指出目的地，[在视觉上也会于目的地显示光柱，](https://www.nintendo.com/hk/interview/az3ha/photo/03.jpg){: .figure-link }让玩家即使在远处也能轻易找寻。
 
 ##### 哦，这的确是很容易辨认呢。不过，反过来说，要是像这样指出下一个目的地，好像也会让玩家更清楚岔路在哪里。而且就算绕道游玩，感觉也较容易返回主要路线。
 {: .question }
@@ -659,11 +659,11 @@ RPG是需要一定分量的游戏类别，得有游玩所需的最低限度规�
 ##### 小岛
 我们所准备的大量殖民地里，也有许多是照着导览推进主要故事的话就不会经过的地方。其实就连“英雄”也有满多是安排在这些岔路上……所以希望玩家都可以走进岔路试着探索看看。
 
-##### 这么说来，在[官方网站](https://www.nintendo.com.hk/switch/az3ha/index.html)上也有介绍到的“英雄”，那究竟是怎样的人物呢？
+##### 这么说来，在[官方网站](https://www.nintendo.com/hk/switch/az3ha/index.html)上也有介绍到的“英雄”，那究竟是怎样的人物呢？
 {: .question }
 
 ##### 横田
-好的。正如刚才已经介绍过的，本作的组队人数基本上是“6”人，但还有[名为英雄的角色](https://www.nintendo.com.hk/interview/az3ha/photo/04.png){: .figure-link }会担任第7名成员，与大家一起战斗。他们人如其名，是在这个世界名声远播的强大人物，对诺亚等人而言是可以依靠的伙伴。
+好的。正如刚才已经介绍过的，本作的组队人数基本上是“6”人，但还有[名为英雄的角色](https://www.nintendo.com/hk/interview/az3ha/photo/04.png){: .figure-link }会担任第7名成员，与大家一起战斗。他们人如其名，是在这个世界名声远播的强大人物，对诺亚等人而言是可以依靠的伙伴。
 
 因为要是每次战斗时都是6人全部参加，就少了可以替换队伍成员的前作特色及乐趣。
 
@@ -684,7 +684,7 @@ RPG是需要一定分量的游戏类别，得有游玩所需的最低限度规�
 {: .question }
 
 ##### 高桥
-答案应该是“训练场”吧。这是我可以充满信心地推荐给大家的游玩内容。这次不只是各角色的技能，还有连击、转换职业等多样化的战斗方式，所以我们设计了一个地方，[让玩家可以在完成课题的过程中分段习得](https://www.nintendo.com.hk/interview/az3ha/movie/07.mp4){: .video-link }每一种战斗方式。即使在游玩主要剧情时遇到“这招之前是怎么施展的啊？”这种不小心忘记的情况，也可以随时从菜单画面切换至训练场，选择想使用的技能或系统练习，然后再立刻返回主要剧情。
+答案应该是“训练场”吧。这是我可以充满信心地推荐给大家的游玩内容。这次不只是各角色的技能，还有连击、转换职业等多样化的战斗方式，所以我们设计了一个地方，[让玩家可以在完成课题的过程中分段习得](https://www.nintendo.com/hk/interview/az3ha/movie/07.mp4){: .video-link }每一种战斗方式。即使在游玩主要剧情时遇到“这招之前是怎么施展的啊？”这种不小心忘记的情况，也可以随时从菜单画面切换至训练场，选择想使用的技能或系统练习，然后再立刻返回主要剧情。
 
 这次我们格外花费较多心思，完整做出了这种让第一次游玩的人不会感到迷惘的设计。
 
@@ -692,7 +692,7 @@ RPG是需要一定分量的游戏类别，得有游玩所需的最低限度规�
 {: .question }
 
 ##### 高桥
-虽然可以用[显示小知识](https://www.nintendo.com.hk/interview/az3ha/movie/08.mp4){: .video-link }的方式，在获得新技能或道具时解释使用方法，但这样子文字信息难免会变得很多。
+虽然可以用[显示小知识](https://www.nintendo.com/hk/interview/az3ha/movie/08.mp4){: .video-link }的方式，在获得新技能或道具时解释使用方法，但这样子文字信息难免会变得很多。
 
 我们认为终究不能只靠文字信息，还是必须经由实际操作来让玩家理解，所以才加入这个设计。因此这是我最想推荐的部分，能让第一次接触游戏的人放心游玩。
 

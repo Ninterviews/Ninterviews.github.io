@@ -7,9 +7,9 @@ image_width: 1000
 interviewees: 
 - 坂本贺勇
 - 浅田诚
-last_modified_at: 2021-06-12 18:44
+last_modified_at: 2025-05-25 19:10
 links: 
-- - https://www.nintendo.co.jp/switch/aw3ca/index.html
+- - https://www.nintendo.com/jp/switch/aw3ca/index.html
   - 《Famicom侦探俱乐部 消失的继承人·站在身后的少女》官网
 - - https://www.famitsu.com/news/202106/12223092.html
   - <span lang="ja">Switch『ファミコン探偵倶楽部』インタビュー。企画の発端から開発中のエピソードを少年探偵ばりに聞く【ネタバレあり】</span>

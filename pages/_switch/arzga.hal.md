@@ -7,9 +7,9 @@ interviewees:
 - 加藤步
 - 下冈优希
 - 熊崎信也
-last_modified_at: 2023-10-12 18:12
+last_modified_at: 2025-05-25 19:10
 links: 
-- - https://www.nintendo.co.jp/switch/arzga/
+- - https://www.nintendo.com/jp/switch/arzga/
   - 《星之卡比 探索发现》官网
 logs: 
 - 2022-04-08：增加“编程篇”。

@@ -9,11 +9,11 @@ interviewees:
 - 平竹晋也
 - 北原有加
 - 村田翔
-last_modified_at: 2022-11-05 00:36
+last_modified_at: 2025-05-25 19:10
 links: 
-- - https://www.nintendo.co.jp/wiiu/akbj/
+- - https://www.nintendo.com/jp/wiiu/akbj/
   - Wii U《前进！奇诺比奥队长》官网
-- - https://www.nintendo.co.jp/switch/ajh9a/
+- - https://www.nintendo.com/jp/switch/ajh9a/
   - Switch&3DS《前进！奇诺比奥队长》官网
 sources: 
 - - https://www.ndw.jp/post-529/

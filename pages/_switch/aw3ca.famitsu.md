@@ -4,9 +4,9 @@ date: 2021-06-12
 interviewees: 
 - 坂本贺勇
 - 浅田诚
-last_modified_at: 2022-04-14 15:54
+last_modified_at: 2025-05-25 19:10
 links: 
-- - https://www.nintendo.co.jp/switch/aw3ca/index.html
+- - https://www.nintendo.com/jp/switch/aw3ca/index.html
   - 《Famicom侦探俱乐部 消失的继承人·站在身后的少女》官网
 sources: 
 - - https://www.famitsu.com/news/202106/12223092.html

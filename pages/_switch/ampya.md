@@ -12,16 +12,16 @@ interviewees:
 - 平向雄高
 - 的场琢
 - 木田充洋
-last_modified_at: 2023-10-12 19:05
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/switch/ampya/
+- - https://www.nintendo.com/jp/switch/ampya/
   - 《皮克敏4》官网
 references: 
-- - https://www.nintendo.com.hk/interview/ampya/
+- - https://www.nintendo.com/hk/interview/ampya/
   - "開發人員訪談: 皮克敏4"
 sources: 
-- - https://www.nintendo.co.jp/interview/ampya/
+- - https://www.nintendo.com/jp/interview/ampya/
   - "開発者に訊きました : ピクミン４"
 title: 开发人员访谈：皮克敏4
 ---
@@ -76,7 +76,7 @@ title: 开发人员访谈：皮克敏4
 ##### 日野
 当时游戏画面打算做成由上往下看的视角，所以设计了从头部就能清楚分辨性别及性格的角色。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter01-01.png" alt="（左）雄性；（右）雌性" width="329" height="200" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter01-01.png" alt="（左）雄性；（右）雌性" width="329" height="200" %}
 
 ##### 这个角色……和现在差很多呢。
 {: .question }
@@ -90,7 +90,7 @@ title: 开发人员访谈：皮克敏4
 ##### 阿部
 是啊。于是森井先生就画了大量的手稿，最后获得全场一致赞同的就是这个。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter01-02.jpg" alt="" width="1785" height="842" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter01-02.jpg" alt="" width="1785" height="842" %}
 
 ##### 这已经很接近现在的皮克敏了。不过头部特征很明显这点还是匹配当初的想法呢。
 {: .question }
@@ -101,7 +101,7 @@ title: 开发人员访谈：皮克敏4
 ##### 宫本
 我莫名地很喜欢这个角色，觉得植物会走路也太棒了吧。那时候我还说“如果它会用头吸水一定很可爱”。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter01-03.jpg" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter01-03.jpg" alt="" width="750" height="422" %}
 
 ##### 这个设计的灵感来自哪里呢？
 {: .question }
@@ -109,7 +109,7 @@ title: 开发人员访谈：皮克敏4
 ##### 森井
 当时的我很喜欢提姆‧波顿<sup>[※3](#ref-3)</sup>笔下的世界，所以想画出可爱中带点黑暗，或是比较严肃的感觉，所以也用这样堆栈凌乱线条的笔触画了素描。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter01-04.jpg" alt="" width="651" height="894" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter01-04.jpg" alt="" width="651" height="894" %}
 
 > ※3　美国电影导演、电影制片人，擅长表现严肃又荒诞的世界观。
 > {: #ref-3 }
@@ -148,7 +148,7 @@ title: 开发人员访谈：皮克敏4
 > {: #ref-52001 }
 
 ##### 宫本
-GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](https://www.nintendo.co.jp/interview/ampya/movie/01.mp4){: .video-link }一样，做出100多只分身之类的。
+GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](https://www.nintendo.com/jp/interview/ampya/movie/01.mp4){: .video-link }一样，做出100多只分身之类的。
 
 ##### 《超级马力欧128》是GameCube发表时的技术展示吧。
 {: .question }
@@ -179,12 +179,12 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 ##### 宫本
 那时候还请制作人员好好做出吞食的画面，被敌人吃的时候不要一口就被吞掉，要一点一点慢慢吃进去之类的……（笑）
 
-还要加上“啊～～”的音效，然后放一些幽灵般的特效，[最后再来个彻底死掉的瞬间。](https://www.nintendo.co.jp/interview/ampya/movie/02.mp4){: .video-link }
+还要加上“啊～～”的音效，然后放一些幽灵般的特效，[最后再来个彻底死掉的瞬间。](https://www.nintendo.com/jp/interview/ampya/movie/02.mp4){: .video-link }
 
 ##### 日野
 原本最后的安排是将打倒的猎物搬回去后，这种生物就会自动繁衍。只是到了制作成商品的前一刻，就连宫本先生也犹豫了，他说“用尸体来增加皮克敏，是不是不太好……”不过我说“都走到这一步了，就冲了吧！”（笑）
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter01-05.jpg" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter01-05.jpg" alt="" width="750" height="422" %}
 
 ##### 宫本
 确实是有闪过“真的要用尸体吗？”的想法（笑）。
@@ -193,7 +193,7 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 {: .question }
 
 ##### 日野
-与其说是生态系统，更准确地说，我们原本就打算做可爱又带点严肃的作品。感觉就像俯瞰著同等的世界一样吧。[敌人的设计也大多是感觉会出现在大自然某个角落的不可思议](https://www.nintendo.co.jp/interview/ampya/movie/03.mp4){: .video-link }角色。
+与其说是生态系统，更准确地说，我们原本就打算做可爱又带点严肃的作品。感觉就像俯瞰著同等的世界一样吧。[敌人的设计也大多是感觉会出现在大自然某个角落的不可思议](https://www.nintendo.com/jp/interview/ampya/movie/03.mp4){: .video-link }角色。
 
 ##### 宫本
 真的充满各种奇特的生物呢。我觉得这款游戏的设计师都非常出色。
@@ -216,7 +216,7 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 ##### 神门
 当时宫本先生将大家零散的想法几乎毫无遗漏地统整起来，最后浓缩成一张游戏流程图。顺带一提，当时我们都叫皮克敏“Piki”或是“Pikki”，所以图上才会这么写。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter01-06.jpg" alt="" width="1280" height="720" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter01-06.jpg" alt="" width="1280" height="720" %}
 
 ##### 这张图……让人很感兴趣呢。
 {: .question }
@@ -264,7 +264,7 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 ##### 阿部
 当初在开发的时候，我们都用“一只、两只……”来计算这个角色的数量。然后当时一起设计程序的Colin先生<sup>[※7](#ref-7)</sup>似乎就以为这个角色名字叫“Piki”了（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter01-07.jpg" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter01-07.jpg" alt="" width="750" height="422" %}
 
 > ※7　Colin Reed，为前任天堂信息开发部的工程师。曾参与Super Famicom游戏软件《星际火狐》及Nintendo DS游戏软件《Metroid Prime Hunters》等作品的开发工作。
 > {: #ref-7 }
@@ -300,7 +300,7 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 ##### 森井
 不过当时的关卡只有一关吧，而且还是为了那次展示专程设计出来的（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter01-08.jpg" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter01-08.jpg" alt="" width="750" height="422" %}
 
 ##### 宫本
 虽然这是狡辩，但我也是知道一定做得出来才决定发表的喔（笑）。因为我们已经订定可以完成的目标了。
@@ -328,7 +328,7 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 
 反复进行同样的游戏操作，在过程中找出属于自己的通关技巧，想办法用更有效率、更高分的方式通关。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter01-09.jpg" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter01-09.jpg" alt="" width="750" height="422" %}
 
 ##### 也就是反复游玩，享受不断超越自己的乐趣对吧。
 {: .question }
@@ -366,7 +366,7 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 
 就像是做家事或做料理，顺手以后就会进一步思考“做事情的顺序”，办事变得越来越熟练又快速的时候也会有种成就感。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter01-10.jpg" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter01-10.jpg" alt="" width="750" height="422" %}
 
 ##### 于是最后才决定以“当多虑”游戏来描述它啊。感觉得出来本系列的每部作品，都非常用心地凸显这种规划管理的乐趣。
 {: .question }
@@ -439,7 +439,7 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 
 当然，本作的设计可以让游玩过前几作的玩家更能享受乐趣，还请放心。至于故事的时间轴就任凭想像了（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter02-01.jpg" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter02-01.jpg" alt="" width="750" height="422" %}
 
 ##### 宫本
 对于我而言，从《皮克敏》到《皮克敏3》已经出了三部系列作，“这么好玩为什么销量没有爆发性的突破？”、“为什么玩家会觉得难度很高？”我一直在思考这些问题。
@@ -471,7 +471,7 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 
 只要保留皮克敏有趣的原点，也就是“游戏深度”，再从功能面去辅助改善“操控难度”的问题，这么一来不就解决了吗？
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter02-02.jpg" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter02-02.jpg" alt="" width="750" height="422" %}
 
 ##### 神门
 于是我们加入了各式各样的辅助功能，让规划当多虑的方式更有弹性。这次完整保留了当多虑要素，但却没有天数限制，因此无论想“玩得深”还是“玩得久”都可以。也就是汲取了第1代和第2代的优点（笑）。
@@ -537,7 +537,7 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 
 另外它还有一个“方便游玩的点”……因为发光皮克敏不会死，所以可以无所顾忌尽量使用。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter02-03.jpg" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter02-03.jpg" alt="" width="750" height="422" %}
 
 ##### 真是极端的性能呢。
 {: .question }
@@ -610,7 +610,7 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 
 游戏中没有从一开始就被固定好的当多虑实施方式，玩家能随着游戏进展，逐步增加可以做的事情，自然而然地提升当多虑等级。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter02-04.jpg" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter02-04.jpg" alt="" width="750" height="422" %}
 
 ##### 宫本
 毕竟皮克敏不是竞争型的游戏。不会出现“用狡猾的方法得到高分，太无耻了！”这种情况。
@@ -679,7 +679,7 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 
 在这样的情况下，我请宫本先生看了试作品后，他表示“感觉还少了点什么”。
 
-[接着，大家看到角色们钻进试作品里的“栈板”模型底下时，光线刚好漂亮地洒了下来……](https://www.nintendo.co.jp/interview/ampya/movie/04.mp4){: .video-link }就在那时，我才总算有了“皮克敏变得好小！”的真实感。
+[接着，大家看到角色们钻进试作品里的“栈板”模型底下时，光线刚好漂亮地洒了下来……](https://www.nintendo.com/jp/interview/ampya/movie/04.mp4){: .video-link }就在那时，我才总算有了“皮克敏变得好小！”的真实感。
 
 ##### 说到这个，从本作已公开的[视频](https://youtu.be/Y5QPpyiWPx8)中也可以感受到这次跟以往不同
 {: .question }
@@ -692,7 +692,7 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 
 我想要适当地表现皮克敏和人工物品的对比，但又不想让它们的尺寸感觉太具体。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter03-01.jpg" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter03-01.jpg" alt="" width="750" height="422" %}
 
 ##### 神门
 是啊。我们很小心地在让人难以掌握皮克敏具体尺寸的情况下，尽可能真实呈现皮克敏的娇小感。
@@ -708,17 +708,17 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 {: .question }
 
 ##### 木田
-其实[以往的皮克敏走路是没有声音的，这是首次挑战发出脚步声。](https://www.nintendo.co.jp/interview/ampya/movie/05.mp4){: .video-link }
+其实[以往的皮克敏走路是没有声音的，这是首次挑战发出脚步声。](https://www.nintendo.com/jp/interview/ampya/movie/05.mp4){: .video-link }
 
 因为我们想让玩家自然体验到“自己正在指挥一大群皮克敏活动”，并乐在其中。
 
-另外，关于皮克敏搬运东西的声音，我们也针对皮克敏数量的多寡、搬运的皮克敏种类、场景是地上还是水中等等[各种情况做了调整](https://www.nintendo.co.jp/interview/ampya/movie/06.mp4){: .video-link }。
+另外，关于皮克敏搬运东西的声音，我们也针对皮克敏数量的多寡、搬运的皮克敏种类、场景是地上还是水中等等[各种情况做了调整](https://www.nintendo.com/jp/interview/ampya/movie/06.mp4){: .video-link }。
 
 我们希望借由音效的呈现，让还没体会到当多虑有趣之处的人，也能在不知不觉中喜欢上当多虑。
 
 ……但其实我一直很担心，要是宫本先生的真心话是“脚步声根本没必要”该怎么办，到现在还是很紧张……
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter03-02.jpg" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter03-02.jpg" alt="" width="750" height="422" %}
 
 ##### 宫本
 不用担心啦！
@@ -775,11 +775,11 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 
 其实现在日本环球影城和好莱坞环球影城里的“Super Famicom世界”里都有皮克敏。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter03-03.jpg" alt="躲藏在环球影城“超级任天堂世界”里的皮克敏（图片由环球影城提供）" width="750" height="500" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter03-03.jpg" alt="躲藏在环球影城“超级任天堂世界”里的皮克敏（图片由环球影城提供）" width="750" height="500" %}
 
 就连官方Nintendo Store里面也有，花瓶简直太适合皮克敏这个角色了（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter03-04.png" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter03-04.png" alt="" width="750" height="422" %}
 
 “下雨的时候那里会不会出现蓝色皮克敏呢……”或是“任天堂本部里是不是有很多皮克敏？”要是皮克敏能像这样出现大家平常的话题中，对我来说就是再高兴不过的事了。
 
@@ -841,4 +841,4 @@ GameCube初期我们也做了很多实验，比如像[《超级马力欧128》](
 ##### 我会和在本作更具亲近感的皮克敏一起在客厅享受当多虑乐趣的。谢谢大家。
 {: .question }
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/ampya/img/fig_chapter03-05.jpg" alt="" width="750" height="422" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/ampya/img/fig_chapter03-05.jpg" alt="" width="750" height="422" %}

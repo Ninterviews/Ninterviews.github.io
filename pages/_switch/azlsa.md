@@ -7,16 +7,16 @@ interviewees:
 - 久保坚太
 - 吉信智章
 - 藤井英树
-last_modified_at: 2023-10-12 18:12
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/switch/azlsa/
+- - https://www.nintendo.com/jp/switch/azlsa/
   - 《灵活脑学校 一起伸展大脑》官网
 references: 
-- - https://www.nintendo.com.hk/interview/azlsa/
+- - https://www.nintendo.com/hk/interview/azlsa/
   - "開發人員的訪談：靈活腦學校 一起伸展大腦"
 sources: 
-- - https://www.nintendo.co.jp/interview/azlsa/index.html
+- - https://www.nintendo.com/jp/interview/azlsa/index.html
   - "開発者に訊きました : やわらかあたま塾 いっしょにあたまのストレッチ"
 title: 开发人员访谈：灵活脑学校 一起伸展大脑
 ---
@@ -93,7 +93,7 @@ title: 开发人员访谈：灵活脑学校 一起伸展大脑
 
 看到孩子们热衷解题的模样，我就觉得这种类型的游戏或许行得通。所以当藤井先生来找我讨论时，我也二话不说就赞成了。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/azlsa/img/fig_chapter01-01.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/azlsa/img/fig_chapter01-01.jpg" width="640" height="360" %}
 
 > ※5　解开谜题活化思路与创造力，由于多湖辉的著作《头脑体操》系列书籍热销，带动许多节目与书籍诞生。
 > {: #ref-5 }
@@ -165,7 +165,7 @@ title: 开发人员访谈：灵活脑学校 一起伸展大脑
 
 所以在调查后，我便决定要以“让幼稚园与小学的孩童及父母能一起开心同乐”的游戏为理想。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/azlsa/img/fig_chapter01-02.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/azlsa/img/fig_chapter01-02.jpg" width="640" height="360" %}
 
 ##### 原来如此，我明白促使两位开发原作的契机了。另外请问担任本次新作监制的久保先生，您是在什么时候接触到《灵活脑学校》的呢？
 {: .question }
@@ -193,7 +193,7 @@ DS版推出时我还是学生。我本身当然也是DS的玩家，也知道有�
 ##### 久保
 玩过DS版与Wii版后，觉得即使对我这个爱好游戏的玩家来说，这也是个非常有挑战性的游戏软件。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/azlsa/img/fig_chapter01-03.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/azlsa/img/fig_chapter01-03.jpg" width="640" height="360" %}
 
 ##### 从身为大人又是深度玩家的久保先生来看，这款游戏软件也充满乐趣是吗？
 {: .question }
@@ -240,7 +240,7 @@ DS版推出时我还是学生。我本身当然也是DS的玩家，也知道有�
 这部分两位没有提出太多意见，给了我许多自由发挥的空间，让我十分感谢。啊，不过……
 
 ##### 吉信
-我们有问他“[秤博士](https://www.nintendo.co.jp/interview/azlsa/movie/01.mp4){: .video-link }呢？”（笑）。
+我们有问他“[秤博士](https://www.nintendo.com/jp/interview/azlsa/movie/01.mp4){: .video-link }呢？”（笑）。
 
 ##### 久保
 我记得吉信先生一开始就问我“秤博士当然一定会出现吧？”。当时游戏的内容都还没定案，根本还没到构思角色的阶段（笑）。
@@ -271,7 +271,7 @@ DS版推出时我还是学生。我本身当然也是DS的玩家，也知道有�
 
 游戏也是一样。于是我与负责音效的人员讨论，改良答错时的音效，减缓否定的意味。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/azlsa/img/fig_chapter02-01.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/azlsa/img/fig_chapter02-01.jpg" width="640" height="360" %}
 
 ##### 这点是不实际看到玩家游玩的状况，就无法发现的呢。另外关于“直接移植过去的内容对幼童而言会太过困难”这一点，具体来说又是进行了什么样的调整呢？
 {: .question }
@@ -314,7 +314,7 @@ Switch版同样也在内部设置了自动调整难易度的功能，并且将�
 {: .question }
 
 ##### 久保
-[之后每次答对题目难易度便会渐渐提升，](https://www.nintendo.co.jp/interview/azlsa/movie/02.mp4){: .video-link }相反地若在中途答错便会稍微降低难易度，让玩家能够更容易解开下一道题目，如果答对了就又再提高难度……
+[之后每次答对题目难易度便会渐渐提升，](https://www.nintendo.com/jp/interview/azlsa/movie/02.mp4){: .video-link }相反地若在中途答错便会稍微降低难易度，让玩家能够更容易解开下一道题目，如果答对了就又再提高难度……
 
 虽然乍看之下只是普通地进行游戏，但在游戏内部其实是“配合每个人适合的难易度”进行出题。
 
@@ -384,7 +384,7 @@ Switch版同样也在内部设置了自动调整难易度的功能，并且将�
 ##### 久保
 两位前辈的脑筋都非常灵活，实在令我感激万分（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/azlsa/img/fig_chapter02-02.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/azlsa/img/fig_chapter02-02.jpg" width="640" height="360" %}
 
 ##### 那么，我想《灵活脑学校一起伸展大脑》应该是一款大人也能开心游玩的游戏软件。而对于大人而言，这款游戏的有趣之处又是什么呢？
 {: .question }
@@ -418,13 +418,13 @@ Switch版同样也在内部设置了自动调整难易度的功能，并且将�
 ##### 久保
 计分系统也是这次《灵活脑学校》非常能令人燃起斗志的要素。刚才也提到我们解析了伸展中出题的机制，而在这过程中我们也发现了游戏内部具有依照玩家解题速度与在不同难易度的答题正确率计算分数的机制。
 
-我想到如果[反过来将分数显示给玩家看，是否能让玩家更有动力追求高分](https://www.nintendo.co.jp/interview/azlsa/photo/03.png){: .figure-link }。
+我想到如果[反过来将分数显示给玩家看，是否能让玩家更有动力追求高分](https://www.nintendo.com/jp/interview/azlsa/photo/03.png){: .figure-link }。
 
 ##### 吉信
 的确，如果在解题时能知道自己现在游玩的难易度，不但更有乐趣，也更能激发玩家向上的动力。
 
 ##### 久保
-像是“下一题就是高级班了”或是“[再答对两题或许就能升上精英班！](https://www.nintendo.co.jp/interview/azlsa/movie/03.mp4){: .video-link }”，我们认为像这样在游玩时边掌握时间与答对的题数，便能让大人也感受到挑战性。
+像是“下一题就是高级班了”或是“[再答对两题或许就能升上精英班！](https://www.nintendo.com/jp/interview/azlsa/movie/03.mp4){: .video-link }”，我们认为像这样在游玩时边掌握时间与答对的题数，便能让大人也感受到挑战性。
 
 ##### 藤井
 重点在于能否激发出玩家不服输的斗志，涌起“再试一次或许就能成功”的动力。
@@ -460,7 +460,7 @@ Switch版同样也在内部设置了自动调整难易度的功能，并且将�
 
 > ※10　马力欧们搭乘赛车奔驰各种不同赛道，竞争名次与完赛时间的动作竞速游戏。1992年于“Super Famicom”发行系列首部作品，之后亦于“Nintendo 64”、“Nintendo DS”、“Wii”、“Nintendo Switch”等不同主机平台推出续作。
 > {: #ref-10 }
-> ※11　使用网络连线功能需成为“[Nintendo Switch Online](https://www.nintendo.com.hk/hardware/switch/onlineservice/)”付费会员，与同一主机的用户（例如一起居住的家人）进行幽灵对战则无须加入会员。
+> ※11　使用网络连线功能需成为“[Nintendo Switch Online](https://www.nintendo.com/hk/hardware/switch/onlineservice/)”付费会员，与同一主机的用户（例如一起居住的家人）进行幽灵对战则无须加入会员。
 > {: #ref-11 }
 
 ##### 一般提到网络对战，通常都会先联想到即时对战，为何您不采用即时对战，而是选择幽灵对战的方式呢？
@@ -505,7 +505,7 @@ Switch版同样也在内部设置了自动调整难易度的功能，并且将�
 ##### 藤井
 没错，大战就开始了（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/azlsa/img/fig_chapter03-01.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/azlsa/img/fig_chapter03-01.jpg" width="640" height="360" %}
 
 ##### 即使家长工作忙碌，也能够与孩子进行幽灵对战，真是不错呢。不用互相约时间，也能享受与家人和朋友对战的乐趣。
 {: .question }
@@ -517,7 +517,7 @@ Switch版同样也在内部设置了自动调整难易度的功能，并且将�
 {: .question }
 
 ##### 久保
-这次玩家可以设置自己[在游戏中的虚拟角色](https://www.nintendo.co.jp/interview/azlsa/photo/04.png){: .figure-link }。
+这次玩家可以设置自己[在游戏中的虚拟角色](https://www.nintendo.com/jp/interview/azlsa/photo/04.png){: .figure-link }。
 
 例如猜谜节目在回答问题时，显示屏也会显示答题者的脸让观众明白是谁在做答对吧？
 
@@ -537,9 +537,9 @@ Switch版同样也在内部设置了自动调整难易度的功能，并且将�
 像是“上班族”VS“老板”……这样的组合也很有趣（笑）。
 
 ##### 久保
-随着玩家游玩主要模式的“伸展”进度，[也能获取衣服或是帽子等服装道具](https://www.nintendo.co.jp/interview/azlsa/photo/05.jpg){: .figure-link }。观赏其他玩家角色的穿搭也是一种乐趣。
+随着玩家游玩主要模式的“伸展”进度，[也能获取衣服或是帽子等服装道具](https://www.nintendo.com/jp/interview/azlsa/photo/05.jpg){: .figure-link }。观赏其他玩家角色的穿搭也是一种乐趣。
 
-开发小组内部也会互相进行幽灵对战，当中有不少人的打扮都非常无厘头……（笑）。我觉得可以[看出各个玩家的“性格”](https://www.nintendo.co.jp/interview/azlsa/photo/06.png){: .figure-link }，非常有趣。
+开发小组内部也会互相进行幽灵对战，当中有不少人的打扮都非常无厘头……（笑）。我觉得可以[看出各个玩家的“性格”](https://www.nintendo.com/jp/interview/azlsa/photo/06.png){: .figure-link }，非常有趣。
 
 ##### 也请您介绍一下其他本作独有的魅力。
 {: .question }
@@ -550,7 +550,7 @@ Switch版同样也在内部设置了自动调整难易度的功能，并且将�
 既然难得有机会，我们就来示范一下吧！那么，藤井先生。请您用转盘随机选择一个小游戏。
 
 ##### 藤井
-哦哦，“[顺序气球](https://www.nintendo.co.jp/interview/azlsa/movie/07.mp4){: .video-link }”！抽到了一个不错的伸展运动！
+哦哦，“[顺序气球](https://www.nintendo.com/jp/interview/azlsa/movie/07.mp4){: .video-link }”！抽到了一个不错的伸展运动！
 
 ##### 吉信
 啊，弄错了！
@@ -564,7 +564,7 @@ Switch版同样也在内部设置了自动调整难易度的功能，并且将�
 ##### 藤井
 这就是这个模式的魅力，面对面用触屏游玩会特别有临场感。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/azlsa/img/fig_chapter03-02.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/azlsa/img/fig_chapter03-02.jpg" width="640" height="360" %}
 
 ##### 吉信
 当我在本作的[初次公开视频](https://www.youtube.com/watch?v=vgfKoworJBw){: .video-link }中，看到出现两人面对面触控游玩同一台Switch时，我简直开心极了。
@@ -605,7 +605,7 @@ Switch版同样也在内部设置了自动调整难易度的功能，并且将�
 ##### 久保
 啊，不对！弄错了！
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/azlsa/img/fig_chapter03-03.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/azlsa/img/fig_chapter03-03.jpg" width="640" height="360" %}
 
 ##### 吉信
 就连大人都会不禁投入得哇哇大叫，这点真的很棒呢～

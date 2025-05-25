@@ -8,9 +8,9 @@ interviewees:
 - 河本浩一
 - 久保坚太
 - 川岛隆太
-last_modified_at: 2021-07-03 15:51
+last_modified_at: 2025-05-25 19:10
 links: 
-- - https://www.nintendo.co.jp/switch/as3ma/index.html
+- - https://www.nintendo.com/jp/switch/as3ma/index.html
   - 《脑科学专家 川岛隆太博士监修 大人的Nintendo Switch脑部锻炼》官网
 sources: 
 - - https://topics.nintendo.co.jp/article/4542c9b8-2170-11ea-b641-063b7ac45a6d
@@ -19,7 +19,7 @@ title: 与川岛教授和开发团队的访谈，Switch的“脑锻炼”。
 ---
 各位读者，大家好。我是作家<span lang="ja">稲葉ほたて</span>。
 
-去年（2019年）12月27日，那个“[**脑锻炼**](https://www.nintendo.co.jp/switch/as3ma/index.html)”终于发售了。  
+去年（2019年）12月27日，那个“[**脑锻炼**](https://www.nintendo.com/jp/switch/as3ma/index.html)”终于发售了。  
 这是一款通过每天游玩来让大脑变得灵活的游戏，这次也有丰富多彩的内容。而且因为是在Nintendo Switch（以下简称Switch）登场，本作也追加了很多活用了Switch功能的各种新训练。
 
 {% include video.html youtube="qyXNiiYOTek" aid="498532420" title="" %}

@@ -1,6 +1,6 @@
 ---
 date: 2006-09-08
-image: https://www.nintendo.com.hk/images/wii_interview_vol1_title.jpg
+image: https://www.nintendo.com/hk/images/wii_interview_vol1_title.jpg
 image_height: 187
 image_width: 760
 interviewees: 
@@ -9,27 +9,27 @@ interviewees:
 - 高本纯治
 - 芦田健一郎
 - 盐田兴
-last_modified_at: 2021-10-08 13:42
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/wii/index.html
+- - https://www.nintendo.com/jp/wii/index.html
   - Wii官网
 references: 
-- - https://www.nintendo.com.hk/wii/wii_interview_vol1_01.html
+- - https://www.nintendo.com/hk/wii/wii_interview_vol1_01.html
   - 社長提問 Ｗｉｉ 企劃 - Vol.1 Ｗｉｉ 主機篇
 sources: 
-- - https://www.nintendo.co.jp/wii/topics/interview/vol1/index.html
+- - https://www.nintendo.com/jp/wii/topics/interview/vol1/index.html
   - 社長が訊く Wii プロジェクト - Vol.1 Wii ハード編
 title: 社长提问 Wii企划 Vol.1 Wii主机篇
 ---
 大家好。我是任天堂的岩田。Wii这种充满新颖提案的主机，到底是从哪儿来的创意开发出来的呢？从今天起，希望通过现场相关开发人员的声音和独特的连载方式（这也许是史无前例的）陆续向大家进行介绍。自己采访自己企业的职员，虽然是种与众不同的尝试，我自己也想通过开发人员的声音，对Wii这种机器诞生的来龙去脉及背景有一个重新的了解和认识。可能还有很多讯息需要通过当事人才能了解，请多多指教。
 
 <table class="figure-table" style="border-spacing: 5px; border-collapse: separate;"><tbody><tr class="text-center">
-<td>{% include image.html src="https://www.nintendo.com.hk/images/intro_p1.jpg" alt="岩田聪" width="123" height="69" %}</td>
-<td>{% include image.html src="https://www.nintendo.com.hk/images/intro_p2.jpg" alt="竹田玄洋" width="122" height="69" %}</td>
-<td>{% include image.html src="https://www.nintendo.com.hk/images/intro_p3.jpg" alt="高本纯治" width="122" height="69" %}</td>
-<td>{% include image.html src="https://www.nintendo.com.hk/images/intro_p4.jpg" alt="芦田健一郎" width="122" height="69" %}</td>
-<td>{% include image.html src="https://www.nintendo.com.hk/images/intro_p5.jpg" alt="盐田兴" width="122" height="69" %}</td>
+<td>{% include image.html src="https://www.nintendo.com/hk/images/intro_p1.jpg" alt="岩田聪" width="123" height="69" %}</td>
+<td>{% include image.html src="https://www.nintendo.com/hk/images/intro_p2.jpg" alt="竹田玄洋" width="122" height="69" %}</td>
+<td>{% include image.html src="https://www.nintendo.com/hk/images/intro_p3.jpg" alt="高本纯治" width="122" height="69" %}</td>
+<td>{% include image.html src="https://www.nintendo.com/hk/images/intro_p4.jpg" alt="芦田健一郎" width="122" height="69" %}</td>
+<td>{% include image.html src="https://www.nintendo.com/hk/images/intro_p5.jpg" alt="盐田兴" width="122" height="69" %}</td>
 </tr><tr style="vertical-align: top; color: var(--color-wii); line-height: 1; font-size: 14px;">
 <td>岩田　聪<br><span class="small">取缔役社长</span></td>
 <td>竹田　玄洋<br><span class="small">专务取缔役<br>综合开发本部长</span></td>
@@ -49,7 +49,7 @@ Wii的开发始于GameCube发布后不久。我们是在一个硬件形成后就
 ##### 岩田
 你认为，为什么会制作出发展规划蓝图中并不存在的机器呢？
 
-{% include figure.html src="https://www.nintendo.com.hk/images/p1.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/p1.jpg" width="167" height="123" %}
 
 ##### 竹田
 这个就要反过来想了，如果只是立足于以往的发展规划，我想只会做出一个“更快、更豪华”的产品。也就是说，朝着快速显示华丽画面的方向发展。但是，这样的发展方向，将会给消费者带来什么样的冲击呢？制作更加豪华产品时的开发人员的辛苦及制作成本、还有消费者产生新鲜感的功效不彰，在开发过程中逐渐体认到上述问题。
@@ -69,7 +69,7 @@ Wii的开发始于GameCube发布后不久。我们是在一个硬件形成后就
 ##### 岩田
 我想，所谓的半导体开发，应该是决定新型机械性能的一个非常重要的因素。请介绍一下Wii开发初期所预测的成品和制作完成后的成品之间所存在的差异或者共同点。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/p4.jpg" width="167" height="212" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/p4.jpg" width="167" height="212" %}
 
 ##### 盐田
 从大体上来说，作为半导体基础部分的要素技术，其实在任何机器上都没有太大的差异。只是该要素技术的使用方式根据各种不同的机械而有所差异。Wii虽然运用了所谓的最尖端的半导体技术，但是，该最尖端技术的使用方式，却与其他机械有着很大的差异。因此，虽然使用最尖端半导体技术的部分与开发初期的预测没有太大的偏离，但使用方式部分却与预测时转变成不同的形式。
@@ -83,7 +83,7 @@ Wii的开发始于GameCube发布后不久。我们是在一个硬件形成后就
 ##### 岩田
 一般而言，没有不接受高性能技术的技术人员。开发过程中，在决定Wii这种机器并不一定朝向高性能方向发展时，对于技术人员来说，是否经历过内心的挣扎呢？
 
-{% include figure.html src="https://www.nintendo.com.hk/images/p16.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/p16.jpg" width="167" height="123" %}
 
 ##### 盐田
 内心的挣扎一定是有的。更坦白地说，也有过不安。要制作与发展规划不同的产品真的需要勇气。尤其对于“这种机器到底具有什么功能？”之类的疑问，在无法看到结果的时候，更是感到非常的不安。我们可以克服耗电量这样的难题。其实，早在开发初期阶段就已经对控制耗电量有一定的目标。即便如此，如果还不能确定此技术可以活用在游戏上的话，内心的不安和挣扎终究无法消失。因此，认定此选择是正确的，还是在“每天都有新鲜事发生的机器”这种Wii理念正式推出后方才得以确信。因为终于实现了可以24小时持续接通电源的目标。
@@ -100,7 +100,7 @@ Wii的开发始于GameCube发布后不久。我们是在一个硬件形成后就
 ##### 盐田
 原因应该是，任天堂这样的企业始终坚持“制作与众不同的产品、制作新型产品”这一理念的结果吧。不仅对内部，在对外其他企业也始终向外界传播这样的讯息，因此，开发合作的企业伙伴也就自然而然地提供新颖技术和设计想法给我们。我想，Wii应该就是在这种“一般思维下无法制作的机器”，的环境中诞生的吧。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/p2.jpg" width="167" height="212" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/p2.jpg" width="167" height="212" %}
 
 ##### 竹田
 当然，在性能方面也不能落后。任何人都可以做到“低功率、低效能”。而“高效能、高功率”则是其他人追求的目标。在这样的环境中，我们却是通过Wii实现了“低功率、高效能”的目标。在技术和性能方面虽然都站在最尖端，但是，我们所追求的目标却是与以往的机器截然不同的。例如，从汽车发展来看，也不是都在一条线上齐头并进的。除了速度上的竞争之外，双能源混合动力车正受到全世界的关注。就至今为止的游戏机发展来说，我想就像引擎马力的竞争一样。但是，并不是所有车辆都会去参加F1赛车比赛吧。
@@ -111,7 +111,7 @@ Wii的开发始于GameCube发布后不久。我们是在一个硬件形成后就
 ##### 竹田
 所谓将最尖端技术使用于前所未有的方向上，在该技术的使用方面，与其说是单纯地追求高性能，倒不如说是具有相当的难度和复杂性，并须要一定的技术能力。Wii在系统方面，也是比任天堂64及GameCube更为复杂的。而且，Wii和GameCube具有兼容性，不仅追求新颖，而且还必须沿用以往的功能。坦白地说，真不是一件容易的事情，感觉就像是凭借着自信，向世人推出这台创新又充满魅力的主机。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/p15.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/p15.jpg" width="167" height="123" %}
 
 ### 2. 一个让人怎么都讨厌不来的设计
 
@@ -136,7 +136,7 @@ Wii的开发始于GameCube发布后不久。我们是在一个硬件形成后就
 ##### 岩田
 虽然说是自己订的目标，不过也不是那么简单就能跨越的门槛吧。请高本先生跟我们分享一下有哪些幕后不为人知的心酸史。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/p6.jpg" width="167" height="212" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/p6.jpg" width="167" height="212" %}
 
 ##### 高本
 最伤脑筋的应该是光驱吧。考虑到外观，还有要抢分其他设备的放置空间的关系，光驱的厚度必须不大于DVD外盒。这是困难度相当高的挑战。更何况机体一变薄，又会发生承受强度的问题。无论Wii的性能再卓越，它仍然是一个娱乐设备，所以让小朋友也能自己动手玩的大前提绝不可废。尤其我们任天堂啊，对于尽量做得不容易坏这点，可是有一套非常严格的标准呢（笑）。为了能兼顾“小巧”和“不容易坏”这两个条件，我们前前后后做了不知多少次，试制品做出来了，就拿去做测试，测试结果NG，那就再想对策解决；对策没找对方向又NG…，就这么一而再、再而三的重复下去。不断的尝试、出错，最后采用机体内部加铺补强板的方式，终于成功地把厚度控制到不大于“3个DVD外盒”的大小。
@@ -150,7 +150,7 @@ Wii的开发始于GameCube发布后不久。我们是在一个硬件形成后就
 ##### 岩田
 说得好。下一位换芦田先生。请先谈谈你负责哪个部分，好吗？
 
-{% include figure.html src="https://www.nintendo.com.hk/images/p17.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/p17.jpg" width="167" height="123" %}
 
 ##### 芦田
 好的。我主要负责Wii主机跟控制器的设计部分，另外也负责外盒包装跟图腾的设计。
@@ -173,7 +173,7 @@ Wii的开发始于GameCube发布后不久。我们是在一个硬件形成后就
 ##### 芦田
 明确订出方向是在想到用主机跟固定座来搭配的时候。一开始，Wii当然已经有做成“2、3个DVD外盒大小”的具体目标。既然是以DVD外盒为准，主机的基本设计架构就是长方形。可是一味固执着要设计成长方形的想法，却让我们遇上了樽颈。毕竟，再怎么弄都只是长方形而已，呵呵。就在这时候，年轻的设计师们突发奇想做了个固定座，跟主机结合起来，于是豁然开朗，我们领悟到就算主机是长方形，还是可以弄成各种不同的新造型。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/p7.jpg" width="167" height="212" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/p7.jpg" width="167" height="212" %}
 
 ##### 岩田
 有没有这个固定座，真的对Wii设计的影响很大，看起来截然不同。
@@ -196,7 +196,7 @@ Wii的开发始于GameCube发布后不久。我们是在一个硬件形成后就
 ##### 高本
 内部软件设计跟外观设计，两者看似独立，其实却是密不可分，可是，大家都花了那么多时间讨论一大堆，怎么没事先告诉大家就要正式发表了（笑）。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/p8.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/p8.jpg" width="167" height="123" %}
 
 ##### 芦田
 哎哟，别这样讲啦，真的很不好意思，嘻嘻。其实我跟高本先生一直以来都是并肩作战的好伙伴。只有那一次，直到发表前都没时间找高本先生跟他提出。
@@ -230,7 +230,7 @@ Wii的开发始于GameCube发布后不久。我们是在一个硬件形成后就
 ##### 岩田
 看来大家都同意，因为已经设定好目标，才会做得到。要是光是拼命往上加规格，大概只会让体积变得更大而已。还不如清楚订出要做成怎样，反过来从“最后就是要这样”的位置倒头往回算，朝着目标前进，才是正确的做法。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/p10.jpg" width="167" height="212" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/p10.jpg" width="167" height="212" %}
 
 ##### 高本
 还有“尽量不去转主机内部散热风扇”的课题，也同样是一开始就设定目标，才能顺利完成。除了LSI（大规模集成电路）小组必须努力抑制IC的发热量，另一方面，设计小组也被要求要考虑到一定的放热性。其实这也是早早就设定了“晚上不转散热风扇”这个明确的目标的关系呢。
@@ -250,7 +250,7 @@ Wii的开发始于GameCube发布后不久。我们是在一个硬件形成后就
 ##### 岩田
 另外我们再来探讨另一个课题，跟“我们想要做什么”的创作目标完全相反，“尽量压低售价”是一个非常现实的课题。在这部分，竹田先生有没有碰到什么样的困难？
 
-{% include figure.html src="https://www.nintendo.com.hk/images/p11.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/p11.jpg" width="167" height="123" %}
 
 ##### 竹田
 这个嘛，从创作的角度来说，Wii“不走大规模”的做法，就已经有集约重点技术的优势部分，所以对于价格方面，我们在起跑点这里并没有太大的困扰，很容易就决定好。但是呢，像固定座、吸入式光驱，这种过去任天堂从来没想过要花钱去做的部分，现在却得拨出经费去处理，就有点棘手了。如同刚刚芦田先生对设计的说明那样，我们期待Wii不只是给小朋友玩的玩具，还要成为一部能联系家庭成员亲情的机器，这是我们的一大目标。因此，从这层意义来说，我们应该要讲究它的外观，呃，也可以说是让它有流行时尚感。总而言之，站在精打细算的立场而言，这里也是两个矛盾的课题，如何取舍真是两难啊，呵呵。
@@ -264,7 +264,7 @@ Wii的开发始于GameCube发布后不久。我们是在一个硬件形成后就
 ##### 芦田
 没错。我们不是想走什么高级路线，应该要朝着“让每个人都想拿起来用”这样的质感方向走，而不是只重视造价便宜这一点，讲得更白一点，就是不要有看起来只像个玩具的廉价感。继续保有玩具的功能性和持久性，但却没有一般玩具的廉价感。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/p12.jpg" width="167" height="212" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/p12.jpg" width="167" height="212" %}
 
 ##### 高本
 呃，我想设计小组对于提高品质这部分，有他们的坚持；相对的，我这个处理内部设计的小组，就该去找到尽量压低成本的方法，事实上，这样分工合作的架构一直都存在的啦，尽管放心（笑）。
@@ -287,7 +287,7 @@ Wii跟以往的游戏机截然不同，相信各位从各大新闻媒体都看�
 ##### 高本
 Wii在设计上特别讲究了该放在家里的哪个位置。我建议Wii要放在你家客厅的中心点，好让全家一起同乐。
 
-{% include figure.html src="https://www.nintendo.com.hk/images/p14.jpg" width="167" height="123" %}
+{% include figure.html src="https://www.nintendo.com/hk/images/p14.jpg" width="167" height="123" %}
 
 ##### 芦田
 嗯，就设计的立场而言，我请读者们别忘了让Wii“站起来”，不要“躺平”！一定要用固定座啊！

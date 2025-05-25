@@ -40,12 +40,12 @@ collections:
     output: true
     sort_by: date
 collections_dir: pages
-default_image: https://www.nintendo.co.jp/img/og_nintendo.png
+default_image: https://www.nintendo.com/jp/img/og_nintendo.png
 defaults:
   - values:
       layout: "default"
       license: "cc-by-nc-sa-4.0"
-      image: https://www.nintendo.co.jp/img/og_nintendo.png
+      image: https://www.nintendo.com/jp/img/og_nintendo.png
       image_width: 1200
       image_height: 630
   - scope:

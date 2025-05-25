@@ -9,16 +9,16 @@ interviewees:
 - 森井淳司
 - 冈根慎治
 - 横山夏子
-last_modified_at: 2023-10-12 18:12
+last_modified_at: 2025-05-25 19:10
 license: official
 links: 
-- - https://www.nintendo.co.jp/switch/as8sa/
+- - https://www.nintendo.com/jp/switch/as8sa/
   - 《Nintendo Switch 运动》官网
 references: 
-- - https://www.nintendo.com.hk/interview/as8sa/
+- - https://www.nintendo.com/hk/interview/as8sa/
   - "開發人員訪談 : Nintendo Switch 運動"
 sources: 
-- - https://www.nintendo.co.jp/interview/as8sa/
+- - https://www.nintendo.com/jp/interview/as8sa/
   - "開発者に訊きました : Nintendo Switch Sports"
 title: 开发人员访谈：Nintendo Switch 运动
 ---
@@ -114,7 +114,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 
 任天堂有很多既有深度又有趣的游戏，我们的任务不就是为了与那些游戏作出差异，尽力消弭入门时的门槛，制作出适合5岁到95岁的商品吗？所以我们决定一切从头来过。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter01-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter01-01.png" width="640" height="360" %}
 
 ##### 原来如此，还真是重大的决定呢。那么在重新开始制作《Wii运动》系列最新的体感游戏续作时，首先作了什么呢？
 {: .question }
@@ -162,7 +162,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 
 起初，在实现体感操作时，我没有意识到Wii和Switch的机械性、构造性差异。但在开发时不断尝试的过程中，我察觉“差异比想像中还大”，结果在这方面也花了一些时间，相当辛苦（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter01-02.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter01-02.png" width="640" height="360" %}
 
 ##### 岛村
 本来还以为不费吹灰之力就能移植……（笑）。
@@ -243,7 +243,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 ##### 山下
 以排球为例，真正的排球在接球时手臂和手腕都不会动。摆好接球姿势后，手的位置就会固定，面对飞过来的球，用膝盖的力量让球反弹。这就是排球原本的接球方式。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter02-01.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter02-01.jpg" width="640" height="360" %}
 
 ##### 原来如此。
 {: .question }
@@ -289,14 +289,14 @@ title: 开发人员访谈：Nintendo Switch 运动
 
 比方说羽球。看似与以往作品的网球很类似。当时网球是用“挥动时机”来判定将球“打回的方向”。早一点挥动的话，球会往左边飞；晚一点挥动的话，球会被打向右边。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter02-02.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter02-02.jpg" width="640" height="360" %}
 
 ##### 山下
 把这个设计套用到羽球上，然后让不知道这个前提的人试玩，结果很多人都反应：“不懂为何挥动的时机会影响球的方向！”
 
 如果像岛村和我一样知道以往作品的设计，就会了解不只是挥动的方向，挥动的时机也会影响羽球飞的方向……但不知道这个前提的人来玩，就会觉得“不对劲”。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter02-03.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter02-03.png" width="640" height="360" %}
 
 ##### 网球也是无法侦测Joy-Con实际挥动的方向，然后照着侦测来决定球打出的方向吗？
 {: .question }
@@ -347,7 +347,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 
 “是这边吧！”“不对，是这边吧？”我们就用这种土法炼钢的方式不断地重复调整。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter02-04.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter02-04.png" width="640" height="360" %}
 
 ##### 但因为这样脚踏实地的努力，才能让刚才说的80～90%达到将近100%吧。
 {: .question }
@@ -393,7 +393,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 
 另外也以大学校际体育赛事做为灵感，试做了这种感觉的学生角色……
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter03-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter03-01.png" width="640" height="360" %}
 
 ##### 岛村
 甚至还出现最跳脱传统的提案，是像机器人一样的角色(笑)。
@@ -401,7 +401,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 ##### 森井
 当时企划案决定重新来过，我听到要以“世上最容易同乐的体感游戏”为重新出发的核心，心想“真的没有如此跳脱传统的可能吗？”于是便提案了（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter03-02.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter03-02.png" width="640" height="360" %}
 
 坐在机器人上面的是玩家，但会随着Joy-Con移动的是下方的机器人。由机器人来打保龄球。
 
@@ -411,7 +411,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 ##### 山下
 没错，操作这个机器人，由机器人丢球，是不是很无厘头？而且，这样一来保龄球馆也必须盖得很大（笑）。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter03-03.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter03-03.png" width="640" height="360" %}
 
 ##### 森井
 大家起初对机器人案都跃跃欲试，说：“啊，这好像很有趣！？”并试作了一次。
@@ -441,7 +441,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 ##### 森井
 因此我们改成有手臂的Sportsmates……
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter03-04.jpg" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter03-04.jpg" width="640" height="360" %}
 
 ##### 哦，而且衣服也很时尚，整体变化很大呢。
 {: .question }
@@ -457,7 +457,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 ##### 森井
 一旦有手臂之后，每种打球的角度都需要个别的动态，移动方向也分往前、斜角、往后等方向，每个方向都需要动画。而且还有走路和跑步之分……作业量逐渐增加了（笑）。程序员和动画师真的相当努力。也因为如此，才能作出优质的成果。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter03-05.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter03-05.png" width="640" height="360" %}
 
 ##### 为了让体感操作能有更直觉的效果，在角色的自然动作上下了不少工夫呢。话说回来，进行各种比赛的舞台设计得如何呢？这部分本次也重新设计了吧？
 {: .question }
@@ -469,7 +469,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 
 也曾实际试作类似职业比赛那种有大量观众的体育场。但总觉得这些都偏离了本作玩家的感受。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter03-06.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter03-06.png" width="640" height="360" %}
 
 ##### 冈根
 山下把这种感觉形容为“链接感”。
@@ -486,7 +486,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 
 相较之下，能轻松自在踏入的体育馆，这种外观时尚，大家都想去的设施不是更好吗？所以我们才会设计出这样的风格。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter03-07.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter03-07.png" width="640" height="360" %}
 
 这是将港口城市的仓库群重新装潢后而成的场所。是个出现在生活中也不奇怪，但又不会过于生活化，保有“如果存在就好了”这种感觉的设施。
 
@@ -494,7 +494,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 
 《Wii运动》强调的是亲朋好友聚在客厅一起玩的概念。但本作不只是能大家一起玩，也可以单人享受线上<sup>[※7](#ref-7)</sup>游戏，因此配合这种玩法的情绪也非常重要。
 
-> ※7　若要使用线上功能，须先加入“[Nintendo Switch Online](https://www.nintendo.com.hk/hardware/switch/onlineservice/)”（付费）。
+> ※7　若要使用线上功能，须先加入“[Nintendo Switch Online](https://www.nintendo.com/hk/hardware/switch/onlineservice/)”（付费）。
 > {: #ref-7 }
 
 ##### 冈根
@@ -552,17 +552,17 @@ title: 开发人员访谈：Nintendo Switch 运动
 ##### 横山
 是的。我们在讨论背景音乐时，也想像了如果是自己在SPOCCO SQUARE这个场所游玩，会想要听到怎样的声音。
 
-[以往作品在运动当下的场景时，基本上没有设置背景音乐](https://www.nintendo.co.jp/interview/as8sa/movie/01.mp4){: .video-link }，这种设计用来营造认真比赛的紧张感确实很有效果。而且没有背景音乐，或许也是为了使体感操作的音效更明显。
+[以往作品在运动当下的场景时，基本上没有设置背景音乐](https://www.nintendo.com/jp/interview/as8sa/movie/01.mp4){: .video-link }，这种设计用来营造认真比赛的紧张感确实很有效果。而且没有背景音乐，或许也是为了使体感操作的音效更明显。
 
 但在这个场所应该要“轻松游玩”，没有背景音乐就太奇怪了。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter03-08.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter03-08.png" width="640" height="360" %}
 
 ##### 如果有背景音乐不仅能更欢乐，还能营造“自然感”呢。
 {: .question }
 
 ##### 横山
-是的。不过如果直接播放背景音乐，就会换成体感操作的音效被盖过去，为了避免这点，我们在各竞技场附近设置喇叭，调整成从喇叭播放背景音乐的形式。这样就能与[音效获取平衡，借由声音营造出真的在这座设施里游玩的氛围。](https://www.nintendo.co.jp/interview/as8sa/movie/02.mp4){: .video-link }
+是的。不过如果直接播放背景音乐，就会换成体感操作的音效被盖过去，为了避免这点，我们在各竞技场附近设置喇叭，调整成从喇叭播放背景音乐的形式。这样就能与[音效获取平衡，借由声音营造出真的在这座设施里游玩的氛围。](https://www.nintendo.com/jp/interview/as8sa/movie/02.mp4){: .video-link }
 
 刚才也有提到加入“一个人玩”的观点，就这方面而言，有没有背景音乐给人的印象也会有很大的不同。提高声音的密度，可以更容易独自重复游玩。
 
@@ -596,7 +596,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 
 一般来说在制作派对游戏时，菜单顺序通常是“与家人一起玩”“与朋友一起玩”“在线上游玩”这样的顺序。
 
-但这次我们想传达“来吧，现在就要上线啰！”希望把那种“隔阂感”消除掉。[因此，变成了这个样子。](https://www.nintendo.co.jp/interview/as8sa/photo/01.png){: .figure-link }
+但这次我们想传达“来吧，现在就要上线啰！”希望把那种“隔阂感”消除掉。[因此，变成了这个样子。](https://www.nintendo.com/jp/interview/as8sa/photo/01.png){: .figure-link }
 
 ##### 森井
 我们没有直接写出“在线上游玩”会是这次的主轴。
@@ -624,19 +624,19 @@ title: 开发人员访谈：Nintendo Switch 运动
 ##### 森井
 游戏中有很多道具，这部分真的做了不少努力……
 
-我们在发售后依然在持续制作，预计发售后的一年之内，[每周都能更新10个左右，让玩家能获取的服装、贴纸和头衔等等物品。](https://www.nintendo.co.jp/interview/as8sa/photo/02.png,03.png,04.png,05.png){: .figure-link }我认为光是搜集这些应该就会很有趣。
+我们在发售后依然在持续制作，预计发售后的一年之内，[每周都能更新10个左右，让玩家能获取的服装、贴纸和头衔等等物品。](https://www.nintendo.com/jp/interview/as8sa/photo/02.png,03.png,04.png,05.png){: .figure-link }我认为光是搜集这些应该就会很有趣。
 
 ##### 山下
 ……话虽如此，还是有些人希望“确认自己有进步”，
 
-因此我们也准备了[“职业联赛”](https://www.nintendo.co.jp/interview/as8sa/photo/06.png,07.png){: .figure-link }。
+因此我们也准备了[“职业联赛”](https://www.nintendo.com/jp/interview/as8sa/photo/06.png,07.png){: .figure-link }。
 
 等到对线上对战稍微习惯之后，就会邀请玩家参加各个项目的联赛，也准备了配合玩家程度的各种等级。
 
 这也是因为很多玩家可能会对一开始就要打职业联赛感到抗拒，所以等玩家有一定能力之后，再自然地引导。
 
 ##### 岛村
-另外还有尝试一个改变，也就是导入[“职业联赛休息”](https://www.nintendo.co.jp/interview/as8sa/photo/08.png){: .figure-link }模式。这种设计在其他游戏应该不常见。
+另外还有尝试一个改变，也就是导入[“职业联赛休息”](https://www.nintendo.com/jp/interview/as8sa/photo/08.png){: .figure-link }模式。这种设计在其他游戏应该不常见。
 
 ##### “休息”吗？这是为什么呢？
 {: .question }
@@ -669,7 +669,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 
 但因为线上有延迟问题，即使侦测到“球拍旋转了”而想改变球路，但这时球可能早就飞到对战对手那里了。这样一来，就不能用相同的设计。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter04-01.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter04-01.png" width="640" height="360" %}
 
 ##### 冈根
 就像这样，不能使用邻近主机对战时提升手感的技巧，所以需要重新思考适合线上对战的判定方式。而且需要调整的地方，也会因项目而异。
@@ -704,12 +704,12 @@ title: 开发人员访谈：Nintendo Switch 运动
 ##### 横山
 哇～！嘿。
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter04-02.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter04-02.png" width="640" height="360" %}
 
 ##### 冈根
 嘿咻……
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter04-03.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter04-03.png" width="640" height="360" %}
 
 ##### 接球时手真的要向上抬呢。
 {: .question }
@@ -723,7 +723,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 ##### 岛村
 我选双剑……我不会输……！
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter04-04.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter04-04.png" width="640" height="360" %}
 
 ##### 森井
 喔，好痛啊。
@@ -733,7 +733,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 
 啊────！！
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter04-05.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter04-05.png" width="640" height="360" %}
 
 ##### 森井
 打完排球接着击剑，运动量很足够呢（笑）。
@@ -750,7 +750,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 ##### 在场所有人
 一、二！
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter04-06.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter04-06.png" width="640" height="360" %}
 
 ##### 哦～好厉害！大家都很拿手。Nice Spare！
 {: .question }
@@ -758,7 +758,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 ##### 岛村
 再来一次。一、二！
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter04-07.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter04-07.png" width="640" height="360" %}
 
 ##### 岛村
 啊，森井，不错喔！
@@ -766,7 +766,7 @@ title: 开发人员访谈：Nintendo Switch 运动
 ##### 森井
 嘿嘿……
 
-{% include figure.html src="https://www.nintendo.co.jp/interview/as8sa/img/fig_chapter04-08.png" width="640" height="360" %}
+{% include figure.html src="https://www.nintendo.com/jp/interview/as8sa/img/fig_chapter04-08.png" width="640" height="360" %}
 
 ##### 仿佛真的到了保龄球馆，站在后面看大家玩球的感觉。充分体会到大家自然而然就能同乐的氛围。谢谢你们。
 

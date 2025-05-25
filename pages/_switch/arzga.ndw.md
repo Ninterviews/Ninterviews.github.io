@@ -6,9 +6,9 @@ interviewees:
 - 神山达哉
 - 远藤裕贵
 - 二宫启
-last_modified_at: 2022-11-02 19:00
+last_modified_at: 2025-05-25 19:10
 links: 
-- - https://www.nintendo.co.jp/switch/arzga/
+- - https://www.nintendo.com/jp/switch/arzga/
   - 《星之卡比 探索发现》官网
 sources: 
 - - https://www.ndw.jp/kirby-interview-220923/
@@ -77,7 +77,7 @@ title: "连草图也会公开！？《星之卡比 探索发现》前往新大�
 ##### 神山
 {: .border-green }
 
-任天堂主页“[社长提问](https://www.nintendo.co.jp/wii/interview/sukj/vol1/)”中也刊登了，“过去也挑战了卡比的3D动作的开发，但是没能顺利进行”在公司内也听到了。从那里一点点开发队积累经验，制作了能挑战3D动作的基础。这次终于把那个整理好了，所以在那个大的项目中，王道的卡比系列第一次被任命为导演。
+任天堂主页“[社长提问](https://www.nintendo.com/jp/wii/interview/sukj/vol1/)”中也刊登了，“过去也挑战了卡比的3D动作的开发，但是没能顺利进行”在公司内也听到了。从那里一点点开发队积累经验，制作了能挑战3D动作的基础。这次终于把那个整理好了，所以在那个大的项目中，王道的卡比系列第一次被任命为导演。
 
 {% include figure.html src="https://www.ndw.jp/ndw/wordpress/wp-content/uploads/2022/08/dis_b.jpg" alt="“社长提问 星之卡比Wii”的幻想作品" width="300" height="217" %}
 
